@@ -85,6 +85,15 @@ def patch_and_format_xml(e_url, new_programs, output="最终_e.xml"):
     with open(output, "wb") as f:
         f.write(pretty_xml)
     print(f"✅ 已生成 XML：{output}")
+    # 过滤空行
+
+    with open(output, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
+    
+    non_empty_lines = [line for line in lines if line.strip()]
+
+    with open(output, 'w', encoding='utf-8') as f:
+        f.writelines(non_empty_lines)
 
 if __name__ == "__main__":
     programs = fetch_tvmao_programs()
