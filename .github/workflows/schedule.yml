@@ -20,6 +20,6 @@ jobs:
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add 最终_e.xml
+        git add epg.xml
         git commit -m "Update schedule $(date -u +'%Y-%m-%d')" || echo "No changes"
         git push
