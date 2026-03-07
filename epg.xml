@@ -729,60 +729,6 @@
   <channel id="五星体育">
     <display-name lang="zh">五星体育</display-name>
   </channel>
-  <programme channel="五星体育" start="20260306120000 +0800" stop="20260306123600 +0800">
-    <title lang="zh">健身时代 精选36分钟</title>
-  </programme>
-  <programme channel="五星体育" start="20260306123600 +0800" stop="20260306130600 +0800">
-    <title lang="zh">棋牌新教室</title>
-  </programme>
-  <programme channel="五星体育" start="20260306130600 +0800" stop="20260306140100 +0800">
-    <title lang="zh">2025-26赛季NBA常规赛:湖人- 勇士</title>
-  </programme>
-  <programme channel="五星体育" start="20260306140100 +0800" stop="20260306140600 +0800">
-    <title lang="zh">健身时代 精选周五</title>
-  </programme>
-  <programme channel="五星体育" start="20260306140600 +0800" stop="20260306153500 +0800">
-    <title lang="zh">2026版-世界杯殿堂1970世界杯</title>
-  </programme>
-  <programme channel="五星体育" start="20260306153500 +0800" stop="20260306160500 +0800">
-    <title lang="zh">2025 世界赛艇锦标赛 各项决赛</title>
-  </programme>
-  <programme channel="五星体育" start="20260306160500 +0800" stop="20260306161900 +0800">
-    <title lang="zh">健身时代 精选周五</title>
-  </programme>
-  <programme channel="五星体育" start="20260306161900 +0800" stop="20260306170000 +0800">
-    <title lang="zh">健身时代 -正气操</title>
-  </programme>
-  <programme channel="五星体育" start="20260306170000 +0800" stop="20260306180000 +0800">
-    <title lang="zh">五星精彩- 弈棋耍大牌 精彩牌局</title>
-  </programme>
-  <programme channel="五星体育" start="20260306180000 +0800" stop="20260306190000 +0800">
-    <title lang="zh">弈棋耍大牌</title>
-  </programme>
-  <programme channel="五星体育" start="20260306190000 +0800" stop="20260306193000 +0800">
-    <title lang="zh">体育新闻</title>
-  </programme>
-  <programme channel="五星体育" start="20260306193000 +0800" stop="20260306202400 +0800">
-    <title lang="zh">2024-25 国际帆船大奖赛 悉尼站</title>
-  </programme>
-  <programme channel="五星体育" start="20260306202400 +0800" stop="20260306212200 +0800">
-    <title lang="zh">2026 中国足球协会超级杯 :上海海港-北京国安</title>
-  </programme>
-  <programme channel="五星体育" start="20260306212200 +0800" stop="20260306215500 +0800">
-    <title lang="zh">2026极速终点线2</title>
-  </programme>
-  <programme channel="五星体育" start="20260306215500 +0800" stop="20260306220000 +0800">
-    <title lang="zh">健身时代 精选周五</title>
-  </programme>
-  <programme channel="五星体育" start="20260306220000 +0800" stop="20260306230000 +0800">
-    <title lang="zh">弈棋耍大牌 -上海三打一</title>
-  </programme>
-  <programme channel="五星体育" start="20260306230000 +0800" stop="20260306235200 +0800">
-    <title lang="zh">2025 国际马联浪琴国家联赛 巴塞罗那站</title>
-  </programme>
-  <programme channel="五星体育" start="20260306235200 +0800" stop="20260307120000 +0800">
-    <title lang="zh">2025世界 斯诺克上海大师赛 半决赛上:威尔逊-赵心童</title>
-  </programme>
   <programme channel="五星体育" start="20260307120000 +0800" stop="20260307125000 +0800">
     <title lang="zh">2025-26雪盟职业联赛中国站单板 滑雪 比赛集锦</title>
   </programme>
@@ -867,8 +813,59 @@
   <programme channel="五星体育" start="20260308233500 +0800" stop="20260308235500 +0800">
     <title lang="zh">健身时代</title>
   </programme>
-  <programme channel="五星体育" start="20260308235500 +0800" stop="20260309002500 +0800">
+  <programme channel="五星体育" start="20260308235500 +0800" stop="20260309120000 +0800">
     <title lang="zh">2025世界 斯诺克上海大师赛 决赛:卡特-威尔逊</title>
+  </programme>
+  <programme channel="五星体育" start="20260309120000 +0800" stop="20260309123600 +0800">
+    <title lang="zh">健身时代 精选36分钟</title>
+  </programme>
+  <programme channel="五星体育" start="20260309123600 +0800" stop="20260309130400 +0800">
+    <title lang="zh">2025极速终点线2</title>
+  </programme>
+  <programme channel="五星体育" start="20260309130400 +0800" stop="20260309140000 +0800">
+    <title lang="zh">2026 东京马拉松</title>
+  </programme>
+  <programme channel="五星体育" start="20260309140000 +0800" stop="20260309140500 +0800">
+    <title lang="zh">健身时代 精选周一</title>
+  </programme>
+  <programme channel="五星体育" start="20260309140500 +0800" stop="20260309153300 +0800">
+    <title lang="zh">2026版-世界杯殿堂1954世界杯</title>
+  </programme>
+  <programme channel="五星体育" start="20260309153300 +0800" stop="20260309160500 +0800">
+    <title lang="zh">第十五届 全国运动会 拳击决赛</title>
+  </programme>
+  <programme channel="五星体育" start="20260309160500 +0800" stop="20260309161900 +0800">
+    <title lang="zh">健身时代 精选周一</title>
+  </programme>
+  <programme channel="五星体育" start="20260309161900 +0800" stop="20260309170000 +0800">
+    <title lang="zh">健身时代 -正气操首</title>
+  </programme>
+  <programme channel="五星体育" start="20260309170000 +0800" stop="20260309190000 +0800">
+    <title lang="zh">五星精彩- 弈棋耍大牌 精彩牌局</title>
+  </programme>
+  <programme channel="五星体育" start="20260309190000 +0800" stop="20260309193000 +0800">
+    <title lang="zh">体育新闻</title>
+  </programme>
+  <programme channel="五星体育" start="20260309193000 +0800" stop="20260309200000 +0800">
+    <title lang="zh">五星足球</title>
+  </programme>
+  <programme channel="五星体育" start="20260309200000 +0800" stop="20260309204100 +0800">
+    <title lang="zh">健身时代 -正气操</title>
+  </programme>
+  <programme channel="五星体育" start="20260309204100 +0800" stop="20260309215500 +0800">
+    <title lang="zh">2026 中国足球协会超级杯 :上海海港-北京国安</title>
+  </programme>
+  <programme channel="五星体育" start="20260309215500 +0800" stop="20260309220000 +0800">
+    <title lang="zh">健身时代 精选周一</title>
+  </programme>
+  <programme channel="五星体育" start="20260309220000 +0800" stop="20260309230000 +0800">
+    <title lang="zh">弈棋耍大牌 -上海三打一</title>
+  </programme>
+  <programme channel="五星体育" start="20260309230000 +0800" stop="20260309235200 +0800">
+    <title lang="zh">2025 国际马联浪琴国家联赛 阿布扎比站</title>
+  </programme>
+  <programme channel="五星体育" start="20260309235200 +0800" stop="20260310002200 +0800">
+    <title lang="zh">2025世界 斯诺克上海大师赛 第二轮:丁俊晖-张安达</title>
   </programme>
   <channel id="欢笑剧场">
     <display-name lang="zh">欢笑剧场</display-name>
