@@ -729,54 +729,6 @@
   <channel id="五星体育">
     <display-name lang="zh">五星体育</display-name>
   </channel>
-  <programme channel="五星体育" start="20260328130000 +0800" stop="20260328135000 +0800">
-    <title lang="zh">健身时代 精选36分钟</title>
-  </programme>
-  <programme channel="五星体育" start="20260328135000 +0800" stop="20260328151500 +0800">
-    <title lang="zh">卫星直播:2026 世界一级方程式锦标赛 日本站排位赛</title>
-  </programme>
-  <programme channel="五星体育" start="20260328151500 +0800" stop="20260328160000 +0800">
-    <title lang="zh">棋牌新教室</title>
-  </programme>
-  <programme channel="五星体育" start="20260328160000 +0800" stop="20260328163100 +0800">
-    <title lang="zh">2025MXGP国际摩托车越野锦标赛中国上海站上午场</title>
-  </programme>
-  <programme channel="五星体育" start="20260328163100 +0800" stop="20260328170000 +0800">
-    <title lang="zh">《五星精彩》2023NBA总冠军纪录片《掘金之路》</title>
-  </programme>
-  <programme channel="五星体育" start="20260328170000 +0800" stop="20260328173000 +0800">
-    <title lang="zh">五星精彩- 弈棋耍大牌 精彩牌局</title>
-  </programme>
-  <programme channel="五星体育" start="20260328173000 +0800" stop="20260328180000 +0800">
-    <title lang="zh">超G竞彩</title>
-  </programme>
-  <programme channel="五星体育" start="20260328180000 +0800" stop="20260328190000 +0800">
-    <title lang="zh">弈棋耍大牌</title>
-  </programme>
-  <programme channel="五星体育" start="20260328190000 +0800" stop="20260328193000 +0800">
-    <title lang="zh">体育新闻</title>
-  </programme>
-  <programme channel="五星体育" start="20260328193000 +0800" stop="20260328202800 +0800">
-    <title lang="zh">2025-26赛季NBA常规赛:篮网-湖人</title>
-  </programme>
-  <programme channel="五星体育" start="20260328202800 +0800" stop="20260328205400 +0800">
-    <title lang="zh">2026极速终点线3</title>
-  </programme>
-  <programme channel="五星体育" start="20260328205400 +0800" stop="20260328211300 +0800">
-    <title lang="zh">五星精彩《叁拾年30星》</title>
-  </programme>
-  <programme channel="五星体育" start="20260328211300 +0800" stop="20260328220000 +0800">
-    <title lang="zh">2026年中国游泳公开赛暨全国春季游泳锦标赛各项决赛</title>
-  </programme>
-  <programme channel="五星体育" start="20260328220000 +0800" stop="20260328230000 +0800">
-    <title lang="zh">弈棋耍大牌 -上海三打一</title>
-  </programme>
-  <programme channel="五星体育" start="20260328230000 +0800" stop="20260328235200 +0800">
-    <title lang="zh">2026 国际帆船大奖赛 奥克兰站集锦</title>
-  </programme>
-  <programme channel="五星体育" start="20260328235200 +0800" stop="20260329120000 +0800">
-    <title lang="zh">2026 澳大利亚网球公开赛 女单决赛:萨巴伦卡-莱巴金娜</title>
-  </programme>
   <programme channel="五星体育" start="20260329120000 +0800" stop="20260329125000 +0800">
     <title lang="zh">健身时代 精选36分钟</title>
   </programme>
@@ -885,8 +837,62 @@
   <programme channel="五星体育" start="20260330234500 +0800" stop="20260330235500 +0800">
     <title lang="zh">五星精彩-《叁拾年30星》</title>
   </programme>
-  <programme channel="五星体育" start="20260330235500 +0800" stop="20260331002500 +0800">
+  <programme channel="五星体育" start="20260330235500 +0800" stop="20260331120000 +0800">
     <title lang="zh">2026 澳大利亚网球公开赛 男单1/4决赛:阿尔卡拉斯-德米纳尔</title>
+  </programme>
+  <programme channel="五星体育" start="20260331120000 +0800" stop="20260331123600 +0800">
+    <title lang="zh">健身时代 精选36分钟</title>
+  </programme>
+  <programme channel="五星体育" start="20260331123600 +0800" stop="20260331130600 +0800">
+    <title lang="zh">棋牌新教室</title>
+  </programme>
+  <programme channel="五星体育" start="20260331130600 +0800" stop="20260331140100 +0800">
+    <title lang="zh">2025-26赛季NBA常规赛:热火-火箭</title>
+  </programme>
+  <programme channel="五星体育" start="20260331140100 +0800" stop="20260331140600 +0800">
+    <title lang="zh">健身时代 精选周二</title>
+  </programme>
+  <programme channel="五星体育" start="20260331140600 +0800" stop="20260331150300 +0800">
+    <title lang="zh">2026 世界棒球经典赛 半决赛:委内瑞拉-意大利</title>
+  </programme>
+  <programme channel="五星体育" start="20260331150300 +0800" stop="20260331160000 +0800">
+    <title lang="zh">2025-26赛季NFL常规赛:费城老鹰-洛杉矶闪电</title>
+  </programme>
+  <programme channel="五星体育" start="20260331160000 +0800" stop="20260331160600 +0800">
+    <title lang="zh">健身时代 精选周二</title>
+  </programme>
+  <programme channel="五星体育" start="20260331160600 +0800" stop="20260331170000 +0800">
+    <title lang="zh">《五星精彩》2024NBA总冠军纪录片《第18面冠军旗》</title>
+  </programme>
+  <programme channel="五星体育" start="20260331170000 +0800" stop="20260331180000 +0800">
+    <title lang="zh">五星精彩- 弈棋耍大牌 精彩牌局</title>
+  </programme>
+  <programme channel="五星体育" start="20260331180000 +0800" stop="20260331190000 +0800">
+    <title lang="zh">弈棋耍大牌</title>
+  </programme>
+  <programme channel="五星体育" start="20260331190000 +0800" stop="20260331193000 +0800">
+    <title lang="zh">体育新闻</title>
+  </programme>
+  <programme channel="五星体育" start="20260331193000 +0800" stop="20260331200300 +0800">
+    <title lang="zh">2025 中国壁球公开赛 女单半决赛1</title>
+  </programme>
+  <programme channel="五星体育" start="20260331200300 +0800" stop="20260331204200 +0800">
+    <title lang="zh">2026 中超联赛 第3轮:大连英博海发-上海海港</title>
+  </programme>
+  <programme channel="五星体育" start="20260331204200 +0800" stop="20260331215500 +0800">
+    <title lang="zh">2026ATP1000 印第安维尔斯大师赛 半决赛:阿尔卡拉斯-梅德韦杰夫</title>
+  </programme>
+  <programme channel="五星体育" start="20260331215500 +0800" stop="20260331220000 +0800">
+    <title lang="zh">健身时代 精选周二</title>
+  </programme>
+  <programme channel="五星体育" start="20260331220000 +0800" stop="20260331230000 +0800">
+    <title lang="zh">弈棋耍大牌 -上海三打一</title>
+  </programme>
+  <programme channel="五星体育" start="20260331230000 +0800" stop="20260331235500 +0800">
+    <title lang="zh">2025环崇明岛女子公路自行车世界巡回赛第二天</title>
+  </programme>
+  <programme channel="五星体育" start="20260331235500 +0800" stop="20260401002500 +0800">
+    <title lang="zh">2026 澳大利亚网球公开赛 女单1/4决赛 佩古拉-阿尼西莫娃</title>
   </programme>
   <channel id="欢笑剧场">
     <display-name lang="zh">欢笑剧场</display-name>
