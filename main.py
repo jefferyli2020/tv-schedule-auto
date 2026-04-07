@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 import xml.etree.ElementTree as ET
 import xml.dom.minidom as minidom
 
-CHANNEL_WHITELIST = ["东方卫视", "上视新闻", "上海都市", "生活时尚", "东方影视","欢笑剧场","都市剧场","乐游","CHC动作电影","CHC家庭影院","CHC影迷电影","CCTV5","CCTV5+","金鹰纪实"]
+CHANNEL_WHITELIST = ["东方卫视", "上视新闻", "上海都市", "生活时尚", "东方影视","欢笑剧场","都市剧场","乐游","CHC动作电影","CHC家庭影院","CHC影迷电影","CCTV5","CCTV5+","金鹰纪实"，"第一财经"]
 
 def get_token(headers):
     r = requests.post("https://www.tvmao.com/servlet/accessToken", data={"p": "channelEpg"}, headers=headers)
