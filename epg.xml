@@ -3,75 +3,6 @@
   <channel id="CCTV5">
     <display-name lang="zh">CCTV5</display-name>
   </channel>
-  <programme channel="CCTV5" start="20260501000500 +0800" stop="20260501010500 +0800">
-    <title lang="zh">实况录像-2026年艺术体操世界杯 塔什干站 1</title>
-  </programme>
-  <programme channel="CCTV5" start="20260501010500 +0800" stop="20260501023600 +0800">
-    <title lang="zh">实况录像-2025年世界田联钻石联赛 伦敦站</title>
-  </programme>
-  <programme channel="CCTV5" start="20260501023600 +0800" stop="20260501040000 +0800">
-    <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第37轮 北京控股-北京北汽</title>
-  </programme>
-  <programme channel="CCTV5" start="20260501040000 +0800" stop="20260501053000 +0800">
-    <title lang="zh">国际足球赛场-25-26赛季法甲联赛第31轮 洛里昂-斯特拉斯堡(4K)</title>
-  </programme>
-  <programme channel="CCTV5" start="20260501053000 +0800" stop="20260501060000 +0800">
-    <title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 高山滑雪男子大回转(4K)</title>
-  </programme>
-  <programme channel="CCTV5" start="20260501060000 +0800" stop="20260501063000 +0800">
-    <title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 雪橇女子单人(4K)</title>
-  </programme>
-  <programme channel="CCTV5" start="20260501063000 +0800" stop="20260501070000 +0800">
-    <title lang="zh">健身动起来</title>
-  </programme>
-  <programme channel="CCTV5" start="20260501070000 +0800" stop="20260501080300 +0800">
-    <title lang="zh">体坛晨报</title>
-  </programme>
-  <programme channel="CCTV5" start="20260501080300 +0800" stop="20260501083000 +0800">
-    <title lang="zh">实况录像-精品赛事记录-2026年射箭世界杯墨西哥站 中国队金牌2</title>
-  </programme>
-  <programme channel="CCTV5" start="20260501083000 +0800" stop="20260501100000 +0800">
-    <title lang="zh">2025/2026德国足球甲级联赛-第31轮(多特蒙德-弗赖堡)(4K)</title>
-  </programme>
-  <programme channel="CCTV5" start="20260501100000 +0800" stop="20260501110000 +0800">
-    <title lang="zh">2026年世界泳联跳水世界杯(总决赛)-男子双人3米跳板决赛</title>
-  </programme>
-  <programme channel="CCTV5" start="20260501110000 +0800" stop="20260501112500 +0800">
-    <title lang="zh">2025/2026西班牙足球甲级联赛-第32轮集锦(4K)</title>
-  </programme>
-  <programme channel="CCTV5" start="20260501112500 +0800" stop="20260501113000 +0800">
-    <title lang="zh">健身动起来</title>
-  </programme>
-  <programme channel="CCTV5" start="20260501113000 +0800" stop="20260501120000 +0800">
-    <title lang="zh">体坛快讯</title>
-  </programme>
-  <programme channel="CCTV5" start="20260501120000 +0800" stop="20260501125000 +0800">
-    <title lang="zh">2026年世界泳联跳水世界杯(总决赛)-女子双人3米跳板决赛</title>
-  </programme>
-  <programme channel="CCTV5" start="20260501125000 +0800" stop="20260501144500 +0800">
-    <title lang="zh">实况录像-2025/2026赛季世界斯诺克锦标赛 半决赛(录播)1</title>
-  </programme>
-  <programme channel="CCTV5" start="20260501144500 +0800" stop="20260501150500 +0800">
-    <title lang="zh">艺术里的奥林匹克(4K)</title>
-  </programme>
-  <programme channel="CCTV5" start="20260501150500 +0800" stop="20260501160000 +0800">
-    <title lang="zh">篮球公园</title>
-  </programme>
-  <programme channel="CCTV5" start="20260501160000 +0800" stop="20260501190000 +0800">
-    <title lang="zh">2026年汤姆斯杯羽毛球赛-1/4决赛</title>
-  </programme>
-  <programme channel="CCTV5" start="20260501190000 +0800" stop="20260501193000 +0800">
-    <title lang="zh">体育新闻</title>
-  </programme>
-  <programme channel="CCTV5" start="20260501193000 +0800" stop="20260501213000 +0800">
-    <title lang="zh">2025/2026赛季中国男子篮球职业联赛-季后赛12进8 第二场1</title>
-  </programme>
-  <programme channel="CCTV5" start="20260501213000 +0800" stop="20260501223000 +0800">
-    <title lang="zh">体育世界</title>
-  </programme>
-  <programme channel="CCTV5" start="20260501223000 +0800" stop="20260502000000 +0800">
-    <title lang="zh">2025/2026赛季世界斯诺克锦标赛-半决赛2</title>
-  </programme>
   <programme channel="CCTV5" start="20260502003500 +0800" stop="20260502010500 +0800">
     <title lang="zh">实况录像-2026年体操世界杯 科特布斯站 25分钟版</title>
   </programme>
@@ -462,7 +393,7 @@
   <programme channel="CCTV5" start="20260507223500 +0800" stop="20260507233500 +0800">
     <title lang="zh">足球之夜</title>
   </programme>
-  <programme channel="CCTV5" start="20260507233500 +0800" stop="20260508010500 +0800">
+  <programme channel="CCTV5" start="20260507233500 +0800" stop="20260508000000 +0800">
     <title lang="zh">实况录像-2025/2026赛季世界斯诺克锦标赛 2</title>
   </programme>
   <programme channel="CCTV5" start="20260508010500 +0800" stop="20260508023600 +0800">
@@ -534,81 +465,79 @@
   <programme channel="CCTV5" start="20260508220500 +0800" stop="20260508230000 +0800">
     <title lang="zh">篮球公园</title>
   </programme>
-  <programme channel="CCTV5" start="20260508230000 +0800" stop="20260509000000 +0800">
+  <programme channel="CCTV5" start="20260508230000 +0800" stop="20260509003000 +0800">
     <title lang="zh">实况录像-2025/2026赛季世界斯诺克锦标赛 3</title>
   </programme>
-  <programme channel="CCTV5" start="20260509000000 +0800" stop="20260509003000 +0800">
-    <title lang="zh">2025/2026赛季世界斯诺克锦标赛</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
   <programme channel="CCTV5" start="20260509003000 +0800" stop="20260509010000 +0800">
-    <title lang="zh">2026年艺术体操世界杯塔什干站</title>
-    <desc lang="zh">欢迎使用</desc>
+    <title lang="zh">实况录像-2026年艺术体操世界杯 塔什干站 25分钟版</title>
   </programme>
   <programme channel="CCTV5" start="20260509010000 +0800" stop="20260509023100 +0800">
-    <title lang="zh">2025年世界田联钻石联赛苏黎世站</title>
+    <title lang="zh">实况录像-2025年世界田联钻石联赛 苏黎世站 2</title>
+  </programme>
+  <programme channel="CCTV5" start="20260509023100 +0800" stop="20260509040000 +0800">
+    <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第40轮 辽宁本钢-浙江稠州金租</title>
+  </programme>
+  <programme channel="CCTV5" start="20260509040000 +0800" stop="20260509053000 +0800">
+    <title lang="zh">国际足球赛场-25-26赛季英超联赛第35轮 曼联-利物浦(4K)</title>
+  </programme>
+  <programme channel="CCTV5" start="20260509053000 +0800" stop="20260509060000 +0800">
+    <title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 高山滑雪男子大回转(4K)</title>
+  </programme>
+  <programme channel="CCTV5" start="20260509060000 +0800" stop="20260509063000 +0800">
+    <title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 滑雪登山女子,男子短距离(4K)</title>
+  </programme>
+  <programme channel="CCTV5" start="20260509063000 +0800" stop="20260509070000 +0800">
+    <title lang="zh">健身动起来</title>
+  </programme>
+  <programme channel="CCTV5" start="20260509070000 +0800" stop="20260509080300 +0800">
+    <title lang="zh">体坛晨报</title>
+  </programme>
+  <programme channel="CCTV5" start="20260509080300 +0800" stop="20260509093000 +0800">
+    <title lang="zh">2025/2026德国足球甲级联赛-第32轮(门兴格拉德巴赫-多特蒙德)(4K)</title>
+  </programme>
+  <programme channel="CCTV5" start="20260509093000 +0800" stop="20260509120000 +0800">
+    <title lang="zh">2025/2026赛季美国职业篮球联赛-季后赛6</title>
+  </programme>
+  <programme channel="CCTV5" start="20260509120000 +0800" stop="20260509123500 +0800">
+    <title lang="zh">体坛快讯</title>
+  </programme>
+  <programme channel="CCTV5" start="20260509123500 +0800" stop="20260509125800 +0800">
+    <title lang="zh">艺术里的奥林匹克(4K)</title>
+  </programme>
+  <programme channel="CCTV5" start="20260509125800 +0800" stop="20260509142800 +0800">
+    <title lang="zh">实况录像-2026年世界乒乓球团体锦标赛 1/4决赛(录播)2</title>
+  </programme>
+  <programme channel="CCTV5" start="20260509142800 +0800" stop="20260509150000 +0800">
+    <title lang="zh">2025/2026西班牙足球甲级联赛-第34轮集锦(4K)</title>
+  </programme>
+  <programme channel="CCTV5" start="20260509150000 +0800" stop="20260509155500 +0800">
+    <title lang="zh">实况录像-2026年体操世界杯 奥西耶克站 2</title>
+  </programme>
+  <programme channel="CCTV5" start="20260509155500 +0800" stop="20260509160000 +0800">
+    <title lang="zh">健身动起来</title>
+  </programme>
+  <programme channel="CCTV5" start="20260509160000 +0800" stop="20260509170000 +0800">
+    <title lang="zh">实况录像-2026年全国举重锦标赛 男子比赛2</title>
+  </programme>
+  <programme channel="CCTV5" start="20260509170000 +0800" stop="20260509190000 +0800">
+    <title lang="zh">2026年世界乒乓球团体锦标赛-女团半决赛1</title>
+  </programme>
+  <programme channel="CCTV5" start="20260509190000 +0800" stop="20260509193000 +0800">
+    <title lang="zh">体育新闻</title>
+  </programme>
+  <programme channel="CCTV5" start="20260509193000 +0800" stop="20260509220000 +0800">
+    <title lang="zh">2026年世界乒乓球团体锦标赛-男团半决赛1</title>
+  </programme>
+  <programme channel="CCTV5" start="20260509220000 +0800" stop="20260510000000 +0800">
+    <title lang="zh">2025/2026英格兰足球超级联赛-第36轮(桑德兰-曼联)</title>
+  </programme>
+  <programme channel="CCTV5" start="20260510000000 +0800" stop="20260510023000 +0800">
+    <title lang="zh">世界乒乓球团体锦标赛女团半决赛</title>
     <desc lang="zh">欢迎使用</desc>
   </programme>
   <channel id="CCTV5+">
     <display-name lang="zh">CCTV5+</display-name>
   </channel>
-  <programme channel="CCTV5+" start="20260501010600 +0800" stop="20260501023600 +0800">
-    <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第35轮 山东高速-广东东阳光</title>
-  </programme>
-  <programme channel="CCTV5+" start="20260501023600 +0800" stop="20260501040000 +0800">
-    <title lang="zh">国际足球赛场-25-26赛季英超联赛第12轮 利物浦-诺丁汉森林</title>
-  </programme>
-  <programme channel="CCTV5+" start="20260501040000 +0800" stop="20260501060000 +0800">
-    <title lang="zh">实况录像-2025/2026赛季斯诺克西安大奖赛 决赛</title>
-  </programme>
-  <programme channel="CCTV5+" start="20260501060000 +0800" stop="20260501073000 +0800">
-    <title lang="zh">实况录像-2025年世界田联钻石联赛 斯德哥尔摩站</title>
-  </programme>
-  <programme channel="CCTV5+" start="20260501073000 +0800" stop="20260501083000 +0800">
-    <title lang="zh">2026年国际马联国家联赛-奥卡拉站</title>
-  </programme>
-  <programme channel="CCTV5+" start="20260501083000 +0800" stop="20260501100000 +0800">
-    <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 季后赛12进8 第一场1</title>
-  </programme>
-  <programme channel="CCTV5+" start="20260501100000 +0800" stop="20260501110100 +0800">
-    <title lang="zh">实况录像-2026年世界室内田径锦标赛 1</title>
-  </programme>
-  <programme channel="CCTV5+" start="20260501110100 +0800" stop="20260501120200 +0800">
-    <title lang="zh">实况录像-2026年艺术体操世界杯 巴库站1</title>
-  </programme>
-  <programme channel="CCTV5+" start="20260501120200 +0800" stop="20260501130000 +0800">
-    <title lang="zh">实况录像-2026年全国举重锦标赛 男子比赛2</title>
-  </programme>
-  <programme channel="CCTV5+" start="20260501130000 +0800" stop="20260501140000 +0800">
-    <title lang="zh">2026上海浪琴环球马术冠军赛-1.60米争时赛</title>
-  </programme>
-  <programme channel="CCTV5+" start="20260501140000 +0800" stop="20260501150000 +0800">
-    <title lang="zh">实况录像-2026年体操世界杯 奥西耶克站 1</title>
-  </programme>
-  <programme channel="CCTV5+" start="20260501150000 +0800" stop="20260501155500 +0800">
-    <title lang="zh">2026年世界泳联跳水世界杯(总决赛)-女子双人10米跳台决赛</title>
-  </programme>
-  <programme channel="CCTV5+" start="20260501155500 +0800" stop="20260501162800 +0800">
-    <title lang="zh">2025/2026英格兰足球超级联赛-第34轮集锦(4K)</title>
-  </programme>
-  <programme channel="CCTV5+" start="20260501162800 +0800" stop="20260501164500 +0800">
-    <title lang="zh">实况录像-荣耀十分-2026年蹦床世界杯 阿尔克马尔站 王梓赛获金牌</title>
-  </programme>
-  <programme channel="CCTV5+" start="20260501164500 +0800" stop="20260501174000 +0800">
-    <title lang="zh">2026年世界泳联跳水世界杯(总决赛)-男子双人10米跳台决赛</title>
-  </programme>
-  <programme channel="CCTV5+" start="20260501174000 +0800" stop="20260501200100 +0800">
-    <title lang="zh">2025/2026赛季世界斯诺克锦标赛-半决赛</title>
-  </programme>
-  <programme channel="CCTV5+" start="20260501200100 +0800" stop="20260501210300 +0800">
-    <title lang="zh">实况录像-2026年全国举重锦标赛 女子比赛2</title>
-  </programme>
-  <programme channel="CCTV5+" start="20260501210300 +0800" stop="20260501220000 +0800">
-    <title lang="zh">实况录像-2026年世界职业拳王争霸赛 6</title>
-  </programme>
-  <programme channel="CCTV5+" start="20260501220000 +0800" stop="20260502000000 +0800">
-    <title lang="zh">2026年ATP1000男子网球大师赛-马德里站 半决赛</title>
-  </programme>
   <programme channel="CCTV5+" start="20260502000500 +0800" stop="20260502010600 +0800">
     <title lang="zh">实况录像-2025/2026赛季国际马联世界杯总决赛1</title>
   </programme>
@@ -921,7 +850,7 @@
   <programme channel="CCTV5+" start="20260507215000 +0800" stop="20260507235000 +0800">
     <title lang="zh">实况录像-2026年尤伯杯羽毛球赛 半决赛</title>
   </programme>
-  <programme channel="CCTV5+" start="20260507235000 +0800" stop="20260508010800 +0800">
+  <programme channel="CCTV5+" start="20260507235000 +0800" stop="20260508000000 +0800">
     <title lang="zh">2025/2026赛季中国排球超级联赛-女排决赛第二场</title>
   </programme>
   <programme channel="CCTV5+" start="20260508010800 +0800" stop="20260508023600 +0800">
@@ -969,102 +898,71 @@
   <programme channel="CCTV5+" start="20260508213200 +0800" stop="20260508223500 +0800">
     <title lang="zh">实况录像-2026年艺术体操世界杯 巴库站1</title>
   </programme>
-  <programme channel="CCTV5+" start="20260508223500 +0800" stop="20260509000000 +0800">
+  <programme channel="CCTV5+" start="20260508223500 +0800" stop="20260509000500 +0800">
     <title lang="zh">2026亚足联女足U20亚洲杯-决赛(4K)</title>
   </programme>
-  <programme channel="CCTV5+" start="20260509000000 +0800" stop="20260509000500 +0800">
-    <title lang="zh">2026亚足联女足U20亚洲杯决赛</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
   <programme channel="CCTV5+" start="20260509000500 +0800" stop="20260509010600 +0800">
-    <title lang="zh">2026年全国举重锦标赛女子比赛</title>
-    <desc lang="zh">欢迎使用</desc>
+    <title lang="zh">实况录像-2026年全国举重锦标赛 女子比赛1</title>
   </programme>
   <programme channel="CCTV5+" start="20260509010600 +0800" stop="20260509023600 +0800">
-    <title lang="zh">CBA：青岛崂山啤酒-北京北汽</title>
+    <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第41轮 青岛崂山啤酒-北京北汽</title>
+  </programme>
+  <programme channel="CCTV5+" start="20260509023600 +0800" stop="20260509040000 +0800">
+    <title lang="zh">国际足球赛场-25-26赛季法甲联赛第19轮 梅斯-里昂</title>
+  </programme>
+  <programme channel="CCTV5+" start="20260509040000 +0800" stop="20260509060000 +0800">
+    <title lang="zh">实况录像-2025/2026赛季斯诺克西安大奖赛 决赛</title>
+  </programme>
+  <programme channel="CCTV5+" start="20260509060000 +0800" stop="20260509073000 +0800">
+    <title lang="zh">实况录像-2025年世界田联钻石联赛 布鲁塞尔站</title>
+  </programme>
+  <programme channel="CCTV5+" start="20260509073000 +0800" stop="20260509083000 +0800">
+    <title lang="zh">实况录像-2026年体操世界杯 奥西耶克站 1</title>
+  </programme>
+  <programme channel="CCTV5+" start="20260509083000 +0800" stop="20260509093000 +0800">
+    <title lang="zh">实况录像-2026年世界泳联跳水世界杯总决赛 3</title>
+  </programme>
+  <programme channel="CCTV5+" start="20260509093000 +0800" stop="20260509110100 +0800">
+    <title lang="zh">2025/2026赛季北美冰球职业联赛-斯坦利杯季后赛4(维加斯金骑士-阿纳海姆小鸭)第3场</title>
+  </programme>
+  <programme channel="CCTV5+" start="20260509110100 +0800" stop="20260509123100 +0800">
+    <title lang="zh">国际足球赛场-25-26赛季英超联赛第35轮 布伦特福德-西汉姆联(4K)</title>
+  </programme>
+  <programme channel="CCTV5+" start="20260509123100 +0800" stop="20260509140200 +0800">
+    <title lang="zh">实况录像-2025/2026赛季世界斯诺克锦标赛 4</title>
+  </programme>
+  <programme channel="CCTV5+" start="20260509140200 +0800" stop="20260509160200 +0800">
+    <title lang="zh">实况录像-2026年汤姆斯杯羽毛球赛 半决赛</title>
+  </programme>
+  <programme channel="CCTV5+" start="20260509160200 +0800" stop="20260509173200 +0800">
+    <title lang="zh">2025/2026意大利足球甲级联赛-第35轮(国际米兰-帕尔马)(4K)</title>
+  </programme>
+  <programme channel="CCTV5+" start="20260509173200 +0800" stop="20260509182800 +0800">
+    <title lang="zh">实况录像-2026年世界职业拳王争霸赛 6</title>
+  </programme>
+  <programme channel="CCTV5+" start="20260509182800 +0800" stop="20260509193000 +0800">
+    <title lang="zh">实况录像-2026年全国举重锦标赛 男子比赛1</title>
+  </programme>
+  <programme channel="CCTV5+" start="20260509193000 +0800" stop="20260509215000 +0800">
+    <title lang="zh">2025/2026赛季中国男子篮球职业联赛-1/4决赛 第二场1</title>
+  </programme>
+  <programme channel="CCTV5+" start="20260509215000 +0800" stop="20260509235000 +0800">
+    <title lang="zh">实况录像-2026年尤伯杯羽毛球赛 决赛</title>
+  </programme>
+  <programme channel="CCTV5+" start="20260509235000 +0800" stop="20260510000000 +0800">
+    <title lang="zh">实况录像-2025/2026中国排球超级联赛 女子决赛第三场 上海光明优倍-江苏中天钢铁</title>
+  </programme>
+  <programme channel="CCTV5+" start="20260510000000 +0800" stop="20260510010800 +0800">
+    <title lang="zh">中国排球超级联赛女子决赛第三场</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="CCTV5+" start="20260510010800 +0800" stop="20260510023600 +0800">
+    <title lang="zh">2025/2026赛季CBA第42轮</title>
     <desc lang="zh">欢迎使用</desc>
   </programme>
   <channel id="CHC动作电影">
     <display-name lang="zh">CHC动作电影</display-name>
   </channel>
-  <programme channel="CHC动作电影" start="20260501011700 +0800" stop="20260501012000 +0800">
-    <title lang="zh">动作导视</title>
-  </programme>
-  <programme channel="CHC动作电影" start="20260501012000 +0800" stop="20260501025000 +0800">
-    <title lang="zh">电影</title>
-  </programme>
-  <programme channel="CHC动作电影" start="20260501025000 +0800" stop="20260501042000 +0800">
-    <title lang="zh">动作导视,电影</title>
-  </programme>
-  <programme channel="CHC动作电影" start="20260501042000 +0800" stop="20260501042500 +0800">
-    <title lang="zh">动作导视</title>
-  </programme>
-  <programme channel="CHC动作电影" start="20260501042500 +0800" stop="20260501055600 +0800">
-    <title lang="zh">电影</title>
-  </programme>
-  <programme channel="CHC动作电影" start="20260501055600 +0800" stop="20260501060000 +0800">
-    <title lang="zh">动作导视</title>
-  </programme>
-  <programme channel="CHC动作电影" start="20260501060000 +0800" stop="20260501073500 +0800">
-    <title lang="zh">电影</title>
-  </programme>
-  <programme channel="CHC动作电影" start="20260501073500 +0800" stop="20260501090700 +0800">
-    <title lang="zh">动作导视,电影</title>
-  </programme>
-  <programme channel="CHC动作电影" start="20260501090700 +0800" stop="20260501091000 +0800">
-    <title lang="zh">动作导视</title>
-  </programme>
-  <programme channel="CHC动作电影" start="20260501091000 +0800" stop="20260501104800 +0800">
-    <title lang="zh">电影</title>
-  </programme>
-  <programme channel="CHC动作电影" start="20260501104800 +0800" stop="20260501105000 +0800">
-    <title lang="zh">动作导视</title>
-  </programme>
-  <programme channel="CHC动作电影" start="20260501105000 +0800" stop="20260501121600 +0800">
-    <title lang="zh">电影</title>
-  </programme>
-  <programme channel="CHC动作电影" start="20260501121600 +0800" stop="20260501122000 +0800">
-    <title lang="zh">动作导视</title>
-  </programme>
-  <programme channel="CHC动作电影" start="20260501122000 +0800" stop="20260501134400 +0800">
-    <title lang="zh">电影</title>
-  </programme>
-  <programme channel="CHC动作电影" start="20260501134400 +0800" stop="20260501134500 +0800">
-    <title lang="zh">动作导视</title>
-  </programme>
-  <programme channel="CHC动作电影" start="20260501134500 +0800" stop="20260501151500 +0800">
-    <title lang="zh">电影</title>
-  </programme>
-  <programme channel="CHC动作电影" start="20260501151500 +0800" stop="20260501164300 +0800">
-    <title lang="zh">动作导视,电影</title>
-  </programme>
-  <programme channel="CHC动作电影" start="20260501164300 +0800" stop="20260501164500 +0800">
-    <title lang="zh">动作导视</title>
-  </programme>
-  <programme channel="CHC动作电影" start="20260501164500 +0800" stop="20260501184100 +0800">
-    <title lang="zh">电影</title>
-  </programme>
-  <programme channel="CHC动作电影" start="20260501184100 +0800" stop="20260501184500 +0800">
-    <title lang="zh">动作导视</title>
-  </programme>
-  <programme channel="CHC动作电影" start="20260501184500 +0800" stop="20260501202800 +0800">
-    <title lang="zh">电影</title>
-  </programme>
-  <programme channel="CHC动作电影" start="20260501202800 +0800" stop="20260501203000 +0800">
-    <title lang="zh">动作导视</title>
-  </programme>
-  <programme channel="CHC动作电影" start="20260501203000 +0800" stop="20260501215500 +0800">
-    <title lang="zh">电影</title>
-  </programme>
-  <programme channel="CHC动作电影" start="20260501215500 +0800" stop="20260501233700 +0800">
-    <title lang="zh">动作导视,电影</title>
-  </programme>
-  <programme channel="CHC动作电影" start="20260501233700 +0800" stop="20260501234000 +0800">
-    <title lang="zh">动作导视</title>
-  </programme>
-  <programme channel="CHC动作电影" start="20260501234000 +0800" stop="20260502000000 +0800">
-    <title lang="zh">电影</title>
-  </programme>
   <programme channel="CHC动作电影" start="20260502002200 +0800" stop="20260502002500 +0800">
     <title lang="zh">动作导视</title>
   </programme>
@@ -1545,7 +1443,7 @@
   <programme channel="CHC动作电影" start="20260507233700 +0800" stop="20260507234000 +0800">
     <title lang="zh">动作导视</title>
   </programme>
-  <programme channel="CHC动作电影" start="20260507234000 +0800" stop="20260508011900 +0800">
+  <programme channel="CHC动作电影" start="20260507234000 +0800" stop="20260508000000 +0800">
     <title lang="zh">孤胆警探</title>
   </programme>
   <programme channel="CHC动作电影" start="20260508011900 +0800" stop="20260508012000 +0800">
@@ -1629,54 +1527,84 @@
   <programme channel="CHC动作电影" start="20260508232900 +0800" stop="20260508233000 +0800">
     <title lang="zh">动作导视</title>
   </programme>
-  <programme channel="CHC动作电影" start="20260508233000 +0800" stop="20260509000000 +0800">
+  <programme channel="CHC动作电影" start="20260508233000 +0800" stop="20260509012700 +0800">
     <title lang="zh">射雕英雄传</title>
+  </programme>
+  <programme channel="CHC动作电影" start="20260509012700 +0800" stop="20260509013000 +0800">
+    <title lang="zh">动作导视</title>
+  </programme>
+  <programme channel="CHC动作电影" start="20260509013000 +0800" stop="20260509033100 +0800">
+    <title lang="zh">唐人街探案2</title>
+  </programme>
+  <programme channel="CHC动作电影" start="20260509033100 +0800" stop="20260509033500 +0800">
+    <title lang="zh">动作导视</title>
+  </programme>
+  <programme channel="CHC动作电影" start="20260509033500 +0800" stop="20260509051900 +0800">
+    <title lang="zh">三叉戟</title>
+  </programme>
+  <programme channel="CHC动作电影" start="20260509051900 +0800" stop="20260509052000 +0800">
+    <title lang="zh">动作导视</title>
+  </programme>
+  <programme channel="CHC动作电影" start="20260509052000 +0800" stop="20260509064600 +0800">
+    <title lang="zh">战俘拳王</title>
+  </programme>
+  <programme channel="CHC动作电影" start="20260509064600 +0800" stop="20260509065000 +0800">
+    <title lang="zh">动作导视</title>
+  </programme>
+  <programme channel="CHC动作电影" start="20260509065000 +0800" stop="20260509082200 +0800">
+    <title lang="zh">李白之天火燎原</title>
+  </programme>
+  <programme channel="CHC动作电影" start="20260509082200 +0800" stop="20260509082500 +0800">
+    <title lang="zh">动作导视</title>
+  </programme>
+  <programme channel="CHC动作电影" start="20260509082500 +0800" stop="20260509095600 +0800">
+    <title lang="zh">出拳吧，妈妈</title>
+  </programme>
+  <programme channel="CHC动作电影" start="20260509095600 +0800" stop="20260509100000 +0800">
+    <title lang="zh">动作导视</title>
+  </programme>
+  <programme channel="CHC动作电影" start="20260509100000 +0800" stop="20260509113400 +0800">
+    <title lang="zh">南口1937</title>
+  </programme>
+  <programme channel="CHC动作电影" start="20260509113400 +0800" stop="20260509113500 +0800">
+    <title lang="zh">动作导视</title>
+  </programme>
+  <programme channel="CHC动作电影" start="20260509113500 +0800" stop="20260509130500 +0800">
+    <title lang="zh">黄飞鸿之王者无敌</title>
+  </programme>
+  <programme channel="CHC动作电影" start="20260509130500 +0800" stop="20260509145300 +0800">
+    <title lang="zh">动作导视,倚天屠龙记之九阳神功</title>
+  </programme>
+  <programme channel="CHC动作电影" start="20260509145300 +0800" stop="20260509145500 +0800">
+    <title lang="zh">动作导视</title>
+  </programme>
+  <programme channel="CHC动作电影" start="20260509145500 +0800" stop="20260509164000 +0800">
+    <title lang="zh">龙门客栈</title>
+  </programme>
+  <programme channel="CHC动作电影" start="20260509164000 +0800" stop="20260509182500 +0800">
+    <title lang="zh">动作导视,秘密访客</title>
+  </programme>
+  <programme channel="CHC动作电影" start="20260509182500 +0800" stop="20260509183000 +0800">
+    <title lang="zh">动作导视</title>
+  </programme>
+  <programme channel="CHC动作电影" start="20260509183000 +0800" stop="20260509202600 +0800">
+    <title lang="zh">新警察故事</title>
+  </programme>
+  <programme channel="CHC动作电影" start="20260509202600 +0800" stop="20260509203000 +0800">
+    <title lang="zh">动作导视</title>
+  </programme>
+  <programme channel="CHC动作电影" start="20260509203000 +0800" stop="20260509215600 +0800">
+    <title lang="zh">赤子威龙</title>
+  </programme>
+  <programme channel="CHC动作电影" start="20260509215600 +0800" stop="20260509220000 +0800">
+    <title lang="zh">动作导视</title>
+  </programme>
+  <programme channel="CHC动作电影" start="20260509220000 +0800" stop="20260510000000 +0800">
+    <title lang="zh">哈利波特与魔法石</title>
   </programme>
   <channel id="CHC家庭影院">
     <display-name lang="zh">CHC家庭影院</display-name>
   </channel>
-  <programme channel="CHC家庭影院" start="20260501000000 +0800" stop="20260501011500 +0800">
-    <title lang="zh">精彩呈现</title>
-  </programme>
-  <programme channel="CHC家庭影院" start="20260501011500 +0800" stop="20260501032000 +0800">
-    <title lang="zh">送你一朵小红花</title>
-  </programme>
-  <programme channel="CHC家庭影院" start="20260501032000 +0800" stop="20260501052500 +0800">
-    <title lang="zh">孤注一掷</title>
-  </programme>
-  <programme channel="CHC家庭影院" start="20260501052500 +0800" stop="20260501065000 +0800">
-    <title lang="zh">骑遇</title>
-  </programme>
-  <programme channel="CHC家庭影院" start="20260501065000 +0800" stop="20260501085000 +0800">
-    <title lang="zh">热烈</title>
-  </programme>
-  <programme channel="CHC家庭影院" start="20260501085000 +0800" stop="20260501102000 +0800">
-    <title lang="zh">救心行动</title>
-  </programme>
-  <programme channel="CHC家庭影院" start="20260501102000 +0800" stop="20260501115500 +0800">
-    <title lang="zh">小猪宝贝2宝贝进城</title>
-  </programme>
-  <programme channel="CHC家庭影院" start="20260501115500 +0800" stop="20260501133000 +0800">
-    <title lang="zh">天生赢家</title>
-  </programme>
-  <programme channel="CHC家庭影院" start="20260501133000 +0800" stop="20260501152000 +0800">
-    <title lang="zh">奇门遁甲</title>
-  </programme>
-  <programme channel="CHC家庭影院" start="20260501152000 +0800" stop="20260501164500 +0800">
-    <title lang="zh">憨豆特工</title>
-  </programme>
-  <programme channel="CHC家庭影院" start="20260501164500 +0800" stop="20260501181000 +0800">
-    <title lang="zh">大漠七雄</title>
-  </programme>
-  <programme channel="CHC家庭影院" start="20260501181000 +0800" stop="20260501202500 +0800">
-    <title lang="zh">小小的我</title>
-  </programme>
-  <programme channel="CHC家庭影院" start="20260501202500 +0800" stop="20260501220000 +0800">
-    <title lang="zh">熊猫计划</title>
-  </programme>
-  <programme channel="CHC家庭影院" start="20260501220000 +0800" stop="20260501235900 +0800">
-    <title lang="zh">金刚</title>
-  </programme>
   <programme channel="CHC家庭影院" start="20260502000000 +0800" stop="20260502010000 +0800">
     <title lang="zh">精彩呈现</title>
   </programme>
@@ -1935,42 +1863,51 @@
   <programme channel="CHC家庭影院" start="20260507234500 +0800" stop="20260507235900 +0800">
     <title lang="zh">拆弹专家</title>
   </programme>
+  <programme channel="CHC家庭影院" start="20260508000000 +0800" stop="20260508014000 +0800">
+    <title lang="zh">精彩呈现</title>
+  </programme>
+  <programme channel="CHC家庭影院" start="20260508014000 +0800" stop="20260508032000 +0800">
+    <title lang="zh">雄狮少年</title>
+  </programme>
+  <programme channel="CHC家庭影院" start="20260508032000 +0800" stop="20260508052000 +0800">
+    <title lang="zh">拆弹专家2</title>
+  </programme>
+  <programme channel="CHC家庭影院" start="20260508052000 +0800" stop="20260508065500 +0800">
+    <title lang="zh">小巷管家</title>
+  </programme>
+  <programme channel="CHC家庭影院" start="20260508065500 +0800" stop="20260508083500 +0800">
+    <title lang="zh">诛仙1</title>
+  </programme>
+  <programme channel="CHC家庭影院" start="20260508083500 +0800" stop="20260508104000 +0800">
+    <title lang="zh">傲慢与偏见</title>
+  </programme>
+  <programme channel="CHC家庭影院" start="20260508104000 +0800" stop="20260508123000 +0800">
+    <title lang="zh">涉足荒野</title>
+  </programme>
+  <programme channel="CHC家庭影院" start="20260508123000 +0800" stop="20260508140500 +0800">
+    <title lang="zh">立夏</title>
+  </programme>
+  <programme channel="CHC家庭影院" start="20260508140500 +0800" stop="20260508164000 +0800">
+    <title lang="zh">碟中谍7</title>
+  </programme>
+  <programme channel="CHC家庭影院" start="20260508164000 +0800" stop="20260508181500 +0800">
+    <title lang="zh">大反派</title>
+  </programme>
+  <programme channel="CHC家庭影院" start="20260508181500 +0800" stop="20260508201500 +0800">
+    <title lang="zh">过家家</title>
+  </programme>
+  <programme channel="CHC家庭影院" start="20260508201500 +0800" stop="20260508220000 +0800">
+    <title lang="zh">没事偷着乐</title>
+  </programme>
+  <programme channel="CHC家庭影院" start="20260508220000 +0800" stop="20260508234000 +0800">
+    <title lang="zh">彩虹照耀</title>
+  </programme>
+  <programme channel="CHC家庭影院" start="20260508234000 +0800" stop="20260508235900 +0800">
+    <title lang="zh">小小的我</title>
+  </programme>
   <channel id="CHC影迷电影">
     <display-name lang="zh">CHC影迷电影</display-name>
   </channel>
-  <programme channel="CHC影迷电影" start="20260501011100 +0800" stop="20260501060000 +0800">
-    <title lang="zh">电影</title>
-  </programme>
-  <programme channel="CHC影迷电影" start="20260501060000 +0800" stop="20260501075800 +0800">
-    <title lang="zh">影院</title>
-  </programme>
-  <programme channel="CHC影迷电影" start="20260501075800 +0800" stop="20260501092800 +0800">
-    <title lang="zh">电影</title>
-  </programme>
-  <programme channel="CHC影迷电影" start="20260501092800 +0800" stop="20260501110900 +0800">
-    <title lang="zh">影院</title>
-  </programme>
-  <programme channel="CHC影迷电影" start="20260501110900 +0800" stop="20260501124700 +0800">
-    <title lang="zh">电影</title>
-  </programme>
-  <programme channel="CHC影迷电影" start="20260501124700 +0800" stop="20260501143200 +0800">
-    <title lang="zh">影院</title>
-  </programme>
-  <programme channel="CHC影迷电影" start="20260501143200 +0800" stop="20260501164400 +0800">
-    <title lang="zh">电影</title>
-  </programme>
-  <programme channel="CHC影迷电影" start="20260501164400 +0800" stop="20260501184100 +0800">
-    <title lang="zh">影院</title>
-  </programme>
-  <programme channel="CHC影迷电影" start="20260501184100 +0800" stop="20260501202000 +0800">
-    <title lang="zh">电影</title>
-  </programme>
-  <programme channel="CHC影迷电影" start="20260501202000 +0800" stop="20260501220000 +0800">
-    <title lang="zh">影院</title>
-  </programme>
-  <programme channel="CHC影迷电影" start="20260501220000 +0800" stop="20260502000000 +0800">
-    <title lang="zh">电影</title>
-  </programme>
   <programme channel="CHC影迷电影" start="20260502012500 +0800" stop="20260502060000 +0800">
     <title lang="zh">独行月球</title>
   </programme>
@@ -2250,7 +2187,7 @@
   <programme channel="CHC影迷电影" start="20260507234800 +0800" stop="20260507234900 +0800">
     <title lang="zh">2024影迷频道形象片</title>
   </programme>
-  <programme channel="CHC影迷电影" start="20260507234900 +0800" stop="20260508014600 +0800">
+  <programme channel="CHC影迷电影" start="20260507234900 +0800" stop="20260508000000 +0800">
     <title lang="zh">缝纫机乐队</title>
   </programme>
   <programme channel="CHC影迷电影" start="20260508014600 +0800" stop="20260508060000 +0800">
@@ -2301,8 +2238,50 @@
   <programme channel="CHC影迷电影" start="20260508233200 +0800" stop="20260508233300 +0800">
     <title lang="zh">2024影迷频道形象片</title>
   </programme>
-  <programme channel="CHC影迷电影" start="20260508233300 +0800" stop="20260509000000 +0800">
+  <programme channel="CHC影迷电影" start="20260508233300 +0800" stop="20260509010900 +0800">
     <title lang="zh">没有人喜欢黑夜</title>
+  </programme>
+  <programme channel="CHC影迷电影" start="20260509010900 +0800" stop="20260509060000 +0800">
+    <title lang="zh">荒野狂兽</title>
+  </programme>
+  <programme channel="CHC影迷电影" start="20260509060000 +0800" stop="20260509080100 +0800">
+    <title lang="zh">贝多芬</title>
+  </programme>
+  <programme channel="CHC影迷电影" start="20260509080100 +0800" stop="20260509080200 +0800">
+    <title lang="zh">2024影迷频道形象片</title>
+  </programme>
+  <programme channel="CHC影迷电影" start="20260509080200 +0800" stop="20260509095200 +0800">
+    <title lang="zh">交换人生</title>
+  </programme>
+  <programme channel="CHC影迷电影" start="20260509095200 +0800" stop="20260509111000 +0800">
+    <title lang="zh">妈妈没有走远</title>
+  </programme>
+  <programme channel="CHC影迷电影" start="20260509111000 +0800" stop="20260509125500 +0800">
+    <title lang="zh">追虎擒龙</title>
+  </programme>
+  <programme channel="CHC影迷电影" start="20260509125500 +0800" stop="20260509143300 +0800">
+    <title lang="zh">惊天动地</title>
+  </programme>
+  <programme channel="CHC影迷电影" start="20260509143300 +0800" stop="20260509163400 +0800">
+    <title lang="zh">飞驰人生2</title>
+  </programme>
+  <programme channel="CHC影迷电影" start="20260509163400 +0800" stop="20260509180700 +0800">
+    <title lang="zh">道口烧鸡铺</title>
+  </programme>
+  <programme channel="CHC影迷电影" start="20260509180700 +0800" stop="20260509195500 +0800">
+    <title lang="zh">北京纽约</title>
+  </programme>
+  <programme channel="CHC影迷电影" start="20260509195500 +0800" stop="20260509220000 +0800">
+    <title lang="zh">秀美人生</title>
+  </programme>
+  <programme channel="CHC影迷电影" start="20260509220000 +0800" stop="20260509234200 +0800">
+    <title lang="zh">妈妈</title>
+  </programme>
+  <programme channel="CHC影迷电影" start="20260509234200 +0800" stop="20260509234300 +0800">
+    <title lang="zh">2024影迷频道形象片</title>
+  </programme>
+  <programme channel="CHC影迷电影" start="20260509234300 +0800" stop="20260510000000 +0800">
+    <title lang="zh">神奇动物-邓布利多之谜</title>
   </programme>
   <channel id="上海都市">
     <display-name lang="zh">上海都市</display-name>
@@ -2313,141 +2292,6 @@
   <channel id="东方卫视">
     <display-name lang="zh">东方卫视</display-name>
   </channel>
-  <programme channel="东方卫视" start="20260501001600 +0800" stop="20260501005700 +0800">
-    <title lang="zh">菩提树下(2)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501005700 +0800" stop="20260501010100 +0800">
-    <title lang="zh">明日精彩看点</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501010100 +0800" stop="20260501014200 +0800">
-    <title lang="zh">菩提树下(3)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501014200 +0800" stop="20260501022300 +0800">
-    <title lang="zh">菩提树下(4)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501022300 +0800" stop="20260501022600 +0800">
-    <title lang="zh">明日精彩看点</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501022600 +0800" stop="20260501030700 +0800">
-    <title lang="zh">菩提树下(5)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501030700 +0800" stop="20260501034900 +0800">
-    <title lang="zh">菩提树下(6)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501034900 +0800" stop="20260501043000 +0800">
-    <title lang="zh">菩提树下(7)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501043000 +0800" stop="20260501043300 +0800">
-    <title lang="zh">明日精彩看点</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501043300 +0800" stop="20260501051500 +0800">
-    <title lang="zh">菩提树下(8)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501051500 +0800" stop="20260501055700 +0800">
-    <title lang="zh">菩提树下(9)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501055700 +0800" stop="20260501063900 +0800">
-    <title lang="zh">菩提树下(10)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501063900 +0800" stop="20260501070000 +0800">
-    <title lang="zh">菩提树下(11)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501070000 +0800" stop="20260501070100 +0800">
-    <title lang="zh">中华人民共和国国歌</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501070100 +0800" stop="20260501075900 +0800">
-    <title lang="zh">看东方</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501075900 +0800" stop="20260501080100 +0800">
-    <title lang="zh">天气预报</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501080100 +0800" stop="20260501081900 +0800">
-    <title lang="zh">上海工匠第十一季(1)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501081900 +0800" stop="20260501084300 +0800">
-    <title lang="zh">上海工匠第十一季(2)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501084300 +0800" stop="20260501092500 +0800">
-    <title lang="zh">都挺好(25)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501092500 +0800" stop="20260501100600 +0800">
-    <title lang="zh">都挺好(26)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501100600 +0800" stop="20260501104700 +0800">
-    <title lang="zh">都挺好(27)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501104700 +0800" stop="20260501105900 +0800">
-    <title lang="zh">都挺好(28)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501105900 +0800" stop="20260501120000 +0800">
-    <title lang="zh">上海庆祝五一国际劳动节特别节目</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501120000 +0800" stop="20260501122600 +0800">
-    <title lang="zh">午间30分</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501122600 +0800" stop="20260501122900 +0800">
-    <title lang="zh">天气预报</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501122900 +0800" stop="20260501130200 +0800">
-    <title lang="zh">他为什么依然单身(10)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501130200 +0800" stop="20260501134400 +0800">
-    <title lang="zh">他为什么依然单身(11)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501134400 +0800" stop="20260501142600 +0800">
-    <title lang="zh">他为什么依然单身(12)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501142600 +0800" stop="20260501150800 +0800">
-    <title lang="zh">他为什么依然单身(13)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501150800 +0800" stop="20260501155000 +0800">
-    <title lang="zh">他为什么依然单身(14)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501155000 +0800" stop="20260501163100 +0800">
-    <title lang="zh">他为什么依然单身(15)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501163100 +0800" stop="20260501171400 +0800">
-    <title lang="zh">他为什么依然单身(16)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501171400 +0800" stop="20260501180000 +0800">
-    <title lang="zh">蛮好的人生(1)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501180000 +0800" stop="20260501185700 +0800">
-    <title lang="zh">东方新闻</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501185700 +0800" stop="20260501190000 +0800">
-    <title lang="zh">天气预报</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501190000 +0800" stop="20260501193200 +0800">
-    <title lang="zh">转播中央台新闻联播</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501193200 +0800" stop="20260501201000 +0800">
-    <title lang="zh">蜜语纪(32)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501201000 +0800" stop="20260501201700 +0800">
-    <title lang="zh">明日精彩看点</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501201700 +0800" stop="20260501210700 +0800">
-    <title lang="zh">东方看大剧</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501210700 +0800" stop="20260501212000 +0800">
-    <title lang="zh">原罪第一季(19)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501212000 +0800" stop="20260501215900 +0800">
-    <title lang="zh">今晚</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501215900 +0800" stop="20260501220000 +0800">
-    <title lang="zh">天气预报</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501220000 +0800" stop="20260501222600 +0800">
-    <title lang="zh">爱上海</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501222600 +0800" stop="20260501225100 +0800">
-    <title lang="zh">1/7(1120)</title>
-  </programme>
-  <programme channel="东方卫视" start="20260501225100 +0800" stop="20260502000000 +0800">
-    <title lang="zh">微聚东方·2026微短剧品质盛典</title>
-  </programme>
   <programme channel="东方卫视" start="20260502010000 +0800" stop="20260502014100 +0800">
     <title lang="zh">菩提树下(11)</title>
   </programme>
@@ -3357,19 +3201,150 @@
   <programme channel="东方卫视" start="20260508224700 +0800" stop="20260508233100 +0800">
     <title lang="zh">真心英雄(2)</title>
   </programme>
-  <programme channel="东方卫视" start="20260508233100 +0800" stop="20260509002000 +0800">
+  <programme channel="东方卫视" start="20260508233100 +0800" stop="20260509000000 +0800">
     <title lang="zh">真心英雄(3)</title>
   </programme>
-  <programme channel="东方卫视" start="20260509002000 +0800" stop="20260509010900 +0800">
+  <programme channel="东方卫视" start="20260509000000 +0800" stop="20260509002000 +0800">
     <title lang="zh">真心英雄(4)</title>
-    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="东方卫视" start="20260509002000 +0800" stop="20260509010900 +0800">
+    <title lang="zh">真心英雄(4):现场(4)</title>
   </programme>
   <programme channel="东方卫视" start="20260509010900 +0800" stop="20260509011200 +0800">
+    <title lang="zh">明日精彩看点</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509011200 +0800" stop="20260509015500 +0800">
+    <title lang="zh">妈妈的花样年华(23)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509015500 +0800" stop="20260509023700 +0800">
+    <title lang="zh">妈妈的花样年华(24)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509023700 +0800" stop="20260509024000 +0800">
+    <title lang="zh">明日精彩看点</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509024000 +0800" stop="20260509032200 +0800">
+    <title lang="zh">妈妈的花样年华(25)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509032200 +0800" stop="20260509040200 +0800">
+    <title lang="zh">妈妈的花样年华(26)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509040200 +0800" stop="20260509040500 +0800">
+    <title lang="zh">明日精彩看点</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509040500 +0800" stop="20260509044700 +0800">
+    <title lang="zh">妈妈的花样年华(27)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509044700 +0800" stop="20260509052700 +0800">
+    <title lang="zh">妈妈的花样年华(28)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509052700 +0800" stop="20260509053100 +0800">
+    <title lang="zh">明日精彩看点</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509053100 +0800" stop="20260509061300 +0800">
+    <title lang="zh">妈妈的花样年华(29)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509061300 +0800" stop="20260509065500 +0800">
+    <title lang="zh">妈妈的花样年华(30)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509065500 +0800" stop="20260509070000 +0800">
+    <title lang="zh">探宝上博·百物看中国因AI而生</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509070000 +0800" stop="20260509070100 +0800">
+    <title lang="zh">中华人民共和国国歌</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509070100 +0800" stop="20260509085900 +0800">
+    <title lang="zh">看东方</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509085900 +0800" stop="20260509090200 +0800">
+    <title lang="zh">天气预报</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509090200 +0800" stop="20260509092900 +0800">
+    <title lang="zh">蜜语纪(14)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509092900 +0800" stop="20260509100900 +0800">
+    <title lang="zh">蜜语纪(15)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509100900 +0800" stop="20260509104800 +0800">
+    <title lang="zh">蜜语纪(16)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509104800 +0800" stop="20260509112900 +0800">
+    <title lang="zh">蜜语纪(17)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509112900 +0800" stop="20260509120000 +0800">
+    <title lang="zh">潮童天下(1145)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509120000 +0800" stop="20260509122700 +0800">
+    <title lang="zh">中国考古报道</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509122700 +0800" stop="20260509130800 +0800">
+    <title lang="zh">双城记(842):陪你长大，伴你变老</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509130800 +0800" stop="20260509135100 +0800">
+    <title lang="zh">繁华似锦(14)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509135100 +0800" stop="20260509143300 +0800">
+    <title lang="zh">繁华似锦(15)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509143300 +0800" stop="20260509151500 +0800">
+    <title lang="zh">繁华似锦(16)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509151500 +0800" stop="20260509155800 +0800">
+    <title lang="zh">繁华似锦(17)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509155800 +0800" stop="20260509163900 +0800">
+    <title lang="zh">繁华似锦(18)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509163900 +0800" stop="20260509172000 +0800">
+    <title lang="zh">繁华似锦(19)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509172000 +0800" stop="20260509173500 +0800">
+    <title lang="zh">繁华似锦(20)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509173500 +0800" stop="20260509180000 +0800">
+    <title lang="zh">下一站(221):爵士上海</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509180000 +0800" stop="20260509185700 +0800">
+    <title lang="zh">东方新闻</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509185700 +0800" stop="20260509190000 +0800">
+    <title lang="zh">天气预报</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509190000 +0800" stop="20260509193000 +0800">
+    <title lang="zh">转播中央台新闻联播</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509193000 +0800" stop="20260509201000 +0800">
+    <title lang="zh">低智商犯罪(6)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509201000 +0800" stop="20260509202000 +0800">
+    <title lang="zh">明日精彩看点</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509202000 +0800" stop="20260509210400 +0800">
+    <title lang="zh">真心英雄(5):无名(1)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509210400 +0800" stop="20260509214500 +0800">
+    <title lang="zh">真心英雄(6):无名(2)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509214500 +0800" stop="20260509222600 +0800">
+    <title lang="zh">真心英雄(7):无名(3)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509222600 +0800" stop="20260509230800 +0800">
+    <title lang="zh">真心英雄(8):无名(4)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509230800 +0800" stop="20260509231100 +0800">
+    <title lang="zh">明日精彩看点</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509231100 +0800" stop="20260509235200 +0800">
+    <title lang="zh">妈妈的花样年华(31)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260509235200 +0800" stop="20260510003600 +0800">
+    <title lang="zh">妈妈的花样年华(32)</title>
+  </programme>
+  <programme channel="东方卫视" start="20260510011900 +0800" stop="20260510012200 +0800">
     <title lang="zh">《低智商犯罪》明日精彩看点</title>
     <desc lang="zh">欢迎使用</desc>
   </programme>
-  <programme channel="东方卫视" start="20260509011200 +0800" stop="20260509015400 +0800">
-    <title lang="zh">妈妈的花样年华(23)</title>
+  <programme channel="东方卫视" start="20260510012200 +0800" stop="20260510012500 +0800">
+    <title lang="zh">《低智商犯罪》明日精彩看点</title>
     <desc lang="zh">欢迎使用</desc>
   </programme>
   <channel id="东方影视">
@@ -3378,370 +3353,6 @@
   <channel id="乐游">
     <display-name lang="zh">乐游</display-name>
   </channel>
-  <programme channel="乐游" start="20260501000000 +0800" stop="20260501002100 +0800">
-    <title lang="zh">上海非遗:上海民族乐器</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501002100 +0800" stop="20260501002600 +0800">
-    <title lang="zh">海派百工(24):撕纸</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501002600 +0800" stop="20260501002900 +0800">
-    <title lang="zh">非遗新体验(14):国际饭店蝴蝶酥</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501002900 +0800" stop="20260501005400 +0800">
-    <title lang="zh">记录冬日(4)</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501005400 +0800" stop="20260501005600 +0800">
-    <title lang="zh">乐游黄浦:春日浪漫之旅</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501005600 +0800" stop="20260501011900 +0800">
-    <title lang="zh">味道中山(5):天地农家</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501011900 +0800" stop="20260501014200 +0800">
-    <title lang="zh">味道中山(6):鱼米之乡</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501014200 +0800" stop="20260501014500 +0800">
-    <title lang="zh">一碗人间烟火:鲜鲍五花肉大粽</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501014500 +0800" stop="20260501021300 +0800">
-    <title lang="zh">城市烟火(6):对月围炉</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501021300 +0800" stop="20260501021500 +0800">
-    <title lang="zh">一碗人间烟火(29):香椿酿荷包</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501021500 +0800" stop="20260501021700 +0800">
-    <title lang="zh">乐游上海</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501021700 +0800" stop="20260501024500 +0800">
-    <title lang="zh">指尖上的传承:雷山苗年</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501024500 +0800" stop="20260501031000 +0800">
-    <title lang="zh">上海奶业百年(1):牧场溯源</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501031000 +0800" stop="20260501033500 +0800">
-    <title lang="zh">上海奶业百年(2):工业浪潮</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501033500 +0800" stop="20260501034500 +0800">
-    <title lang="zh">长城我们的故事(10):长城解语者</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501034500 +0800" stop="20260501040600 +0800">
-    <title lang="zh">极限冰岛(6)</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501040600 +0800" stop="20260501040800 +0800">
-    <title lang="zh">乐游黄浦:春日浪漫之旅</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501040800 +0800" stop="20260501042300 +0800">
-    <title lang="zh">川味Ⅰ(1):麻婆豆腐</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501042300 +0800" stop="20260501044000 +0800">
-    <title lang="zh">川味Ⅰ(2):竹宴</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501044000 +0800" stop="20260501050700 +0800">
-    <title lang="zh">城市烟火(7):人生一串</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501050700 +0800" stop="20260501050900 +0800">
-    <title lang="zh">乐游上海</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501050900 +0800" stop="20260501053200 +0800">
-    <title lang="zh">上海非遗:周虎臣毛笔</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501053200 +0800" stop="20260501053700 +0800">
-    <title lang="zh">海派百工(20)</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501053700 +0800" stop="20260501053900 +0800">
-    <title lang="zh">乐游上海:春天的樱花</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501053900 +0800" stop="20260501060400 +0800">
-    <title lang="zh">上海奶业百年(3):细菌战役</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501060400 +0800" stop="20260501062900 +0800">
-    <title lang="zh">上海奶业百年(5):时代变身</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501062900 +0800" stop="20260501063600 +0800">
-    <title lang="zh">长城我们的故事(11):虚实之间</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501063600 +0800" stop="20260501065700 +0800">
-    <title lang="zh">极限冰岛(7)</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501065700 +0800" stop="20260501065900 +0800">
-    <title lang="zh">乐游黄浦:春日浪漫之旅</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501065900 +0800" stop="20260501071500 +0800">
-    <title lang="zh">川味Ⅰ(3):泡菜</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501071500 +0800" stop="20260501073000 +0800">
-    <title lang="zh">川味Ⅰ(4):坛子肉</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501073000 +0800" stop="20260501073200 +0800">
-    <title lang="zh">一碗人间烟火(30):早晨的呼喊</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501073200 +0800" stop="20260501075700 +0800">
-    <title lang="zh">城市烟火(8):吉羊之美</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501075700 +0800" stop="20260501075800 +0800">
-    <title lang="zh">乐游上海</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501075800 +0800" stop="20260501080100 +0800">
-    <title lang="zh">乐游上海:春天的樱花</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501080100 +0800" stop="20260501083900 +0800">
-    <title lang="zh">大河之北Ⅲ(1):生存之基</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501083900 +0800" stop="20260501084600 +0800">
-    <title lang="zh">长城我们的故事(12):长城保护2.0</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501084600 +0800" stop="20260501090800 +0800">
-    <title lang="zh">寻找目的地</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501090800 +0800" stop="20260501093400 +0800">
-    <title lang="zh">寻找目的地:多彩贵州深度之旅</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501093400 +0800" stop="20260501102400 +0800">
-    <title lang="zh">东购扬州东关街望潮楼主题酒店</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501102400 +0800" stop="20260501102600 +0800">
-    <title lang="zh">乐游黄浦:春日浪漫之旅</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501102600 +0800" stop="20260501104000 +0800">
-    <title lang="zh">川味Ⅰ(5):东坡肘子</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501104000 +0800" stop="20260501105500 +0800">
-    <title lang="zh">川味Ⅰ(6):火锅</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501105500 +0800" stop="20260501105700 +0800">
-    <title lang="zh">一碗人间烟火(32)</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501105700 +0800" stop="20260501105900 +0800">
-    <title lang="zh">乐游上海</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501105900 +0800" stop="20260501113900 +0800">
-    <title lang="zh">金色营养课</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501113900 +0800" stop="20260501114100 +0800">
-    <title lang="zh">乐游上海:春天的樱花</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501114100 +0800" stop="20260501122100 +0800">
-    <title lang="zh">大河之北Ⅲ(2):工业之光</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501122100 +0800" stop="20260501124200 +0800">
-    <title lang="zh">寻找目的地:魅力南欧阳光西葡</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501124200 +0800" stop="20260501131500 +0800">
-    <title lang="zh">寻找目的地:香格里拉秘境之旅</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501131500 +0800" stop="20260501132800 +0800">
-    <title lang="zh">寻找目的地:桂西南7日</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501132800 +0800" stop="20260501133000 +0800">
-    <title lang="zh">乐游黄浦:春日浪漫之旅</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501133000 +0800" stop="20260501133300 +0800">
-    <title lang="zh">乐游嘉定:秋霞圃</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501133000 +0800" stop="20260501133300 +0800">
-    <title lang="zh">乐游嘉定:秋霞圃</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501133300 +0800" stop="20260501134800 +0800">
-    <title lang="zh">川味Ⅰ(7):豆瓣</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501134800 +0800" stop="20260501135100 +0800">
-    <title lang="zh">一碗人间烟火(33):红酒烩牛尾</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501135100 +0800" stop="20260501141800 +0800">
-    <title lang="zh">城市烟火(10):万饼风情</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501141800 +0800" stop="20260501142300 +0800">
-    <title lang="zh">海派百工(23):丝毯制作技艺</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501142300 +0800" stop="20260501142500 +0800">
-    <title lang="zh">非遗新体验(13):小绍兴白斩鸡</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501142500 +0800" stop="20260501150400 +0800">
-    <title lang="zh">大河之北Ⅲ(3):腾飞之翼</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501150400 +0800" stop="20260501150800 +0800">
-    <title lang="zh">乐游上海:MeetInShanghai</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501150800 +0800" stop="20260501151500 +0800">
-    <title lang="zh">长城我们的故事:老长城的新主播</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501151500 +0800" stop="20260501153900 +0800">
-    <title lang="zh">记录冬日(3)</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501153900 +0800" stop="20260501155900 +0800">
-    <title lang="zh">寻找目的地:俄罗斯9日精品之旅</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501155900 +0800" stop="20260501160100 +0800">
-    <title lang="zh">乐游黄浦:春日浪漫之旅</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501160100 +0800" stop="20260501162700 +0800">
-    <title lang="zh">寻找目的地:北欧四国双峡湾塔林</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501162700 +0800" stop="20260501162900 +0800">
-    <title lang="zh">一碗人间烟火:浓情巧克力火锅</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501162900 +0800" stop="20260501164500 +0800">
-    <title lang="zh">寻找目的地</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501164500 +0800" stop="20260501171400 +0800">
-    <title lang="zh">城市烟火(11):漫卷百味</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501171400 +0800" stop="20260501171600 +0800">
-    <title lang="zh">乐游上海</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501171600 +0800" stop="20260501173800 +0800">
-    <title lang="zh">上海非遗:上海民族乐器</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501173800 +0800" stop="20260501174300 +0800">
-    <title lang="zh">海派百工(24):撕纸</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501174300 +0800" stop="20260501174500 +0800">
-    <title lang="zh">非遗新体验(14):国际饭店蝴蝶酥</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501174500 +0800" stop="20260501182400 +0800">
-    <title lang="zh">大河之北Ⅲ(4):山高路远</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501182400 +0800" stop="20260501183200 +0800">
-    <title lang="zh">长城我们的故事(15)</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501183200 +0800" stop="20260501185700 +0800">
-    <title lang="zh">记录冬日(4)</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501185700 +0800" stop="20260501190000 +0800">
-    <title lang="zh">乐游黄浦:春日浪漫之旅</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501190000 +0800" stop="20260501191400 +0800">
-    <title lang="zh">川味Ⅰ(12):白果炖鸡</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501191400 +0800" stop="20260501192000 +0800">
-    <title lang="zh">乐游上海:外滩源美丰大楼</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501192000 +0800" stop="20260501200100 +0800">
-    <title lang="zh">金色营养课</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501200100 +0800" stop="20260501205100 +0800">
-    <title lang="zh">东购法意瑞荷比德奥西欧精华游</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501205100 +0800" stop="20260501205300 +0800">
-    <title lang="zh">乐游上海</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501205300 +0800" stop="20260501213200 +0800">
-    <title lang="zh">大河之北Ⅲ(5):通衢天下</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501213200 +0800" stop="20260501214800 +0800">
-    <title lang="zh">寻找目的地</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501214800 +0800" stop="20260501221100 +0800">
-    <title lang="zh">寻找目的地:齐云山五天四晚</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501221100 +0800" stop="20260501221300 +0800">
-    <title lang="zh">乐游黄浦:春日浪漫之旅</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501221300 +0800" stop="20260501222700 +0800">
-    <title lang="zh">川味Ⅰ(12):白果炖鸡</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501222700 +0800" stop="20260501224200 +0800">
-    <title lang="zh">川味Ⅰ(13):回锅肉</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501224200 +0800" stop="20260501231200 +0800">
-    <title lang="zh">城市烟火(12):活色生香</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501231200 +0800" stop="20260501235200 +0800">
-    <title lang="zh">大河之北Ⅲ(5):通衢天下</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
-  <programme channel="乐游" start="20260501235200 +0800" stop="20260502000000 +0800">
-    <title lang="zh">长城我们的故事(16)</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
   <programme channel="乐游" start="20260502000000 +0800" stop="20260502002500 +0800">
     <title lang="zh">上海非遗:上海田山歌</title>
     <desc lang="zh">欢迎使用</desc>
@@ -5281,10 +4892,6 @@
     <title lang="zh">川味Ⅰ(12):白果炖鸡</title>
     <desc lang="zh">欢迎使用</desc>
   </programme>
-  <programme channel="乐游" start="20260507012500 +0800" stop="20260507013900 +0800">
-    <title lang="zh">川味Ⅰ(12):白果炖鸡</title>
-    <desc lang="zh">欢迎使用</desc>
-  </programme>
   <programme channel="乐游" start="20260507013900 +0800" stop="20260507015400 +0800">
     <title lang="zh">川味Ⅰ(13):回锅肉</title>
     <desc lang="zh">欢迎使用</desc>
@@ -5447,6 +5054,10 @@
   </programme>
   <programme channel="乐游" start="20260507125200 +0800" stop="20260507130800 +0800">
     <title lang="zh">寻找目的地</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260507130800 +0800" stop="20260507133200 +0800">
+    <title lang="zh">意大利梦(3):翁布里亚</title>
     <desc lang="zh">欢迎使用</desc>
   </programme>
   <programme channel="乐游" start="20260507130800 +0800" stop="20260507133200 +0800">
@@ -5901,69 +5512,305 @@
     <title lang="zh">千年陕菜(1):九鼎之味</title>
     <desc lang="zh">欢迎使用</desc>
   </programme>
+  <programme channel="乐游" start="20260509012200 +0800" stop="20260509014800 +0800">
+    <title lang="zh">千年陕菜(1):九鼎之味</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509014800 +0800" stop="20260509014900 +0800">
+    <title lang="zh">一碗人间烟火(36):南瓜窝饭</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509014900 +0800" stop="20260509021600 +0800">
+    <title lang="zh">发现新上海:魔都早餐(2)</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509021600 +0800" stop="20260509023700 +0800">
+    <title lang="zh">上海非遗:曹素功墨锭</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509023700 +0800" stop="20260509024200 +0800">
+    <title lang="zh">海派百工(27):瓷刻张宗贤篇</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509024200 +0800" stop="20260509024500 +0800">
+    <title lang="zh">非遗新体验(16):制版拓印工艺</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509024500 +0800" stop="20260509033600 +0800">
+    <title lang="zh">万物滋养(1):森林间的心机</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509033600 +0800" stop="20260509040200 +0800">
+    <title lang="zh">意大利梦(2):罗马</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509040200 +0800" stop="20260509040400 +0800">
+    <title lang="zh">乐游黄浦:春日浪漫之旅</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509040400 +0800" stop="20260509043000 +0800">
+    <title lang="zh">千年陕菜(2):妙造自然</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509043000 +0800" stop="20260509043300 +0800">
+    <title lang="zh">一碗人间烟火(37):元宝茶</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509043300 +0800" stop="20260509050000 +0800">
+    <title lang="zh">发现新上海:名厨名菜(1)</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509050000 +0800" stop="20260509050200 +0800">
+    <title lang="zh">乐游上海</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509050200 +0800" stop="20260509052300 +0800">
+    <title lang="zh">上海非遗:罗店龙船</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509052300 +0800" stop="20260509052600 +0800">
+    <title lang="zh">非遗新体验:海派绒线编结技艺</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509052600 +0800" stop="20260509061600 +0800">
+    <title lang="zh">万物滋养(2):海岸边的流浪</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509061600 +0800" stop="20260509062500 +0800">
+    <title lang="zh">国宝里的新疆Ⅰ:美人的闲情逸致</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509062500 +0800" stop="20260509065200 +0800">
+    <title lang="zh">意大利梦(3):翁布里亚</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509065200 +0800" stop="20260509065300 +0800">
+    <title lang="zh">乐游黄浦:春日浪漫之旅</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509065300 +0800" stop="20260509071800 +0800">
+    <title lang="zh">千年陕菜(3):面里乾坤</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509071800 +0800" stop="20260509072100 +0800">
+    <title lang="zh">一碗人间烟火(38):飞鸭烧蛋</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509072100 +0800" stop="20260509075200 +0800">
+    <title lang="zh">发现新上海:名厨名菜(2)</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509075200 +0800" stop="20260509075400 +0800">
+    <title lang="zh">乐游上海</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509075400 +0800" stop="20260509075900 +0800">
+    <title lang="zh">海派百工(29):徐行草编</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509075900 +0800" stop="20260509080400 +0800">
+    <title lang="zh">非遗新体验(19):砚刻艺术</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509080400 +0800" stop="20260509085300 +0800">
+    <title lang="zh">万物滋养(3):旱地上的斗争</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509085300 +0800" stop="20260509090000 +0800">
+    <title lang="zh">国宝里的新疆Ⅰ(4)</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509090000 +0800" stop="20260509091700 +0800">
+    <title lang="zh">寻找目的地</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509091700 +0800" stop="20260509093100 +0800">
+    <title lang="zh">寻找目的地:桂西南7日</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509093100 +0800" stop="20260509102400 +0800">
+    <title lang="zh">东购滨海风情大连丹东双飞5日</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509102400 +0800" stop="20260509102600 +0800">
+    <title lang="zh">乐游黄浦:春日浪漫之旅</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509102600 +0800" stop="20260509105200 +0800">
+    <title lang="zh">千年陕菜(4):三秦五味</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509105200 +0800" stop="20260509105600 +0800">
+    <title lang="zh">一碗人间烟火(39):徐行蒸糕</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509105600 +0800" stop="20260509110000 +0800">
+    <title lang="zh">海派百工(30):微雕微刻</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509110000 +0800" stop="20260509114100 +0800">
+    <title lang="zh">金色营养课</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509114100 +0800" stop="20260509123100 +0800">
+    <title lang="zh">万物滋养(4):田野中的冒险</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509123100 +0800" stop="20260509125200 +0800">
+    <title lang="zh">寻找目的地:魅力南欧阳光西葡</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509125200 +0800" stop="20260509131800 +0800">
+    <title lang="zh">寻找目的地:北欧四国双峡湾塔林</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509131800 +0800" stop="20260509134400 +0800">
+    <title lang="zh">意大利梦(5):皮埃蒙特和伦巴第</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509134400 +0800" stop="20260509141000 +0800">
+    <title lang="zh">千年陕菜(5):炊金馔玉</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509141000 +0800" stop="20260509143000 +0800">
+    <title lang="zh">寻找目的地</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509143000 +0800" stop="20260509143200 +0800">
+    <title lang="zh">一碗人间烟火(41):鮰鱼狮子头</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509143200 +0800" stop="20260509145200 +0800">
+    <title lang="zh">寻找目的地:俄罗斯9日精品之旅</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509145200 +0800" stop="20260509154200 +0800">
+    <title lang="zh">万物滋养(5):江湖里的追逐</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509154200 +0800" stop="20260509154800 +0800">
+    <title lang="zh">国宝里的新疆Ⅰ(6):我守护着你</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509154800 +0800" stop="20260509161500 +0800">
+    <title lang="zh">意大利梦(6):普利亚</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509161500 +0800" stop="20260509163500 +0800">
+    <title lang="zh">寻找目的地:魅力南欧阳光西葡</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509163500 +0800" stop="20260509163700 +0800">
+    <title lang="zh">乐游黄浦:春日浪漫之旅</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509163700 +0800" stop="20260509165600 +0800">
+    <title lang="zh">寻找目的地</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509165600 +0800" stop="20260509165900 +0800">
+    <title lang="zh">一碗人间烟火(42):拿铁鱼头汤</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509165900 +0800" stop="20260509172700 +0800">
+    <title lang="zh">川菜的品格(3):天然质朴</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509172700 +0800" stop="20260509172900 +0800">
+    <title lang="zh">一碗人间烟火(43):腐乳红烧肉</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509172900 +0800" stop="20260509181900 +0800">
+    <title lang="zh">万物滋养(6):高原上的温存</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509181900 +0800" stop="20260509182700 +0800">
+    <title lang="zh">国宝里的新疆Ⅱ(1):一起嗨起来</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509182700 +0800" stop="20260509185400 +0800">
+    <title lang="zh">希腊美食(1):卡拉马塔橄榄</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509185400 +0800" stop="20260509191900 +0800">
+    <title lang="zh">美食令Ⅰ(1)</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509191900 +0800" stop="20260509200000 +0800">
+    <title lang="zh">金色营养课</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509200000 +0800" stop="20260509205100 +0800">
+    <title lang="zh">东购北欧四国双峡湾爱沙尼亚11日</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509205100 +0800" stop="20260509213600 +0800">
+    <title lang="zh">家在顺德(1):聚</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509213600 +0800" stop="20260509215400 +0800">
+    <title lang="zh">寻找目的地</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509215400 +0800" stop="20260509221700 +0800">
+    <title lang="zh">寻找目的地:齐云山五天四晚</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509221700 +0800" stop="20260509224100 +0800">
+    <title lang="zh">美食令Ⅰ(1)</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509224100 +0800" stop="20260509224300 +0800">
+    <title lang="zh">一碗人间烟火(44):红烧小龙虾</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509224300 +0800" stop="20260509231100 +0800">
+    <title lang="zh">川菜的品格(4):出身布衣</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509231100 +0800" stop="20260509231300 +0800">
+    <title lang="zh">一碗人间烟火(45):一口西多士</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260509231300 +0800" stop="20260510000000 +0800">
+    <title lang="zh">家在顺德(1):聚</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260510000000 +0800" stop="20260510001900 +0800">
+    <title lang="zh">上海非遗:锣鼓书</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260510001900 +0800" stop="20260510002400 +0800">
+    <title lang="zh">海派百工:南翔小笼馒头古猗园篇</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260510002400 +0800" stop="20260510002800 +0800">
+    <title lang="zh">非遗新体验(23):钩针技艺</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260510002800 +0800" stop="20260510003000 +0800">
+    <title lang="zh">乐游上海:春天的樱花</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260510003000 +0800" stop="20260510005700 +0800">
+    <title lang="zh">希腊美食(2):伊卡利亚岛</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260510005700 +0800" stop="20260510005900 +0800">
+    <title lang="zh">乐游黄浦:春日浪漫之旅</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260510005900 +0800" stop="20260510012500 +0800">
+    <title lang="zh">发现新上海:魔都早餐(2)</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme channel="乐游" start="20260510012500 +0800" stop="20260510015200 +0800">
+    <title lang="zh">千年陕菜(2):妙造自然</title>
+    <desc lang="zh">欢迎使用</desc>
+  </programme>
   <channel id="五星体育">
     <display-name lang="zh">五星体育</display-name>
   </channel>
-  <programme channel="五星体育" start="20260507123600 +0800" stop="20260507131300 +0800">
-    <title lang="zh">2026 中超联赛 第8轮:上海海港-武汉三镇</title>
-  </programme>
-  <programme channel="五星体育" start="20260507131300 +0800" stop="20260507134800 +0800">
-    <title lang="zh">2026 中超联赛 第8轮:河南俱乐部-上海申花</title>
-  </programme>
-  <programme channel="五星体育" start="20260507134800 +0800" stop="20260507140000 +0800">
-    <title lang="zh">《五星精彩》F1史上12次冠军梦破碎时刻</title>
-  </programme>
-  <programme channel="五星体育" start="20260507140000 +0800" stop="20260507140500 +0800">
-    <title lang="zh">健身时代 精选周四</title>
-  </programme>
-  <programme channel="五星体育" start="20260507140500 +0800" stop="20260507150000 +0800">
-    <title lang="zh">2026ATP1000 马德里公开赛 半决赛首</title>
-  </programme>
-  <programme channel="五星体育" start="20260507150000 +0800" stop="20260507160000 +0800">
-    <title lang="zh">2026上海浪琴 环球马术冠军赛 5.2晚场:1.50米争时赛</title>
-  </programme>
-  <programme channel="五星体育" start="20260507160000 +0800" stop="20260507161400 +0800">
-    <title lang="zh">健身时代 精选周四</title>
-  </programme>
-  <programme channel="五星体育" start="20260507161400 +0800" stop="20260507162400 +0800">
-    <title lang="zh">五星精彩-《叁拾年30星》</title>
-  </programme>
-  <programme channel="五星体育" start="20260507162400 +0800" stop="20260507170000 +0800">
-    <title lang="zh">2026 中超联赛 第10轮:上海海港-深圳新鹏城</title>
-  </programme>
-  <programme channel="五星体育" start="20260507170000 +0800" stop="20260507180000 +0800">
-    <title lang="zh">五星精彩- 弈棋耍大牌 精彩牌局</title>
-  </programme>
-  <programme channel="五星体育" start="20260507180000 +0800" stop="20260507190000 +0800">
-    <title lang="zh">弈棋耍大牌</title>
-  </programme>
-  <programme channel="五星体育" start="20260507190000 +0800" stop="20260507193000 +0800">
-    <title lang="zh">体育新闻</title>
-  </programme>
-  <programme channel="五星体育" start="20260507193000 +0800" stop="20260507202700 +0800">
-    <title lang="zh">2025-26赛季NBA季后赛</title>
-  </programme>
-  <programme channel="五星体育" start="20260507202700 +0800" stop="20260507210400 +0800">
-    <title lang="zh">2026极速终点线1</title>
-  </programme>
-  <programme channel="五星体育" start="20260507210400 +0800" stop="20260507215500 +0800">
-    <title lang="zh">2026 波士顿马拉松</title>
-  </programme>
-  <programme channel="五星体育" start="20260507215500 +0800" stop="20260507220000 +0800">
-    <title lang="zh">健身时代 精选周四</title>
-  </programme>
-  <programme channel="五星体育" start="20260507220000 +0800" stop="20260507230000 +0800">
-    <title lang="zh">弈棋耍大牌 -上海三打一</title>
-  </programme>
-  <programme channel="五星体育" start="20260507230000 +0800" stop="20260507235200 +0800">
-    <title lang="zh">2026 国际帆船大奖赛 里约站集锦</title>
-  </programme>
-  <programme channel="五星体育" start="20260507235200 +0800" stop="20260508120000 +0800">
-    <title lang="zh">2026 澳大利亚网球公开赛 女单第二轮 萨巴伦卡-白卓璇</title>
-  </programme>
-  <programme channel="五星体育" start="20260508120000 +0800" stop="20260508123600 +0800">
-    <title lang="zh">健身时代 精选36分钟</title>
-  </programme>
   <programme channel="五星体育" start="20260508123600 +0800" stop="20260508130700 +0800">
     <title lang="zh">棋牌新教室</title>
   </programme>
@@ -6021,142 +5868,6 @@
   <channel id="欢笑剧场">
     <display-name lang="zh">欢笑剧场</display-name>
   </channel>
-  <programme channel="欢笑剧场" start="20260501010200 +0800" stop="20260501013600 +0800">
-    <title lang="zh">以器之名1(1):瓷光溢彩</title>
-    <desc lang="zh">以器之名，宣扬中国文化。</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501013600 +0800" stop="20260501020500 +0800">
-    <title lang="zh">美美搭特训营1:时尚百搭单品</title>
-    <desc lang="zh">美美搭特训营</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501020500 +0800" stop="20260501024000 +0800">
-    <title lang="zh">健身私享课1(7):臀腿轰炸机</title>
-    <desc lang="zh">以主打健身课程的超高清精品内容将为用户开启 新体验。</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501024000 +0800" stop="20260501050600 +0800">
-    <title lang="zh">艺术大厅:越剧</title>
-    <desc lang="zh">经典歌剧、戏曲选萃播放。</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501050600 +0800" stop="20260501053600 +0800">
-    <title lang="zh">以器之名1(2):瓷碎重圆</title>
-    <desc lang="zh">以器之名，宣扬中国文化。</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501053600 +0800" stop="20260501061100 +0800">
-    <title lang="zh">书画中国(4):杨宏富</title>
-    <desc lang="zh">国庆黄金周期间，旅游卫视推出《世界游》特别节目《书画中国》，继上一年度推出《艺文中国》后的又一文艺访谈类节目，将聚焦中国近现代书画领域近50位书画大家。</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501061100 +0800" stop="20260501064000 +0800">
-    <title lang="zh">健身私享课1(8)</title>
-    <desc lang="zh">以主打健身课程的超高清精品内容将为用户开启 新体验。</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501064000 +0800" stop="20260501072500 +0800">
-    <title lang="zh">紧追不舍(8)</title>
-    <desc lang="zh">暂无节目描述</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501072500 +0800" stop="20260501075500 +0800">
-    <title lang="zh">以器之名1(3):雕壳天地</title>
-    <desc lang="zh">以器之名，宣扬中国文化。</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501075500 +0800" stop="20260501082700 +0800">
-    <title lang="zh">书画中国(5):张切易</title>
-    <desc lang="zh">国庆黄金周期间，旅游卫视推出《世界游》特别节目《书画中国》，继上一年度推出《艺文中国》后的又一文艺访谈类节目，将聚焦中国近现代书画领域近50位书画大家。</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501082700 +0800" stop="20260501085600 +0800">
-    <title lang="zh">健身私享课1(9):臀腿增肌</title>
-    <desc lang="zh">以主打健身课程的超高清精品内容将为用户开启 新体验。</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501085600 +0800" stop="20260501094300 +0800">
-    <title lang="zh">紧追不舍(9)</title>
-    <desc lang="zh">暂无节目描述</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501094300 +0800" stop="20260501101200 +0800">
-    <title lang="zh">以器之名1(4):金韵花丝</title>
-    <desc lang="zh">以器之名，宣扬中国文化。</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501101200 +0800" stop="20260501104200 +0800">
-    <title lang="zh">书画中国(6):乐建成</title>
-    <desc lang="zh">国庆黄金周期间，旅游卫视推出《世界游》特别节目《书画中国》，继上一年度推出《艺文中国》后的又一文艺访谈类节目，将聚焦中国近现代书画领域近50位书画大家。</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501104200 +0800" stop="20260501111100 +0800">
-    <title lang="zh">健身私享课1(10):臀腿拉伸</title>
-    <desc lang="zh">以主打健身课程的超高清精品内容将为用户开启 新体验。</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501111100 +0800" stop="20260501122700 +0800">
-    <title lang="zh">金卡纳漂移赛车</title>
-    <desc lang="zh">暂无节目描述</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501122700 +0800" stop="20260501125800 +0800">
-    <title lang="zh">以器之名1(5):面中乾坤</title>
-    <desc lang="zh">以器之名，宣扬中国文化。</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501125800 +0800" stop="20260501134000 +0800">
-    <title lang="zh">江河之上(33)</title>
-    <desc lang="zh">该剧主要讲述了环境资源法官罗远、法庭顾问夏未冬等一批锐意有为的司法工作者在一连串环保案件中扫黑除恶明法、打击污染犯罪、维护环境生态、探索司法改革、捍卫公众权益的故事。作为中国首部环保司法题材剧，剧集聚焦长江流域环境保护司法实践的精彩案例，讲述环境资源审判的“中国故事”。影片编创团队希望用这样一部故事背景源自生活、视角兼顾官方和民间的现实主义大剧，来吸引社会各界的关注，借此展示环保司法改革之路的艰辛，推广绿色发展理念，增强民众环保意识。</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501134000 +0800" stop="20260501142300 +0800">
-    <title lang="zh">江河之上(34)</title>
-    <desc lang="zh">该剧主要讲述了环境资源法官罗远、法庭顾问夏未冬等一批锐意有为的司法工作者在一连串环保案件中扫黑除恶明法、打击污染犯罪、维护环境生态、探索司法改革、捍卫公众权益的故事。作为中国首部环保司法题材剧，剧集聚焦长江流域环境保护司法实践的精彩案例，讲述环境资源审判的“中国故事”。影片编创团队希望用这样一部故事背景源自生活、视角兼顾官方和民间的现实主义大剧，来吸引社会各界的关注，借此展示环保司法改革之路的艰辛，推广绿色发展理念，增强民众环保意识。</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501142300 +0800" stop="20260501145200 +0800">
-    <title lang="zh">美美搭特训营2:丹宁风穿搭</title>
-    <desc lang="zh">美美搭特训营</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501145200 +0800" stop="20260501152200 +0800">
-    <title lang="zh">健身私享课1(11)</title>
-    <desc lang="zh">以主打健身课程的超高清精品内容将为用户开启 新体验。</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501152200 +0800" stop="20260501163000 +0800">
-    <title lang="zh">2025匹克球明星巡回表演赛</title>
-    <desc lang="zh">暂无节目描述</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501163000 +0800" stop="20260501170100 +0800">
-    <title lang="zh">以器之名1(6):千锤百炼</title>
-    <desc lang="zh">以器之名，宣扬中国文化。</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501170100 +0800" stop="20260501174600 +0800">
-    <title lang="zh">两个人的世界(1)</title>
-    <desc lang="zh">《两个人的世界》电视剧是由梦继执导，郭京飞、王珞丹领衔主演，邵汶、王文娜、朱茵、刘洁、郑毓芝、秦焰、徐松子主演的都市励志情感剧。该剧根据周艺飞的同名小说改编，讲述了许东阳和李文嘉为代表的年轻一代，远离家乡，到上海追寻梦想与奋斗的故事。东阳和文嘉是大学同学，毕业后两人分别来上海打拼。初来乍到的东阳屡次受挫，但凭借着自己的正直坦诚获得上司的赏识，从装修队员被提拔到材料监理。文嘉为摆脱寄人篱下的生活，在职场竞争中，越战越勇。两人结缘，在合租的小屋里相互扶持，感情升温，文嘉生病的契机更坚定了彼此的心意，两人决定结婚。婚后东阳遭人陷害被迫辞职，自主创业成立公司；文嘉怀孕生子，幸福正当时却深陷家族纠纷，最后关头文嘉选择成全他人。几年后，儿子小虎长大，文嘉已在工作中独当一面。前房东孔先生遭遇动迁，文嘉为其撰文引来社会关注，夫妻俩却因此发生矛盾。几经波折后，两人成功为孔先生保住了老洋房。又过了几年，东阳和文嘉已是幸福的四口之家，他们在上海发展的剧变中，作为城市的建设者，随着城市一起成长。</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501174600 +0800" stop="20260501183100 +0800">
-    <title lang="zh">两个人的世界(2)</title>
-    <desc lang="zh">《两个人的世界》电视剧是由梦继执导，郭京飞、王珞丹领衔主演，邵汶、王文娜、朱茵、刘洁、郑毓芝、秦焰、徐松子主演的都市励志情感剧。该剧根据周艺飞的同名小说改编，讲述了许东阳和李文嘉为代表的年轻一代，远离家乡，到上海追寻梦想与奋斗的故事。东阳和文嘉是大学同学，毕业后两人分别来上海打拼。初来乍到的东阳屡次受挫，但凭借着自己的正直坦诚获得上司的赏识，从装修队员被提拔到材料监理。文嘉为摆脱寄人篱下的生活，在职场竞争中，越战越勇。两人结缘，在合租的小屋里相互扶持，感情升温，文嘉生病的契机更坚定了彼此的心意，两人决定结婚。婚后东阳遭人陷害被迫辞职，自主创业成立公司；文嘉怀孕生子，幸福正当时却深陷家族纠纷，最后关头文嘉选择成全他人。几年后，儿子小虎长大，文嘉已在工作中独当一面。前房东孔先生遭遇动迁，文嘉为其撰文引来社会关注，夫妻俩却因此发生矛盾。几经波折后，两人成功为孔先生保住了老洋房。又过了几年，东阳和文嘉已是幸福的四口之家，他们在上海发展的剧变中，作为城市的建设者，随着城市一起成长。</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501183100 +0800" stop="20260501190100 +0800">
-    <title lang="zh">美美搭特训营2(2):度假穿搭</title>
-    <desc lang="zh">美美搭特训营</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501190100 +0800" stop="20260501193100 +0800">
-    <title lang="zh">健身私享课1(12)</title>
-    <desc lang="zh">以主打健身课程的超高清精品内容将为用户开启 新体验。</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501193100 +0800" stop="20260501202800 +0800">
-    <title lang="zh">艺术大厅</title>
-    <desc lang="zh">经典歌剧、戏曲选萃播放。</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501202800 +0800" stop="20260501205800 +0800">
-    <title lang="zh">以器之名1(7):神工美玉</title>
-    <desc lang="zh">以器之名，宣扬中国文化。</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501205800 +0800" stop="20260501213900 +0800">
-    <title lang="zh">两个人的世界(3)</title>
-    <desc lang="zh">《两个人的世界》电视剧是由梦继执导，郭京飞、王珞丹领衔主演，邵汶、王文娜、朱茵、刘洁、郑毓芝、秦焰、徐松子主演的都市励志情感剧。该剧根据周艺飞的同名小说改编，讲述了许东阳和李文嘉为代表的年轻一代，远离家乡，到上海追寻梦想与奋斗的故事。东阳和文嘉是大学同学，毕业后两人分别来上海打拼。初来乍到的东阳屡次受挫，但凭借着自己的正直坦诚获得上司的赏识，从装修队员被提拔到材料监理。文嘉为摆脱寄人篱下的生活，在职场竞争中，越战越勇。两人结缘，在合租的小屋里相互扶持，感情升温，文嘉生病的契机更坚定了彼此的心意，两人决定结婚。婚后东阳遭人陷害被迫辞职，自主创业成立公司；文嘉怀孕生子，幸福正当时却深陷家族纠纷，最后关头文嘉选择成全他人。几年后，儿子小虎长大，文嘉已在工作中独当一面。前房东孔先生遭遇动迁，文嘉为其撰文引来社会关注，夫妻俩却因此发生矛盾。几经波折后，两人成功为孔先生保住了老洋房。又过了几年，东阳和文嘉已是幸福的四口之家，他们在上海发展的剧变中，作为城市的建设者，随着城市一起成长。</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501213900 +0800" stop="20260501222400 +0800">
-    <title lang="zh">两个人的世界(4)</title>
-    <desc lang="zh">《两个人的世界》电视剧是由梦继执导，郭京飞、王珞丹领衔主演，邵汶、王文娜、朱茵、刘洁、郑毓芝、秦焰、徐松子主演的都市励志情感剧。该剧根据周艺飞的同名小说改编，讲述了许东阳和李文嘉为代表的年轻一代，远离家乡，到上海追寻梦想与奋斗的故事。东阳和文嘉是大学同学，毕业后两人分别来上海打拼。初来乍到的东阳屡次受挫，但凭借着自己的正直坦诚获得上司的赏识，从装修队员被提拔到材料监理。文嘉为摆脱寄人篱下的生活，在职场竞争中，越战越勇。两人结缘，在合租的小屋里相互扶持，感情升温，文嘉生病的契机更坚定了彼此的心意，两人决定结婚。婚后东阳遭人陷害被迫辞职，自主创业成立公司；文嘉怀孕生子，幸福正当时却深陷家族纠纷，最后关头文嘉选择成全他人。几年后，儿子小虎长大，文嘉已在工作中独当一面。前房东孔先生遭遇动迁，文嘉为其撰文引来社会关注，夫妻俩却因此发生矛盾。几经波折后，两人成功为孔先生保住了老洋房。又过了几年，东阳和文嘉已是幸福的四口之家，他们在上海发展的剧变中，作为城市的建设者，随着城市一起成长。</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501222400 +0800" stop="20260501225400 +0800">
-    <title lang="zh">美美搭特训营1:时尚百搭单品</title>
-    <desc lang="zh">美美搭特训营</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501225400 +0800" stop="20260501232300 +0800">
-    <title lang="zh">健身私享课1(7):臀腿轰炸机</title>
-    <desc lang="zh">以主打健身课程的超高清精品内容将为用户开启 新体验。</desc>
-  </programme>
-  <programme channel="欢笑剧场" start="20260501232300 +0800" stop="20260502000000 +0800">
-    <title lang="zh">艺术大厅:越剧</title>
-    <desc lang="zh">经典歌剧、戏曲选萃播放。</desc>
-  </programme>
   <programme channel="欢笑剧场" start="20260502014900 +0800" stop="20260502021900 +0800">
     <title lang="zh">以器之名1(2):瓷碎重圆</title>
     <desc lang="zh">以器之名，宣扬中国文化。</desc>
@@ -6965,7 +6676,7 @@
     <title lang="zh">健身私享课1(13)</title>
     <desc lang="zh">以主打健身课程的超高清精品内容将为用户开启 新体验。</desc>
   </programme>
-  <programme channel="欢笑剧场" start="20260507231400 +0800" stop="20260508012000 +0800">
+  <programme channel="欢笑剧场" start="20260507231400 +0800" stop="20260508000000 +0800">
     <title lang="zh">艺术大厅:越剧</title>
     <desc lang="zh">经典歌剧、戏曲选萃播放。</desc>
   </programme>
@@ -7109,9 +6820,153 @@
     <title lang="zh">健身私享课1:哑铃手臂塑形</title>
     <desc lang="zh">以主打健身课程的超高清精品内容将为用户开启 新体验。</desc>
   </programme>
-  <programme channel="欢笑剧场" start="20260508235300 +0800" stop="20260509000000 +0800">
+  <programme channel="欢笑剧场" start="20260508235300 +0800" stop="20260509005400 +0800">
     <title lang="zh">艺术大厅</title>
     <desc lang="zh">经典歌剧、戏曲选萃播放。</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509005400 +0800" stop="20260509012300 +0800">
+    <title lang="zh">以器之名1(9):玉骨金魂</title>
+    <desc lang="zh">以器之名，宣扬中国文化。</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509012300 +0800" stop="20260509015300 +0800">
+    <title lang="zh">书画中国(7):徐仲偶</title>
+    <desc lang="zh">国庆黄金周期间，旅游卫视推出《世界游》特别节目《书画中国》，继上一年度推出《艺文中国》后的又一文艺访谈类节目，将聚焦中国近现代书画领域近50位书画大家。</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509015300 +0800" stop="20260509022200 +0800">
+    <title lang="zh">健身私享课1:钢铁手臂塑造</title>
+    <desc lang="zh">以主打健身课程的超高清精品内容将为用户开启 新体验。</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509022200 +0800" stop="20260509032600 +0800">
+    <title lang="zh">耐力极限:24小时赛车(1)</title>
+    <desc lang="zh">暂无节目描述</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509032600 +0800" stop="20260509035600 +0800">
+    <title lang="zh">以器之名1(10):浴火重生</title>
+    <desc lang="zh">以器之名，宣扬中国文化。</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509035600 +0800" stop="20260509044000 +0800">
+    <title lang="zh">两个人的世界(14)</title>
+    <desc lang="zh">《两个人的世界》电视剧是由梦继执导，郭京飞、王珞丹领衔主演，邵汶、王文娜、朱茵、刘洁、郑毓芝、秦焰、徐松子主演的都市励志情感剧。该剧根据周艺飞的同名小说改编，讲述了许东阳和李文嘉为代表的年轻一代，远离家乡，到上海追寻梦想与奋斗的故事。东阳和文嘉是大学同学，毕业后两人分别来上海打拼。初来乍到的东阳屡次受挫，但凭借着自己的正直坦诚获得上司的赏识，从装修队员被提拔到材料监理。文嘉为摆脱寄人篱下的生活，在职场竞争中，越战越勇。两人结缘，在合租的小屋里相互扶持，感情升温，文嘉生病的契机更坚定了彼此的心意，两人决定结婚。婚后东阳遭人陷害被迫辞职，自主创业成立公司；文嘉怀孕生子，幸福正当时却深陷家族纠纷，最后关头文嘉选择成全他人。几年后，儿子小虎长大，文嘉已在工作中独当一面。前房东孔先生遭遇动迁，文嘉为其撰文引来社会关注，夫妻俩却因此发生矛盾。几经波折后，两人成功为孔先生保住了老洋房。又过了几年，东阳和文嘉已是幸福的四口之家，他们在上海发展的剧变中，作为城市的建设者，随着城市一起成长。</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509044000 +0800" stop="20260509054100 +0800">
+    <title lang="zh">艺术大厅</title>
+    <desc lang="zh">经典歌剧、戏曲选萃播放。</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509054100 +0800" stop="20260509061100 +0800">
+    <title lang="zh">书画中国(8):黄阿忠</title>
+    <desc lang="zh">国庆黄金周期间，旅游卫视推出《世界游》特别节目《书画中国》，继上一年度推出《艺文中国》后的又一文艺访谈类节目，将聚焦中国近现代书画领域近50位书画大家。</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509061100 +0800" stop="20260509063900 +0800">
+    <title lang="zh">健身私享课1:哑铃手臂轰炸</title>
+    <desc lang="zh">以主打健身课程的超高清精品内容将为用户开启 新体验。</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509063900 +0800" stop="20260509074200 +0800">
+    <title lang="zh">耐力极限:24小时赛车(2)</title>
+    <desc lang="zh">暂无节目描述</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509074200 +0800" stop="20260509080800 +0800">
+    <title lang="zh">神秘的草原石窟(1):发现</title>
+    <desc lang="zh">《神秘的草原石窟》是以第五批全国重点文物保护单位，被誉为“草原敦煌”的阿尔寨石窟为题材，与中国社科院、敦煌研究院、河北博物院等多个单位通力合作，寻访国内外的考古学家、文物修复专家、建筑学家、地质学家等专家学者，深入到印度、乌兹别克斯坦、德国等进行广泛采访拍摄的大型人文历史纪录片。该片播出前已荣获内蒙古自治区第十四届精神文明建设电视剧类 “五个一工程（2017-2019）”奖。由鄂尔多斯市委宣传部、鄂尔多斯市文化和旅游局、鄂托克旗人民政府总策划，中视航通影视制作(北京)有限公司承制，北京世纪文华文化传媒有限公司联合出品，历时三年拍摄制作的纪录片《神秘的草原石窟》即将于10月21日--- 10月23日在中央电视台纪录片（CCTV-9）频道首播。每晚黄金时段19:27带领观众走进草原文明，展开一场跨时空的对话，揭开草原石窟群的神秘面纱！</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509080800 +0800" stop="20260509083800 +0800">
+    <title lang="zh">书画中国(9):张秋波</title>
+    <desc lang="zh">国庆黄金周期间，旅游卫视推出《世界游》特别节目《书画中国》，继上一年度推出《艺文中国》后的又一文艺访谈类节目，将聚焦中国近现代书画领域近50位书画大家。</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509083800 +0800" stop="20260509090700 +0800">
+    <title lang="zh">健身私享课1:哑铃肩部塑形</title>
+    <desc lang="zh">以主打健身课程的超高清精品内容将为用户开启 新体验。</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509090700 +0800" stop="20260509101200 +0800">
+    <title lang="zh">耐力极限:24小时赛车(3)</title>
+    <desc lang="zh">暂无节目描述</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509101200 +0800" stop="20260509103600 +0800">
+    <title lang="zh">神秘的草原石窟(2):圣地</title>
+    <desc lang="zh">《神秘的草原石窟》是以第五批全国重点文物保护单位，被誉为“草原敦煌”的阿尔寨石窟为题材，与中国社科院、敦煌研究院、河北博物院等多个单位通力合作，寻访国内外的考古学家、文物修复专家、建筑学家、地质学家等专家学者，深入到印度、乌兹别克斯坦、德国等进行广泛采访拍摄的大型人文历史纪录片。该片播出前已荣获内蒙古自治区第十四届精神文明建设电视剧类 “五个一工程（2017-2019）”奖。由鄂尔多斯市委宣传部、鄂尔多斯市文化和旅游局、鄂托克旗人民政府总策划，中视航通影视制作(北京)有限公司承制，北京世纪文华文化传媒有限公司联合出品，历时三年拍摄制作的纪录片《神秘的草原石窟》即将于10月21日--- 10月23日在中央电视台纪录片（CCTV-9）频道首播。每晚黄金时段19:27带领观众走进草原文明，展开一场跨时空的对话，揭开草原石窟群的神秘面纱！</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509103600 +0800" stop="20260509110400 +0800">
+    <title lang="zh">美美搭特训营2(5)</title>
+    <desc lang="zh">美美搭特训营</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509110400 +0800" stop="20260509113300 +0800">
+    <title lang="zh">健身私享课1:哑铃胸部塑形</title>
+    <desc lang="zh">以主打健身课程的超高清精品内容将为用户开启 新体验。</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509113300 +0800" stop="20260509122100 +0800">
+    <title lang="zh">超级四驱越野传奇(1)</title>
+    <desc lang="zh">暂无节目描述</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509122100 +0800" stop="20260509124600 +0800">
+    <title lang="zh">神秘的草原石窟(3):壁画</title>
+    <desc lang="zh">《神秘的草原石窟》是以第五批全国重点文物保护单位，被誉为“草原敦煌”的阿尔寨石窟为题材，与中国社科院、敦煌研究院、河北博物院等多个单位通力合作，寻访国内外的考古学家、文物修复专家、建筑学家、地质学家等专家学者，深入到印度、乌兹别克斯坦、德国等进行广泛采访拍摄的大型人文历史纪录片。该片播出前已荣获内蒙古自治区第十四届精神文明建设电视剧类 “五个一工程（2017-2019）”奖。由鄂尔多斯市委宣传部、鄂尔多斯市文化和旅游局、鄂托克旗人民政府总策划，中视航通影视制作(北京)有限公司承制，北京世纪文华文化传媒有限公司联合出品，历时三年拍摄制作的纪录片《神秘的草原石窟》即将于10月21日--- 10月23日在中央电视台纪录片（CCTV-9）频道首播。每晚黄金时段19:27带领观众走进草原文明，展开一场跨时空的对话，揭开草原石窟群的神秘面纱！</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509124600 +0800" stop="20260509132900 +0800">
+    <title lang="zh">两个人的世界(15)</title>
+    <desc lang="zh">《两个人的世界》电视剧是由梦继执导，郭京飞、王珞丹领衔主演，邵汶、王文娜、朱茵、刘洁、郑毓芝、秦焰、徐松子主演的都市励志情感剧。该剧根据周艺飞的同名小说改编，讲述了许东阳和李文嘉为代表的年轻一代，远离家乡，到上海追寻梦想与奋斗的故事。东阳和文嘉是大学同学，毕业后两人分别来上海打拼。初来乍到的东阳屡次受挫，但凭借着自己的正直坦诚获得上司的赏识，从装修队员被提拔到材料监理。文嘉为摆脱寄人篱下的生活，在职场竞争中，越战越勇。两人结缘，在合租的小屋里相互扶持，感情升温，文嘉生病的契机更坚定了彼此的心意，两人决定结婚。婚后东阳遭人陷害被迫辞职，自主创业成立公司；文嘉怀孕生子，幸福正当时却深陷家族纠纷，最后关头文嘉选择成全他人。几年后，儿子小虎长大，文嘉已在工作中独当一面。前房东孔先生遭遇动迁，文嘉为其撰文引来社会关注，夫妻俩却因此发生矛盾。几经波折后，两人成功为孔先生保住了老洋房。又过了几年，东阳和文嘉已是幸福的四口之家，他们在上海发展的剧变中，作为城市的建设者，随着城市一起成长。</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509132900 +0800" stop="20260509141400 +0800">
+    <title lang="zh">两个人的世界(16)</title>
+    <desc lang="zh">《两个人的世界》电视剧是由梦继执导，郭京飞、王珞丹领衔主演，邵汶、王文娜、朱茵、刘洁、郑毓芝、秦焰、徐松子主演的都市励志情感剧。该剧根据周艺飞的同名小说改编，讲述了许东阳和李文嘉为代表的年轻一代，远离家乡，到上海追寻梦想与奋斗的故事。东阳和文嘉是大学同学，毕业后两人分别来上海打拼。初来乍到的东阳屡次受挫，但凭借着自己的正直坦诚获得上司的赏识，从装修队员被提拔到材料监理。文嘉为摆脱寄人篱下的生活，在职场竞争中，越战越勇。两人结缘，在合租的小屋里相互扶持，感情升温，文嘉生病的契机更坚定了彼此的心意，两人决定结婚。婚后东阳遭人陷害被迫辞职，自主创业成立公司；文嘉怀孕生子，幸福正当时却深陷家族纠纷，最后关头文嘉选择成全他人。几年后，儿子小虎长大，文嘉已在工作中独当一面。前房东孔先生遭遇动迁，文嘉为其撰文引来社会关注，夫妻俩却因此发生矛盾。几经波折后，两人成功为孔先生保住了老洋房。又过了几年，东阳和文嘉已是幸福的四口之家，他们在上海发展的剧变中，作为城市的建设者，随着城市一起成长。</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509141400 +0800" stop="20260509144300 +0800">
+    <title lang="zh">美美搭特训营2(6):帽子穿搭</title>
+    <desc lang="zh">美美搭特训营</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509144300 +0800" stop="20260509151200 +0800">
+    <title lang="zh">健身私享课1(19):全身拉伸</title>
+    <desc lang="zh">以主打健身课程的超高清精品内容将为用户开启 新体验。</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509151200 +0800" stop="20260509164000 +0800">
+    <title lang="zh">艺术大厅:越剧(上)</title>
+    <desc lang="zh">经典歌剧、戏曲选萃播放。</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509164000 +0800" stop="20260509170100 +0800">
+    <title lang="zh">极限冰岛(1)</title>
+    <desc lang="zh">暂无节目描述</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509170100 +0800" stop="20260509174600 +0800">
+    <title lang="zh">两个人的世界(17)</title>
+    <desc lang="zh">《两个人的世界》电视剧是由梦继执导，郭京飞、王珞丹领衔主演，邵汶、王文娜、朱茵、刘洁、郑毓芝、秦焰、徐松子主演的都市励志情感剧。该剧根据周艺飞的同名小说改编，讲述了许东阳和李文嘉为代表的年轻一代，远离家乡，到上海追寻梦想与奋斗的故事。东阳和文嘉是大学同学，毕业后两人分别来上海打拼。初来乍到的东阳屡次受挫，但凭借着自己的正直坦诚获得上司的赏识，从装修队员被提拔到材料监理。文嘉为摆脱寄人篱下的生活，在职场竞争中，越战越勇。两人结缘，在合租的小屋里相互扶持，感情升温，文嘉生病的契机更坚定了彼此的心意，两人决定结婚。婚后东阳遭人陷害被迫辞职，自主创业成立公司；文嘉怀孕生子，幸福正当时却深陷家族纠纷，最后关头文嘉选择成全他人。几年后，儿子小虎长大，文嘉已在工作中独当一面。前房东孔先生遭遇动迁，文嘉为其撰文引来社会关注，夫妻俩却因此发生矛盾。几经波折后，两人成功为孔先生保住了老洋房。又过了几年，东阳和文嘉已是幸福的四口之家，他们在上海发展的剧变中，作为城市的建设者，随着城市一起成长。</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509174600 +0800" stop="20260509183100 +0800">
+    <title lang="zh">两个人的世界(18)</title>
+    <desc lang="zh">《两个人的世界》电视剧是由梦继执导，郭京飞、王珞丹领衔主演，邵汶、王文娜、朱茵、刘洁、郑毓芝、秦焰、徐松子主演的都市励志情感剧。该剧根据周艺飞的同名小说改编，讲述了许东阳和李文嘉为代表的年轻一代，远离家乡，到上海追寻梦想与奋斗的故事。东阳和文嘉是大学同学，毕业后两人分别来上海打拼。初来乍到的东阳屡次受挫，但凭借着自己的正直坦诚获得上司的赏识，从装修队员被提拔到材料监理。文嘉为摆脱寄人篱下的生活，在职场竞争中，越战越勇。两人结缘，在合租的小屋里相互扶持，感情升温，文嘉生病的契机更坚定了彼此的心意，两人决定结婚。婚后东阳遭人陷害被迫辞职，自主创业成立公司；文嘉怀孕生子，幸福正当时却深陷家族纠纷，最后关头文嘉选择成全他人。几年后，儿子小虎长大，文嘉已在工作中独当一面。前房东孔先生遭遇动迁，文嘉为其撰文引来社会关注，夫妻俩却因此发生矛盾。几经波折后，两人成功为孔先生保住了老洋房。又过了几年，东阳和文嘉已是幸福的四口之家，他们在上海发展的剧变中，作为城市的建设者，随着城市一起成长。</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509183100 +0800" stop="20260509185700 +0800">
+    <title lang="zh">美美搭特训营2(7)</title>
+    <desc lang="zh">美美搭特训营</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509185700 +0800" stop="20260509192800 +0800">
+    <title lang="zh">健身私享课1(20)</title>
+    <desc lang="zh">以主打健身课程的超高清精品内容将为用户开启 新体验。</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509192800 +0800" stop="20260509204000 +0800">
+    <title lang="zh">艺术大厅:越剧(下)</title>
+    <desc lang="zh">经典歌剧、戏曲选萃播放。</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509204000 +0800" stop="20260509210100 +0800">
+    <title lang="zh">极限冰岛(2)</title>
+    <desc lang="zh">暂无节目描述</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509210100 +0800" stop="20260509214600 +0800">
+    <title lang="zh">两个人的世界(19)</title>
+    <desc lang="zh">《两个人的世界》电视剧是由梦继执导，郭京飞、王珞丹领衔主演，邵汶、王文娜、朱茵、刘洁、郑毓芝、秦焰、徐松子主演的都市励志情感剧。该剧根据周艺飞的同名小说改编，讲述了许东阳和李文嘉为代表的年轻一代，远离家乡，到上海追寻梦想与奋斗的故事。东阳和文嘉是大学同学，毕业后两人分别来上海打拼。初来乍到的东阳屡次受挫，但凭借着自己的正直坦诚获得上司的赏识，从装修队员被提拔到材料监理。文嘉为摆脱寄人篱下的生活，在职场竞争中，越战越勇。两人结缘，在合租的小屋里相互扶持，感情升温，文嘉生病的契机更坚定了彼此的心意，两人决定结婚。婚后东阳遭人陷害被迫辞职，自主创业成立公司；文嘉怀孕生子，幸福正当时却深陷家族纠纷，最后关头文嘉选择成全他人。几年后，儿子小虎长大，文嘉已在工作中独当一面。前房东孔先生遭遇动迁，文嘉为其撰文引来社会关注，夫妻俩却因此发生矛盾。几经波折后，两人成功为孔先生保住了老洋房。又过了几年，东阳和文嘉已是幸福的四口之家，他们在上海发展的剧变中，作为城市的建设者，随着城市一起成长。</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509214600 +0800" stop="20260509223500 +0800">
+    <title lang="zh">两个人的世界(20)</title>
+    <desc lang="zh">《两个人的世界》电视剧是由梦继执导，郭京飞、王珞丹领衔主演，邵汶、王文娜、朱茵、刘洁、郑毓芝、秦焰、徐松子主演的都市励志情感剧。该剧根据周艺飞的同名小说改编，讲述了许东阳和李文嘉为代表的年轻一代，远离家乡，到上海追寻梦想与奋斗的故事。东阳和文嘉是大学同学，毕业后两人分别来上海打拼。初来乍到的东阳屡次受挫，但凭借着自己的正直坦诚获得上司的赏识，从装修队员被提拔到材料监理。文嘉为摆脱寄人篱下的生活，在职场竞争中，越战越勇。两人结缘，在合租的小屋里相互扶持，感情升温，文嘉生病的契机更坚定了彼此的心意，两人决定结婚。婚后东阳遭人陷害被迫辞职，自主创业成立公司；文嘉怀孕生子，幸福正当时却深陷家族纠纷，最后关头文嘉选择成全他人。几年后，儿子小虎长大，文嘉已在工作中独当一面。前房东孔先生遭遇动迁，文嘉为其撰文引来社会关注，夫妻俩却因此发生矛盾。几经波折后，两人成功为孔先生保住了老洋房。又过了几年，东阳和文嘉已是幸福的四口之家，他们在上海发展的剧变中，作为城市的建设者，随着城市一起成长。</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509223500 +0800" stop="20260509230500 +0800">
+    <title lang="zh">书画中国(7):徐仲偶</title>
+    <desc lang="zh">国庆黄金周期间，旅游卫视推出《世界游》特别节目《书画中国》，继上一年度推出《艺文中国》后的又一文艺访谈类节目，将聚焦中国近现代书画领域近50位书画大家。</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509230500 +0800" stop="20260509233400 +0800">
+    <title lang="zh">健身私享课1:钢铁手臂塑造</title>
+    <desc lang="zh">以主打健身课程的超高清精品内容将为用户开启 新体验。</desc>
+  </programme>
+  <programme channel="欢笑剧场" start="20260509233400 +0800" stop="20260510000000 +0800">
+    <title lang="zh">耐力极限:24小时赛车(1)</title>
+    <desc lang="zh">暂无节目描述</desc>
   </programme>
   <channel id="生活时尚">
     <display-name lang="zh">生活时尚</display-name>
@@ -7122,238 +6977,6 @@
   <channel id="都市剧场">
     <display-name lang="zh">都市剧场</display-name>
   </channel>
-  <programme channel="都市剧场" start="20260501013300 +0800" stop="20260501014100 +0800">
-    <title lang="zh">精彩赏析:老男孩(2)</title>
-    <desc lang="zh">吴争，民航机长，拥有令人艳羡的职业和外型，飞行中他技术过硬，承载无数乘客的责任。生活中他天性不羁爱自由，恣意挥洒，不管他人眼光。在自己的世界里，做个彻头彻尾的老男孩。直到有一天，一个 16岁的儿子从天而降，一个正义的女老师林小欧紧随其后，两人前后脚的到来，彻底颠覆了吴争既有的生活。林小欧，无忧无虑的乐天派，时髦得有点用力，正义得有点莽撞，她是学生们亲切的姐姐、爽朗的朋友和没架子的好老师。当得知得意门生萧晗突遭家变，成了无家可归的孤儿，她费劲心力要与孩子生父沟通，当她见到了孩子生父才发现，原来，他就是自己不久前海外旅行时的噩梦——处处和她作对、极不靠谱的吴争 。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501014100 +0800" stop="20260501015000 +0800">
-    <title lang="zh">精彩赏析:甜蜜(3)</title>
-    <desc lang="zh">《甜蜜》电视剧是由阎建钢执导，海清、任重领衔主演，施诗、赵秦主演的都市情感剧。该剧讲述了都市女性田蜜由于丈夫自杀从一个养尊处优的富太太跌入生活谷底，不得不扛起替丈夫偿还债务的重担，后一路拼搏成长为一名金融理财师，并收获美满爱情的故事 。田蜜原本是一个养尊处优的年轻阔太，生活富足而美满。然而丈夫刘得恩却突然因经营失败而脑梗猝死，并给田蜜留下了高达千万元的巨额债务，令田蜜的生活一夜之间从天堂坠入了深渊。在刘得恩的旧识，做私人银行客户经理常胜的帮助下，田蜜鼓起了生活的勇气，走上了漫漫还债路。经过几年的努力，田蜜不仅学会了自立，更成长为一名优秀的金融理财师，并最终还清了巨额债务。田蜜和常胜还一起创办了一家财富管理公司，开始了创业之路。多年的相互扶持和鼓励，也让爱情的种子在两人的心中慢慢萌芽，最终两颗善良而热烈的心紧密的连接在了一起。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501015000 +0800" stop="20260501020000 +0800">
-    <title lang="zh">精彩赏析:八方传奇(4)</title>
-    <desc lang="zh">1935年，张涛为报父仇，假借抗日奇匪“杀八方”之名，在辽南海滨小城滨岛连续惩杀汉奸，却不料阴差阳错牵连出土匪、抗联、复兴社等多股隐藏势力，引来一场轩然大波。侦探出身的日寇宪兵老队长晴川为侦破“杀八方”案花费大量人力物力，在抽丝剥茧中逐渐发现张涛的重大嫌疑。张涛在与晴川及多股被牵势力的周旋中陷入绝境，本欲回归平民生活，却发现自己的报父仇行为已造成抗联成员、抗日土匪及无辜百姓惨遭日寇屠杀。张涛由此放下小我，誓要抵抗日寇为死难同胞报仇，在抗联情报站长张来财的舍身相救及继任站长王刚的扶持引领下，最终消灭了以晴川为首的滨岛日寇团体，并为抗联争取来一批重要的武器资源，成为民间抗日的传奇人物。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501020000 +0800" stop="20260501024000 +0800">
-    <title lang="zh">漂洋过海来看你(15)</title>
-    <desc lang="zh">英国MG旅游集团高管苏芒在婆婆央求下，瞒着不能生育的丈夫陈嘉明借精生子。不料被丈夫发现并遭劈腿，两人离异。自尊心极强的苏芒对爱情和婚姻陷入绝望，决定离开伤心地返回中国，却被医生告知怀孕成功。她决定独自把孩子生下来，带着肚子里的小生命回到了上海任MG总部旅游事业部总监。此时上海总部旅游体验师郑楚向女友陈姗姗求婚，却被其以恨铁不成钢为由拒绝，陷入事业和感情困局。空降上司苏芒因为各种传闻在新环境中陷入孤立无援的境地，但热心的郑楚走进了她的生活。两人从欢喜冤家到相濡以沫，“女魔头”和刺头下属从“冰与火”的对抗到相爱。办公室恋情和来历不明的孩子考验着一对重燃爱情希望的恋人。郑楚面对苏芒善意的谎言，从迷茫到坚定，和苏芒共同经历重重波折，为爱人承受所有的质疑和误解，不懈的坚持终使有情人成眷属。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501024000 +0800" stop="20260501032100 +0800">
-    <title lang="zh">漂洋过海来看你(16)</title>
-    <desc lang="zh">英国MG旅游集团高管苏芒在婆婆央求下，瞒着不能生育的丈夫陈嘉明借精生子。不料被丈夫发现并遭劈腿，两人离异。自尊心极强的苏芒对爱情和婚姻陷入绝望，决定离开伤心地返回中国，却被医生告知怀孕成功。她决定独自把孩子生下来，带着肚子里的小生命回到了上海任MG总部旅游事业部总监。此时上海总部旅游体验师郑楚向女友陈姗姗求婚，却被其以恨铁不成钢为由拒绝，陷入事业和感情困局。空降上司苏芒因为各种传闻在新环境中陷入孤立无援的境地，但热心的郑楚走进了她的生活。两人从欢喜冤家到相濡以沫，“女魔头”和刺头下属从“冰与火”的对抗到相爱。办公室恋情和来历不明的孩子考验着一对重燃爱情希望的恋人。郑楚面对苏芒善意的谎言，从迷茫到坚定，和苏芒共同经历重重波折，为爱人承受所有的质疑和误解，不懈的坚持终使有情人成眷属。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501032100 +0800" stop="20260501040100 +0800">
-    <title lang="zh">漂洋过海来看你(17)</title>
-    <desc lang="zh">英国MG旅游集团高管苏芒在婆婆央求下，瞒着不能生育的丈夫陈嘉明借精生子。不料被丈夫发现并遭劈腿，两人离异。自尊心极强的苏芒对爱情和婚姻陷入绝望，决定离开伤心地返回中国，却被医生告知怀孕成功。她决定独自把孩子生下来，带着肚子里的小生命回到了上海任MG总部旅游事业部总监。此时上海总部旅游体验师郑楚向女友陈姗姗求婚，却被其以恨铁不成钢为由拒绝，陷入事业和感情困局。空降上司苏芒因为各种传闻在新环境中陷入孤立无援的境地，但热心的郑楚走进了她的生活。两人从欢喜冤家到相濡以沫，“女魔头”和刺头下属从“冰与火”的对抗到相爱。办公室恋情和来历不明的孩子考验着一对重燃爱情希望的恋人。郑楚面对苏芒善意的谎言，从迷茫到坚定，和苏芒共同经历重重波折，为爱人承受所有的质疑和误解，不懈的坚持终使有情人成眷属。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501040100 +0800" stop="20260501041000 +0800">
-    <title lang="zh">精彩赏析:黑土热血(1)</title>
-    <desc lang="zh">抗战末期的东北，由李一峰领导的抗联部队秘密潜回滨江，与卡萨果夫将军率领的苏军里应外合击溃日军最后的防线，胜利收复滨江。苏军占领滨江后，李一峰接受中共东北局的指示，协助苏军控制和维护滨江的社会秩序，打击潜伏的军警宪特等反动敌对势力。国民党丁丰接任滨江警察局局长的职务，他密谋扫除共产党组织，为国民党接收滨江铺路。丁丰派手下苏莎潜伏到卡萨果夫身边担任翻译，并授意她对李一峰展开追求，希望借此获取李一峰管理滨江的一切举动，并掌握对李一峰生杀予夺的权力。在中共高级干部肖曼、抗联政委刘力、共产党人赵平等人的帮助下，李一峰与丁丰等人针锋相对、殊死较量，为维护滨江的社会秩序，捍卫滨江百姓的生命安全拼尽全力。为了让滨江回到人民的怀抱，肖曼、李一峰等共产党人前仆后继，用生命的代价换来滨江的解放。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501041000 +0800" stop="20260501041400 +0800">
-    <title lang="zh">精彩赏析:人是铁饭是钢(1)</title>
-    <desc lang="zh">一九六三年，由于所在工厂超额完全任务，被上级奖励了一头猪，这件事情使得已被开除的南易得到重新回到炊事班的机会。而现任炊事班长崔大可认为南易归来必定取代自己的位置，所以处处与他为敌。但南易凭借着自己的技艺与努力渐渐确立了在工厂的声望，也得到丁秋楠的爱情。但因为他总是帮助拖家带口的寡妇梁拉娣一家，令崔大可抓住了污蔑他的机会，最终从他手中抢走了丁秋楠；而南易则与梁拉娣成了患难夫妻。虽然各有家庭但南易和丁秋楠都将对方视为知己。崔大可拉拢南易开起了小饭店。最终儿子小南接管了饭店。回想往事，崔大可和南易这对斗了半辈子的冤家不禁老泪纵横，最终二人冰释前嫌。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501041400 +0800" stop="20260501042300 +0800">
-    <title lang="zh">精彩赏析:西京故事(2)</title>
-    <desc lang="zh">《西京故事》电视剧是由西安曲江丫丫影视文化股份有限公司出品，姚远执导，张国强、陈小艺、刘智扬、石安妮领衔主演的都市温情励志剧。该剧改编自陈彦的同名小说，讲述了一个普通农民家庭进城创业，实现人生理想的故事。为支撑一双儿女家成、家秀的“求学大业”，一家之主罗天福携妻子慧娟进了西京城。在西京城里，罗天福见证了身边的小人物们在大城市生存之难，自身也经历了种种艰辛，饼铺生意屡屡受挫，妻子慧娟不满他“固执守旧”的经营方式闹起分居，儿子家成无法适应从乡村到城市的生活状况不断离校出走，重重打击不断袭来，使他头一次对自己坚守多年的人生观和价值观产生了怀疑。自己这样做究竟是对是错，而城市是不是真的不适合他这种“坚持老一套”的人生存。女儿家秀的支持鼓励使得罗天福重拾信心，那些曾经接受罗天福帮助的人现在也反过来帮助他，纠缠不清的矛盾随之一一化解。罗家人终于在西京这座大城扎下了根，向着美好的未来继续前行。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501042300 +0800" stop="20260501043400 +0800">
-    <title lang="zh">精彩赏析:护宝风云(3)</title>
-    <desc lang="zh">1859年，何明昌到京城穆家镖局找师弟穆云飞，适逢圆明园惨遭英军洗劫和焚毁。他俩带领众镖师袭击了英军的一个小队，并将国宝佛祖狮子吼金像夺回。英军大队随后追杀，镖师们兵分两路。穆云飞带人拼死阻敌，中弹落水，何明昌等人将佛像藏起，但最终只有他幸免于难。随后金佛意外失踪，何明昌蒙受不白之冤，获救后的穆云飞也与他渐生隔阂。许多年后，何家的后人何健豪誓要洗刷祖辈的冤屈，穆家的后人穆映雪与他摒弃前嫌，共同查寻真相。此时金佛意外现身，引得英国文物贩子和日本浪人等纷纷出手抢夺。何健豪和穆映雪与他们斗智斗勇，屡次挫败对手的阴谋。两家人齐心合力，最终在共产党和爱国人士的帮助下保护了国宝。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501043400 +0800" stop="20260501044500 +0800">
-    <title lang="zh">精彩赏析:棋逢对手(3)</title>
-    <desc lang="zh">《棋逢对手》是由浙江华策影视股份有限公司出品的都市情感励志轻喜剧，刘心刚执导，黄轩、王子文、黄觉、 邓萃雯、 黄勐、殷叶子、孔维、李媛主演。《棋逢对手》根据同名小说改编，讲述了几个年轻人从一家大型超市开始职场历练，逐步进入大卖场最后成为写字楼白领的职场励志故事，通过剧中形形色色的人物的奋斗历程反映了现代都市的职场百态......</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501044500 +0800" stop="20260501052600 +0800">
-    <title lang="zh">漂洋过海来看你(18)</title>
-    <desc lang="zh">英国MG旅游集团高管苏芒在婆婆央求下，瞒着不能生育的丈夫陈嘉明借精生子。不料被丈夫发现并遭劈腿，两人离异。自尊心极强的苏芒对爱情和婚姻陷入绝望，决定离开伤心地返回中国，却被医生告知怀孕成功。她决定独自把孩子生下来，带着肚子里的小生命回到了上海任MG总部旅游事业部总监。此时上海总部旅游体验师郑楚向女友陈姗姗求婚，却被其以恨铁不成钢为由拒绝，陷入事业和感情困局。空降上司苏芒因为各种传闻在新环境中陷入孤立无援的境地，但热心的郑楚走进了她的生活。两人从欢喜冤家到相濡以沫，“女魔头”和刺头下属从“冰与火”的对抗到相爱。办公室恋情和来历不明的孩子考验着一对重燃爱情希望的恋人。郑楚面对苏芒善意的谎言，从迷茫到坚定，和苏芒共同经历重重波折，为爱人承受所有的质疑和误解，不懈的坚持终使有情人成眷属。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501052600 +0800" stop="20260501060800 +0800">
-    <title lang="zh">漂洋过海来看你(19)</title>
-    <desc lang="zh">英国MG旅游集团高管苏芒在婆婆央求下，瞒着不能生育的丈夫陈嘉明借精生子。不料被丈夫发现并遭劈腿，两人离异。自尊心极强的苏芒对爱情和婚姻陷入绝望，决定离开伤心地返回中国，却被医生告知怀孕成功。她决定独自把孩子生下来，带着肚子里的小生命回到了上海任MG总部旅游事业部总监。此时上海总部旅游体验师郑楚向女友陈姗姗求婚，却被其以恨铁不成钢为由拒绝，陷入事业和感情困局。空降上司苏芒因为各种传闻在新环境中陷入孤立无援的境地，但热心的郑楚走进了她的生活。两人从欢喜冤家到相濡以沫，“女魔头”和刺头下属从“冰与火”的对抗到相爱。办公室恋情和来历不明的孩子考验着一对重燃爱情希望的恋人。郑楚面对苏芒善意的谎言，从迷茫到坚定，和苏芒共同经历重重波折，为爱人承受所有的质疑和误解，不懈的坚持终使有情人成眷属。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501060800 +0800" stop="20260501061700 +0800">
-    <title lang="zh">精彩赏析:黄土高天(2)</title>
-    <desc lang="zh">《我爱诗书画》该栏目以弘扬中华民族优秀传统文化和推介安徽诗书画家为宗旨，从传统唐诗宋词入手，以书法展现古典诗词魅力，以绘画诠释古典诗词意境，以诗入画，以书映诗，融会贯通，交相辉映，为书画爱好者和广大观众搭建起一个学习、欣赏的平台。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501061700 +0800" stop="20260501062200 +0800">
-    <title lang="zh">精彩赏析:八方传奇(2)</title>
-    <desc lang="zh">1935年，张涛为报父仇，假借抗日奇匪“杀八方”之名，在辽南海滨小城滨岛连续惩杀汉奸，却不料阴差阳错牵连出土匪、抗联、复兴社等多股隐藏势力，引来一场轩然大波。侦探出身的日寇宪兵老队长晴川为侦破“杀八方”案花费大量人力物力，在抽丝剥茧中逐渐发现张涛的重大嫌疑。张涛在与晴川及多股被牵势力的周旋中陷入绝境，本欲回归平民生活，却发现自己的报父仇行为已造成抗联成员、抗日土匪及无辜百姓惨遭日寇屠杀。张涛由此放下小我，誓要抵抗日寇为死难同胞报仇，在抗联情报站长张来财的舍身相救及继任站长王刚的扶持引领下，最终消灭了以晴川为首的滨岛日寇团体，并为抗联争取来一批重要的武器资源，成为民间抗日的传奇人物。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501062200 +0800" stop="20260501063200 +0800">
-    <title lang="zh">精彩赏析:爱的追踪(4)</title>
-    <desc lang="zh">在中国经济大潮风起云涌之时，两个情同手足的异姓兄弟马德庆和张文昊的人生也进入了拐点。身为刑警队长的哥哥马德庆被调往了刚成立的经侦大队，顿觉英雄无用武之地，更令他懊恼的是弟弟张文昊一意孤行，放弃公职投入商海，接二连三惹出事端。张文昊生意赔了，他以同样的骗术嫁祸于下家得以翻盘，但受害方却因此自杀，张文昊的精心设计使他逃脱了法律的惩罚，马德庆此时也意识到经侦工作任重道远。此后经年，两兄弟一个成为了热衷慈善的商界大腭，一个成为了经侦队伍的领头羊。然而原罪的阴影却一直让兄弟二人处于情与法的纠葛与较量中。马德庆始终用自己的方法帮助和警醒着弟弟不要触及法律边线，但对噩梦的回避和对欲望的追逐，最终使张文昊毁了身边人，也毁了哥哥的家庭幸福。当一切尘埃落定，张文昊在马德庆的陪伴下终于走向了赎罪之门。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501063200 +0800" stop="20260501064500 +0800">
-    <title lang="zh">精彩赏析:宜昌保卫战(4)</title>
-    <desc lang="zh">1938年中山舰殉难后受伤的抗战伤兵胡宜生，回宜昌养伤时正赶上宜昌大撤运。在号称“东方的敦刻尔克大撤退”行动中，胡宜生结识了共产党，并在共产党的感召下积极组织宜昌社会各界投入大撤运工作，使大撤运奇迹般地完成。胡宜生在成为宜昌英雄的同时，也赢得了土家妹子成四妹的爱情。随后，胡宜生随江防军驰援枣宜会战，见证张自忠为保宜昌而战死疆场，深感震撼。宜昌沦陷后，胡宜生拉起一支以土家族划夫队为主的民间武装，号称红旗营，不断袭扰打击日寇。1943年，日寇发起鄂西会战目标直指长江天堑石牌要塞，妄图拿下石牌，威逼重庆。胡宜生在中共地下党的指导下，率领民间武装，广泛发动群众，运送粮食与武器弹药，支援江防军作战，在被誉为“中国的斯大林格勒保卫战”的石牌大战中大败日军，从而谱写了一曲“民心不失、国门不倒”的抗日壮歌。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501064500 +0800" stop="20260501072600 +0800">
-    <title lang="zh">运河风流(29)</title>
-    <desc lang="zh">民国初年，黄子荣辞官返乡，他与妻子假装产子，暗中将土匪盖三山的儿子养在家中，取名黄天行。黄子荣独上飞鱼岛，凭借智慧与勇气替百姓夺回灾银，令女匪一片云一见倾心。黄子荣竞选知县成功后，不计与宋家祖上恩怨，暗中帮宋鲁生渡过多次商业危机，维护了济宁城的商业繁荣与秩序，而宋鲁生与其惺惺相惜，也在黄家危急关头，多次暗中伸出援手。为官期间，黄子荣秉承官匪不通、官商不通的家风家训，导致官运坎坷，最终因儿子黄天楷的诬陷辞官回家。抗日战争爆发后，黄子荣将民族大义放在首位，带领百姓守城。城池沦陷后，他与日本人暗中周旋，带领众人并说动一片云下岛参加抗日队伍。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501072600 +0800" stop="20260501080800 +0800">
-    <title lang="zh">运河风流(30)</title>
-    <desc lang="zh">民国初年，黄子荣辞官返乡，他与妻子假装产子，暗中将土匪盖三山的儿子养在家中，取名黄天行。黄子荣独上飞鱼岛，凭借智慧与勇气替百姓夺回灾银，令女匪一片云一见倾心。黄子荣竞选知县成功后，不计与宋家祖上恩怨，暗中帮宋鲁生渡过多次商业危机，维护了济宁城的商业繁荣与秩序，而宋鲁生与其惺惺相惜，也在黄家危急关头，多次暗中伸出援手。为官期间，黄子荣秉承官匪不通、官商不通的家风家训，导致官运坎坷，最终因儿子黄天楷的诬陷辞官回家。抗日战争爆发后，黄子荣将民族大义放在首位，带领百姓守城。城池沦陷后，他与日本人暗中周旋，带领众人并说动一片云下岛参加抗日队伍。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501080800 +0800" stop="20260501085300 +0800">
-    <title lang="zh">运河风流(31)</title>
-    <desc lang="zh">民国初年，黄子荣辞官返乡，他与妻子假装产子，暗中将土匪盖三山的儿子养在家中，取名黄天行。黄子荣独上飞鱼岛，凭借智慧与勇气替百姓夺回灾银，令女匪一片云一见倾心。黄子荣竞选知县成功后，不计与宋家祖上恩怨，暗中帮宋鲁生渡过多次商业危机，维护了济宁城的商业繁荣与秩序，而宋鲁生与其惺惺相惜，也在黄家危急关头，多次暗中伸出援手。为官期间，黄子荣秉承官匪不通、官商不通的家风家训，导致官运坎坷，最终因儿子黄天楷的诬陷辞官回家。抗日战争爆发后，黄子荣将民族大义放在首位，带领百姓守城。城池沦陷后，他与日本人暗中周旋，带领众人并说动一片云下岛参加抗日队伍。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501085300 +0800" stop="20260501090100 +0800">
-    <title lang="zh">精彩赏析:黑土热血(1)</title>
-    <desc lang="zh">抗战末期的东北，由李一峰领导的抗联部队秘密潜回滨江，与卡萨果夫将军率领的苏军里应外合击溃日军最后的防线，胜利收复滨江。苏军占领滨江后，李一峰接受中共东北局的指示，协助苏军控制和维护滨江的社会秩序，打击潜伏的军警宪特等反动敌对势力。国民党丁丰接任滨江警察局局长的职务，他密谋扫除共产党组织，为国民党接收滨江铺路。丁丰派手下苏莎潜伏到卡萨果夫身边担任翻译，并授意她对李一峰展开追求，希望借此获取李一峰管理滨江的一切举动，并掌握对李一峰生杀予夺的权力。在中共高级干部肖曼、抗联政委刘力、共产党人赵平等人的帮助下，李一峰与丁丰等人针锋相对、殊死较量，为维护滨江的社会秩序，捍卫滨江百姓的生命安全拼尽全力。为了让滨江回到人民的怀抱，肖曼、李一峰等共产党人前仆后继，用生命的代价换来滨江的解放。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501090100 +0800" stop="20260501090700 +0800">
-    <title lang="zh">精彩赏析:护宝风云(1)</title>
-    <desc lang="zh">1859年，何明昌到京城穆家镖局找师弟穆云飞，适逢圆明园惨遭英军洗劫和焚毁。他俩带领众镖师袭击了英军的一个小队，并将国宝佛祖狮子吼金像夺回。英军大队随后追杀，镖师们兵分两路。穆云飞带人拼死阻敌，中弹落水，何明昌等人将佛像藏起，但最终只有他幸免于难。随后金佛意外失踪，何明昌蒙受不白之冤，获救后的穆云飞也与他渐生隔阂。许多年后，何家的后人何健豪誓要洗刷祖辈的冤屈，穆家的后人穆映雪与他摒弃前嫌，共同查寻真相。此时金佛意外现身，引得英国文物贩子和日本浪人等纷纷出手抢夺。何健豪和穆映雪与他们斗智斗勇，屡次挫败对手的阴谋。两家人齐心合力，最终在共产党和爱国人士的帮助下保护了国宝。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501090700 +0800" stop="20260501091500 +0800">
-    <title lang="zh">精彩赏析:老男孩(2)</title>
-    <desc lang="zh">吴争，民航机长，拥有令人艳羡的职业和外型，飞行中他技术过硬，承载无数乘客的责任。生活中他天性不羁爱自由，恣意挥洒，不管他人眼光。在自己的世界里，做个彻头彻尾的老男孩。直到有一天，一个 16岁的儿子从天而降，一个正义的女老师林小欧紧随其后，两人前后脚的到来，彻底颠覆了吴争既有的生活。林小欧，无忧无虑的乐天派，时髦得有点用力，正义得有点莽撞，她是学生们亲切的姐姐、爽朗的朋友和没架子的好老师。当得知得意门生萧晗突遭家变，成了无家可归的孤儿，她费劲心力要与孩子生父沟通，当她见到了孩子生父才发现，原来，他就是自己不久前海外旅行时的噩梦——处处和她作对、极不靠谱的吴争 。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501091500 +0800" stop="20260501091900 +0800">
-    <title lang="zh">精彩赏析:一个都不能少(2)</title>
-    <desc lang="zh">《一个都不能少》讲述焉支村地质灾害严重贫困帽子摘不下来，为了响应习主席“一个都不能少”的号召，市委决定将焉支村整体搬迁，合并到本县最富裕的丹霞村。故土难离，焉支村的村民不愿搬，丹霞村的村民也不愿意要，易地搬迁工作异常艰辛。两村干部克服种种困难将两个“贫富悬殊”的村子合二为一。合并后，焉支村的村民水土不服，无法融入新的集体，丹霞村的村民看不惯“游手好闲”吃白饭的外人，形成了虽然住在一个村却是“两家人”的尴尬局面。旧的矛盾没有解决，新的问题接踵而来，丹霞村产业转型到了刻不容缓的地步。村委干部想尽办法不让一个村民掉队大家共同致富，最终让两家人变成一条心，丹霞村也转型升级为“文化产业”新模式示范村。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501091900 +0800" stop="20260501093000 +0800">
-    <title lang="zh">精彩赏析:棋逢对手(6)</title>
-    <desc lang="zh">《棋逢对手》是由浙江华策影视股份有限公司出品的都市情感励志轻喜剧，刘心刚执导，黄轩、王子文、黄觉、 邓萃雯、 黄勐、殷叶子、孔维、李媛主演。《棋逢对手》根据同名小说改编，讲述了几个年轻人从一家大型超市开始职场历练，逐步进入大卖场最后成为写字楼白领的职场励志故事，通过剧中形形色色的人物的奋斗历程反映了现代都市的职场百态......</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501093000 +0800" stop="20260501101100 +0800">
-    <title lang="zh">漂洋过海来看你(20)</title>
-    <desc lang="zh">英国MG旅游集团高管苏芒在婆婆央求下，瞒着不能生育的丈夫陈嘉明借精生子。不料被丈夫发现并遭劈腿，两人离异。自尊心极强的苏芒对爱情和婚姻陷入绝望，决定离开伤心地返回中国，却被医生告知怀孕成功。她决定独自把孩子生下来，带着肚子里的小生命回到了上海任MG总部旅游事业部总监。此时上海总部旅游体验师郑楚向女友陈姗姗求婚，却被其以恨铁不成钢为由拒绝，陷入事业和感情困局。空降上司苏芒因为各种传闻在新环境中陷入孤立无援的境地，但热心的郑楚走进了她的生活。两人从欢喜冤家到相濡以沫，“女魔头”和刺头下属从“冰与火”的对抗到相爱。办公室恋情和来历不明的孩子考验着一对重燃爱情希望的恋人。郑楚面对苏芒善意的谎言，从迷茫到坚定，和苏芒共同经历重重波折，为爱人承受所有的质疑和误解，不懈的坚持终使有情人成眷属。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501101100 +0800" stop="20260501105200 +0800">
-    <title lang="zh">漂洋过海来看你(21)</title>
-    <desc lang="zh">英国MG旅游集团高管苏芒在婆婆央求下，瞒着不能生育的丈夫陈嘉明借精生子。不料被丈夫发现并遭劈腿，两人离异。自尊心极强的苏芒对爱情和婚姻陷入绝望，决定离开伤心地返回中国，却被医生告知怀孕成功。她决定独自把孩子生下来，带着肚子里的小生命回到了上海任MG总部旅游事业部总监。此时上海总部旅游体验师郑楚向女友陈姗姗求婚，却被其以恨铁不成钢为由拒绝，陷入事业和感情困局。空降上司苏芒因为各种传闻在新环境中陷入孤立无援的境地，但热心的郑楚走进了她的生活。两人从欢喜冤家到相濡以沫，“女魔头”和刺头下属从“冰与火”的对抗到相爱。办公室恋情和来历不明的孩子考验着一对重燃爱情希望的恋人。郑楚面对苏芒善意的谎言，从迷茫到坚定，和苏芒共同经历重重波折，为爱人承受所有的质疑和误解，不懈的坚持终使有情人成眷属。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501105200 +0800" stop="20260501113200 +0800">
-    <title lang="zh">漂洋过海来看你(22)</title>
-    <desc lang="zh">英国MG旅游集团高管苏芒在婆婆央求下，瞒着不能生育的丈夫陈嘉明借精生子。不料被丈夫发现并遭劈腿，两人离异。自尊心极强的苏芒对爱情和婚姻陷入绝望，决定离开伤心地返回中国，却被医生告知怀孕成功。她决定独自把孩子生下来，带着肚子里的小生命回到了上海任MG总部旅游事业部总监。此时上海总部旅游体验师郑楚向女友陈姗姗求婚，却被其以恨铁不成钢为由拒绝，陷入事业和感情困局。空降上司苏芒因为各种传闻在新环境中陷入孤立无援的境地，但热心的郑楚走进了她的生活。两人从欢喜冤家到相濡以沫，“女魔头”和刺头下属从“冰与火”的对抗到相爱。办公室恋情和来历不明的孩子考验着一对重燃爱情希望的恋人。郑楚面对苏芒善意的谎言，从迷茫到坚定，和苏芒共同经历重重波折，为爱人承受所有的质疑和误解，不懈的坚持终使有情人成眷属。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501113200 +0800" stop="20260501121300 +0800">
-    <title lang="zh">漂洋过海来看你(23)</title>
-    <desc lang="zh">英国MG旅游集团高管苏芒在婆婆央求下，瞒着不能生育的丈夫陈嘉明借精生子。不料被丈夫发现并遭劈腿，两人离异。自尊心极强的苏芒对爱情和婚姻陷入绝望，决定离开伤心地返回中国，却被医生告知怀孕成功。她决定独自把孩子生下来，带着肚子里的小生命回到了上海任MG总部旅游事业部总监。此时上海总部旅游体验师郑楚向女友陈姗姗求婚，却被其以恨铁不成钢为由拒绝，陷入事业和感情困局。空降上司苏芒因为各种传闻在新环境中陷入孤立无援的境地，但热心的郑楚走进了她的生活。两人从欢喜冤家到相濡以沫，“女魔头”和刺头下属从“冰与火”的对抗到相爱。办公室恋情和来历不明的孩子考验着一对重燃爱情希望的恋人。郑楚面对苏芒善意的谎言，从迷茫到坚定，和苏芒共同经历重重波折，为爱人承受所有的质疑和误解，不懈的坚持终使有情人成眷属。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501121300 +0800" stop="20260501125600 +0800">
-    <title lang="zh">漂洋过海来看你(24)</title>
-    <desc lang="zh">英国MG旅游集团高管苏芒在婆婆央求下，瞒着不能生育的丈夫陈嘉明借精生子。不料被丈夫发现并遭劈腿，两人离异。自尊心极强的苏芒对爱情和婚姻陷入绝望，决定离开伤心地返回中国，却被医生告知怀孕成功。她决定独自把孩子生下来，带着肚子里的小生命回到了上海任MG总部旅游事业部总监。此时上海总部旅游体验师郑楚向女友陈姗姗求婚，却被其以恨铁不成钢为由拒绝，陷入事业和感情困局。空降上司苏芒因为各种传闻在新环境中陷入孤立无援的境地，但热心的郑楚走进了她的生活。两人从欢喜冤家到相濡以沫，“女魔头”和刺头下属从“冰与火”的对抗到相爱。办公室恋情和来历不明的孩子考验着一对重燃爱情希望的恋人。郑楚面对苏芒善意的谎言，从迷茫到坚定，和苏芒共同经历重重波折，为爱人承受所有的质疑和误解，不懈的坚持终使有情人成眷属。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501125600 +0800" stop="20260501130100 +0800">
-    <title lang="zh">精彩赏析:午夜蝴蝶(1)</title>
-    <desc lang="zh">《午夜蝴蝶》以民国时期大上海为背景，通过单元剧的形式，讲述几个花一样的少女遭遇不同命运的故事。作为民国版“温柔系列”，与“温柔系列剧”依次序是《温柔的背后》《温柔的背叛/温柔的背后2》《温柔的谎言》《谎言背后》《真爱背后》《温柔的诱惑》相关。该剧发生在民国时期的上海，故事纵横交错，既有扣人心弦的谍战剧特有的紧张情节，又有时代因素导致的人物内心描绘，每一个角色都非脸谱化的用好人坏人来看待，颠覆了以往谍战剧的单一化模式。民国晚期，时局动荡，人人自危。生活在这个年代的雨婷、韩雯雯、美心、苏沫和小蝶是从小一起玩的好姐妹，虽有着相似的童年，但却经历着不一样的人生。在她们的人生路上，或因时代的变迁，或因家庭的落败，尝尽辛酸苦辣，经历命运坎坷。但她们最终通过自己的努力一步一步去完成理想。经过了重重苦难，她们渐渐明白：所谓的幸福是要独立去追求的，不是期待，更不能完全依靠别人。大时代给她们的选择设置各种困难，但她们坚韧地前行，勇敢迎接新社会的到来。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501130100 +0800" stop="20260501130900 +0800">
-    <title lang="zh">精彩赏析:黄土高天(2)</title>
-    <desc lang="zh">《我爱诗书画》该栏目以弘扬中华民族优秀传统文化和推介安徽诗书画家为宗旨，从传统唐诗宋词入手，以书法展现古典诗词魅力，以绘画诠释古典诗词意境，以诗入画，以书映诗，融会贯通，交相辉映，为书画爱好者和广大观众搭建起一个学习、欣赏的平台。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501130900 +0800" stop="20260501131500 +0800">
-    <title lang="zh">精彩赏析:男人的秘密(2)</title>
-    <desc lang="zh">本剧以张扬、朱丽安夫妻的婚姻生活为主线，探讨当代都市中青年夫妻生活的相处之道，并通过他们的同学、好友以及同事的婚姻、事业和爱情生活，反映了当代都市75后、80初青年人的婚恋观与价值观。全剧以“七年之痒”作为切入点，讲述了张扬、朱丽安夫妻为庆祝安然渡过“七年之痒”这一关，在好友陈醉的张罗下，于某酒店组织了一场名为“七年不痒”的聚会，谁知这场聚会却因为张扬前女友九月的不请自来，以及好友兼同学龙东强的别有用心给搅得一团糟。最终，几对主人公都在平凡的生活中找到了自己的真爱，他们在艰难的抉择中领悟了生活的真谛，发现猜疑与所谓的“激情”只会让生活变得更像一团乱麻，而真正的爱情就在于生活中那看似平凡的点点滴滴之中。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501131500 +0800" stop="20260501132100 +0800">
-    <title lang="zh">精彩赏析:开国元勋朱德(2)</title>
-    <desc lang="zh">历史上，作为统帅的朱德曾是一个时代的震撼；现实中，作为真实的朱德处处闪耀着人性的光辉！本剧将以饱满的深情，以审读历史的哲学目光，重新阅读19世纪末至20世纪中期，中华民族这一段水与火交融、歌与泪并存的波澜壮阔的历史；追寻着朱德的人生轨迹，透过历史弥漫的烟云，去重新认识这位一生追求真理，投身革命、功勋卓著而又从不居功、有着伟大人格和情操的开国元勋。 朱德生于贫苦农民家庭，参加了蔡鄂领导的云南起义，成为滇军名将。后由于滇军内部斗争，朱德赴欧洲留学，结识周恩来并加入中国共产党。回国后，他参加八一南昌起义。南下时，朱德任先遣军指挥，在主力攻打潮汕失败后，朱德率领的部队成为保存下来的一支革命火种。井岗山会师后，朱毛红军名扬天下，并在瑞金建立中央革命根据地，粉碎国民党四次反“围剿”。第五次反“围剿”中，中央革命根据地丢失，红军不得不进行长征。长征中，朱德为争取四方面军，三过雪山草地，终于带领二、四方面军到达陕北。抗战爆发后，朱德任八路军总司令，领导了平型关大捷，百团大战等著名战役。解放战争中，他与毛泽东一起指挥三大战役和渡江战役。新中国成立后，朱德勤政为民、克勤克俭、作风民主、实事求是。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501132100 +0800" stop="20260501133000 +0800">
-    <title lang="zh">精彩赏析:八方传奇(3)</title>
-    <desc lang="zh">1935年，张涛为报父仇，假借抗日奇匪“杀八方”之名，在辽南海滨小城滨岛连续惩杀汉奸，却不料阴差阳错牵连出土匪、抗联、复兴社等多股隐藏势力，引来一场轩然大波。侦探出身的日寇宪兵老队长晴川为侦破“杀八方”案花费大量人力物力，在抽丝剥茧中逐渐发现张涛的重大嫌疑。张涛在与晴川及多股被牵势力的周旋中陷入绝境，本欲回归平民生活，却发现自己的报父仇行为已造成抗联成员、抗日土匪及无辜百姓惨遭日寇屠杀。张涛由此放下小我，誓要抵抗日寇为死难同胞报仇，在抗联情报站长张来财的舍身相救及继任站长王刚的扶持引领下，最终消灭了以晴川为首的滨岛日寇团体，并为抗联争取来一批重要的武器资源，成为民间抗日的传奇人物。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501133000 +0800" stop="20260501141100 +0800">
-    <title lang="zh">运河风流(32)</title>
-    <desc lang="zh">民国初年，黄子荣辞官返乡，他与妻子假装产子，暗中将土匪盖三山的儿子养在家中，取名黄天行。黄子荣独上飞鱼岛，凭借智慧与勇气替百姓夺回灾银，令女匪一片云一见倾心。黄子荣竞选知县成功后，不计与宋家祖上恩怨，暗中帮宋鲁生渡过多次商业危机，维护了济宁城的商业繁荣与秩序，而宋鲁生与其惺惺相惜，也在黄家危急关头，多次暗中伸出援手。为官期间，黄子荣秉承官匪不通、官商不通的家风家训，导致官运坎坷，最终因儿子黄天楷的诬陷辞官回家。抗日战争爆发后，黄子荣将民族大义放在首位，带领百姓守城。城池沦陷后，他与日本人暗中周旋，带领众人并说动一片云下岛参加抗日队伍。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501141100 +0800" stop="20260501145300 +0800">
-    <title lang="zh">运河风流(33)</title>
-    <desc lang="zh">民国初年，黄子荣辞官返乡，他与妻子假装产子，暗中将土匪盖三山的儿子养在家中，取名黄天行。黄子荣独上飞鱼岛，凭借智慧与勇气替百姓夺回灾银，令女匪一片云一见倾心。黄子荣竞选知县成功后，不计与宋家祖上恩怨，暗中帮宋鲁生渡过多次商业危机，维护了济宁城的商业繁荣与秩序，而宋鲁生与其惺惺相惜，也在黄家危急关头，多次暗中伸出援手。为官期间，黄子荣秉承官匪不通、官商不通的家风家训，导致官运坎坷，最终因儿子黄天楷的诬陷辞官回家。抗日战争爆发后，黄子荣将民族大义放在首位，带领百姓守城。城池沦陷后，他与日本人暗中周旋，带领众人并说动一片云下岛参加抗日队伍。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501145300 +0800" stop="20260501153600 +0800">
-    <title lang="zh">运河风流(34)</title>
-    <desc lang="zh">民国初年，黄子荣辞官返乡，他与妻子假装产子，暗中将土匪盖三山的儿子养在家中，取名黄天行。黄子荣独上飞鱼岛，凭借智慧与勇气替百姓夺回灾银，令女匪一片云一见倾心。黄子荣竞选知县成功后，不计与宋家祖上恩怨，暗中帮宋鲁生渡过多次商业危机，维护了济宁城的商业繁荣与秩序，而宋鲁生与其惺惺相惜，也在黄家危急关头，多次暗中伸出援手。为官期间，黄子荣秉承官匪不通、官商不通的家风家训，导致官运坎坷，最终因儿子黄天楷的诬陷辞官回家。抗日战争爆发后，黄子荣将民族大义放在首位，带领百姓守城。城池沦陷后，他与日本人暗中周旋，带领众人并说动一片云下岛参加抗日队伍。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501153600 +0800" stop="20260501154500 +0800">
-    <title lang="zh">精彩赏析:老男孩(2)</title>
-    <desc lang="zh">吴争，民航机长，拥有令人艳羡的职业和外型，飞行中他技术过硬，承载无数乘客的责任。生活中他天性不羁爱自由，恣意挥洒，不管他人眼光。在自己的世界里，做个彻头彻尾的老男孩。直到有一天，一个 16岁的儿子从天而降，一个正义的女老师林小欧紧随其后，两人前后脚的到来，彻底颠覆了吴争既有的生活。林小欧，无忧无虑的乐天派，时髦得有点用力，正义得有点莽撞，她是学生们亲切的姐姐、爽朗的朋友和没架子的好老师。当得知得意门生萧晗突遭家变，成了无家可归的孤儿，她费劲心力要与孩子生父沟通，当她见到了孩子生父才发现，原来，他就是自己不久前海外旅行时的噩梦——处处和她作对、极不靠谱的吴争 。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501154500 +0800" stop="20260501162600 +0800">
-    <title lang="zh">漂洋过海来看你(25)</title>
-    <desc lang="zh">英国MG旅游集团高管苏芒在婆婆央求下，瞒着不能生育的丈夫陈嘉明借精生子。不料被丈夫发现并遭劈腿，两人离异。自尊心极强的苏芒对爱情和婚姻陷入绝望，决定离开伤心地返回中国，却被医生告知怀孕成功。她决定独自把孩子生下来，带着肚子里的小生命回到了上海任MG总部旅游事业部总监。此时上海总部旅游体验师郑楚向女友陈姗姗求婚，却被其以恨铁不成钢为由拒绝，陷入事业和感情困局。空降上司苏芒因为各种传闻在新环境中陷入孤立无援的境地，但热心的郑楚走进了她的生活。两人从欢喜冤家到相濡以沫，“女魔头”和刺头下属从“冰与火”的对抗到相爱。办公室恋情和来历不明的孩子考验着一对重燃爱情希望的恋人。郑楚面对苏芒善意的谎言，从迷茫到坚定，和苏芒共同经历重重波折，为爱人承受所有的质疑和误解，不懈的坚持终使有情人成眷属。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501162600 +0800" stop="20260501170500 +0800">
-    <title lang="zh">漂洋过海来看你(26)</title>
-    <desc lang="zh">英国MG旅游集团高管苏芒在婆婆央求下，瞒着不能生育的丈夫陈嘉明借精生子。不料被丈夫发现并遭劈腿，两人离异。自尊心极强的苏芒对爱情和婚姻陷入绝望，决定离开伤心地返回中国，却被医生告知怀孕成功。她决定独自把孩子生下来，带着肚子里的小生命回到了上海任MG总部旅游事业部总监。此时上海总部旅游体验师郑楚向女友陈姗姗求婚，却被其以恨铁不成钢为由拒绝，陷入事业和感情困局。空降上司苏芒因为各种传闻在新环境中陷入孤立无援的境地，但热心的郑楚走进了她的生活。两人从欢喜冤家到相濡以沫，“女魔头”和刺头下属从“冰与火”的对抗到相爱。办公室恋情和来历不明的孩子考验着一对重燃爱情希望的恋人。郑楚面对苏芒善意的谎言，从迷茫到坚定，和苏芒共同经历重重波折，为爱人承受所有的质疑和误解，不懈的坚持终使有情人成眷属。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501170500 +0800" stop="20260501174600 +0800">
-    <title lang="zh">漂洋过海来看你(27)</title>
-    <desc lang="zh">英国MG旅游集团高管苏芒在婆婆央求下，瞒着不能生育的丈夫陈嘉明借精生子。不料被丈夫发现并遭劈腿，两人离异。自尊心极强的苏芒对爱情和婚姻陷入绝望，决定离开伤心地返回中国，却被医生告知怀孕成功。她决定独自把孩子生下来，带着肚子里的小生命回到了上海任MG总部旅游事业部总监。此时上海总部旅游体验师郑楚向女友陈姗姗求婚，却被其以恨铁不成钢为由拒绝，陷入事业和感情困局。空降上司苏芒因为各种传闻在新环境中陷入孤立无援的境地，但热心的郑楚走进了她的生活。两人从欢喜冤家到相濡以沫，“女魔头”和刺头下属从“冰与火”的对抗到相爱。办公室恋情和来历不明的孩子考验着一对重燃爱情希望的恋人。郑楚面对苏芒善意的谎言，从迷茫到坚定，和苏芒共同经历重重波折，为爱人承受所有的质疑和误解，不懈的坚持终使有情人成眷属。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501174600 +0800" stop="20260501182500 +0800">
-    <title lang="zh">漂洋过海来看你(28)</title>
-    <desc lang="zh">英国MG旅游集团高管苏芒在婆婆央求下，瞒着不能生育的丈夫陈嘉明借精生子。不料被丈夫发现并遭劈腿，两人离异。自尊心极强的苏芒对爱情和婚姻陷入绝望，决定离开伤心地返回中国，却被医生告知怀孕成功。她决定独自把孩子生下来，带着肚子里的小生命回到了上海任MG总部旅游事业部总监。此时上海总部旅游体验师郑楚向女友陈姗姗求婚，却被其以恨铁不成钢为由拒绝，陷入事业和感情困局。空降上司苏芒因为各种传闻在新环境中陷入孤立无援的境地，但热心的郑楚走进了她的生活。两人从欢喜冤家到相濡以沫，“女魔头”和刺头下属从“冰与火”的对抗到相爱。办公室恋情和来历不明的孩子考验着一对重燃爱情希望的恋人。郑楚面对苏芒善意的谎言，从迷茫到坚定，和苏芒共同经历重重波折，为爱人承受所有的质疑和误解，不懈的坚持终使有情人成眷属。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501182500 +0800" stop="20260501190700 +0800">
-    <title lang="zh">漂洋过海来看你(29)</title>
-    <desc lang="zh">英国MG旅游集团高管苏芒在婆婆央求下，瞒着不能生育的丈夫陈嘉明借精生子。不料被丈夫发现并遭劈腿，两人离异。自尊心极强的苏芒对爱情和婚姻陷入绝望，决定离开伤心地返回中国，却被医生告知怀孕成功。她决定独自把孩子生下来，带着肚子里的小生命回到了上海任MG总部旅游事业部总监。此时上海总部旅游体验师郑楚向女友陈姗姗求婚，却被其以恨铁不成钢为由拒绝，陷入事业和感情困局。空降上司苏芒因为各种传闻在新环境中陷入孤立无援的境地，但热心的郑楚走进了她的生活。两人从欢喜冤家到相濡以沫，“女魔头”和刺头下属从“冰与火”的对抗到相爱。办公室恋情和来历不明的孩子考验着一对重燃爱情希望的恋人。郑楚面对苏芒善意的谎言，从迷茫到坚定，和苏芒共同经历重重波折，为爱人承受所有的质疑和误解，不懈的坚持终使有情人成眷属。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501190700 +0800" stop="20260501191300 +0800">
-    <title lang="zh">精彩赏析:甜蜜(1)</title>
-    <desc lang="zh">《甜蜜》电视剧是由阎建钢执导，海清、任重领衔主演，施诗、赵秦主演的都市情感剧。该剧讲述了都市女性田蜜由于丈夫自杀从一个养尊处优的富太太跌入生活谷底，不得不扛起替丈夫偿还债务的重担，后一路拼搏成长为一名金融理财师，并收获美满爱情的故事 。田蜜原本是一个养尊处优的年轻阔太，生活富足而美满。然而丈夫刘得恩却突然因经营失败而脑梗猝死，并给田蜜留下了高达千万元的巨额债务，令田蜜的生活一夜之间从天堂坠入了深渊。在刘得恩的旧识，做私人银行客户经理常胜的帮助下，田蜜鼓起了生活的勇气，走上了漫漫还债路。经过几年的努力，田蜜不仅学会了自立，更成长为一名优秀的金融理财师，并最终还清了巨额债务。田蜜和常胜还一起创办了一家财富管理公司，开始了创业之路。多年的相互扶持和鼓励，也让爱情的种子在两人的心中慢慢萌芽，最终两颗善良而热烈的心紧密的连接在了一起。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501191300 +0800" stop="20260501192000 +0800">
-    <title lang="zh">精彩赏析:独狼(1)</title>
-    <desc lang="zh">电视剧独狼是由小说《冷枪》改编而来，讲述的是南京陷落后至徐州会战前四十余天的时间内，在重重炮火硝烟的背后，中日两支特种小分队之间惊心动魄、你死我活的一场“潜伏”较量和生死对决的故事。导演陶秋普，主要演员有祖峰、颜丹晨、史光辉、芦菲、芦芳生等。小说作者，是安徽省定远县一名新锐青年作家，对皖东地区的抗战史和地方志有多年的研究，并以其独特的文风和视角，书写出这部环环相扣、剧情紧凑、高潮迭起的作品。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501192000 +0800" stop="20260501193000 +0800">
-    <title lang="zh">精彩赏析:棋逢对手(6)</title>
-    <desc lang="zh">《棋逢对手》是由浙江华策影视股份有限公司出品的都市情感励志轻喜剧，刘心刚执导，黄轩、王子文、黄觉、 邓萃雯、 黄勐、殷叶子、孔维、李媛主演。《棋逢对手》根据同名小说改编，讲述了几个年轻人从一家大型超市开始职场历练，逐步进入大卖场最后成为写字楼白领的职场励志故事，通过剧中形形色色的人物的奋斗历程反映了现代都市的职场百态......</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501193000 +0800" stop="20260501201100 +0800">
-    <title lang="zh">运河风流(35)</title>
-    <desc lang="zh">民国初年，黄子荣辞官返乡，他与妻子假装产子，暗中将土匪盖三山的儿子养在家中，取名黄天行。黄子荣独上飞鱼岛，凭借智慧与勇气替百姓夺回灾银，令女匪一片云一见倾心。黄子荣竞选知县成功后，不计与宋家祖上恩怨，暗中帮宋鲁生渡过多次商业危机，维护了济宁城的商业繁荣与秩序，而宋鲁生与其惺惺相惜，也在黄家危急关头，多次暗中伸出援手。为官期间，黄子荣秉承官匪不通、官商不通的家风家训，导致官运坎坷，最终因儿子黄天楷的诬陷辞官回家。抗日战争爆发后，黄子荣将民族大义放在首位，带领百姓守城。城池沦陷后，他与日本人暗中周旋，带领众人并说动一片云下岛参加抗日队伍。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501201100 +0800" stop="20260501205300 +0800">
-    <title lang="zh">运河风流(36)</title>
-    <desc lang="zh">民国初年，黄子荣辞官返乡，他与妻子假装产子，暗中将土匪盖三山的儿子养在家中，取名黄天行。黄子荣独上飞鱼岛，凭借智慧与勇气替百姓夺回灾银，令女匪一片云一见倾心。黄子荣竞选知县成功后，不计与宋家祖上恩怨，暗中帮宋鲁生渡过多次商业危机，维护了济宁城的商业繁荣与秩序，而宋鲁生与其惺惺相惜，也在黄家危急关头，多次暗中伸出援手。为官期间，黄子荣秉承官匪不通、官商不通的家风家训，导致官运坎坷，最终因儿子黄天楷的诬陷辞官回家。抗日战争爆发后，黄子荣将民族大义放在首位，带领百姓守城。城池沦陷后，他与日本人暗中周旋，带领众人并说动一片云下岛参加抗日队伍。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501205300 +0800" stop="20260501213500 +0800">
-    <title lang="zh">运河风流(37)</title>
-    <desc lang="zh">民国初年，黄子荣辞官返乡，他与妻子假装产子，暗中将土匪盖三山的儿子养在家中，取名黄天行。黄子荣独上飞鱼岛，凭借智慧与勇气替百姓夺回灾银，令女匪一片云一见倾心。黄子荣竞选知县成功后，不计与宋家祖上恩怨，暗中帮宋鲁生渡过多次商业危机，维护了济宁城的商业繁荣与秩序，而宋鲁生与其惺惺相惜，也在黄家危急关头，多次暗中伸出援手。为官期间，黄子荣秉承官匪不通、官商不通的家风家训，导致官运坎坷，最终因儿子黄天楷的诬陷辞官回家。抗日战争爆发后，黄子荣将民族大义放在首位，带领百姓守城。城池沦陷后，他与日本人暗中周旋，带领众人并说动一片云下岛参加抗日队伍。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501213500 +0800" stop="20260501214200 +0800">
-    <title lang="zh">精彩赏析:午夜蝴蝶(2)</title>
-    <desc lang="zh">《午夜蝴蝶》以民国时期大上海为背景，通过单元剧的形式，讲述几个花一样的少女遭遇不同命运的故事。作为民国版“温柔系列”，与“温柔系列剧”依次序是《温柔的背后》《温柔的背叛/温柔的背后2》《温柔的谎言》《谎言背后》《真爱背后》《温柔的诱惑》相关。该剧发生在民国时期的上海，故事纵横交错，既有扣人心弦的谍战剧特有的紧张情节，又有时代因素导致的人物内心描绘，每一个角色都非脸谱化的用好人坏人来看待，颠覆了以往谍战剧的单一化模式。民国晚期，时局动荡，人人自危。生活在这个年代的雨婷、韩雯雯、美心、苏沫和小蝶是从小一起玩的好姐妹，虽有着相似的童年，但却经历着不一样的人生。在她们的人生路上，或因时代的变迁，或因家庭的落败，尝尽辛酸苦辣，经历命运坎坷。但她们最终通过自己的努力一步一步去完成理想。经过了重重苦难，她们渐渐明白：所谓的幸福是要独立去追求的，不是期待，更不能完全依靠别人。大时代给她们的选择设置各种困难，但她们坚韧地前行，勇敢迎接新社会的到来。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501214200 +0800" stop="20260501214900 +0800">
-    <title lang="zh">精彩赏析:一马三司令(2)</title>
-    <desc lang="zh">马耀南在日本入侵中国的民族危亡时刻，毅然投笔从戎，与侠胆忠肝的二弟马晓云，内敛忠厚的三弟马天民自发组织当地师生和有志百姓成立抗日武装。在共产党的领导和帮助下，在一次次与日本侵略者的战斗中，他们的队伍一步步发展壮大，从一支莽撞的“大褂子军”逐步成长为我党清河地区纪律严明的抗日中坚力量，马氏三兄弟也在磨砺中成长为称职的将领，被当地百姓称为“一马三司令”。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501214900 +0800" stop="20260501220000 +0800">
-    <title lang="zh">精彩赏析:一马换三羊(3)</title>
-    <desc lang="zh">自幼在军队大院长大的巩大为（冯雷 饰）和马志军（史力嘉 饰）是一对好兄弟，不过两人的性格多有不同。大为一肚子坏水和鬼点子，经常会做一些让父辈头疼的事。他时不时突发奇想，搞得鸡鸣狗跳，骨子里却是一个重义气值得信赖的男子汉。马志军父母双亡，在大为这样的孩子头面前就如同一个永远不起眼的乖宝宝。大院里搬来了美丽女孩沈小红（刘威葳 饰），她和大为从最初的互相看不顺眼到相互理解和欣赏。 时光流转，转眼间调皮的孩子们都已长大。在改革开放的浪潮下，他们相继成为时代的弄潮儿，而彼此性格的不同，又使得这些年轻人起起伏伏，品尝这人世间的苦辣辛酸……</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501220000 +0800" stop="20260501233100 +0800">
-    <title lang="zh">功夫之王</title>
-    <desc lang="zh">风流潇洒却性格桀骜不驯的孟良自幼在劈挂门炼就一身好功夫，但连续两年高考不中，整日游手好闲，其姐陵园冬恐慌其不学无术，遂找来昔日情人文武来辅导孟良，希望他能在全省跆拳道比赛中获得前三名，再加上文化补习班的学习，以获取中北大学特招生的考试资格。 文武将孟良带到太原的跆拳馆学习跆拳道，孟良自恃身手对新教练秋菊不以为然，经常借故对其挑衅，引发连番武斗，但不分胜负。而在补习班中，因“梦中情人”阮媛媛的出现，孟良与获得过两届全少跆拳道大赛冠军而自视为武林高手的跆拳道黑带学院唐仁成了死敌，并各下战书约定在日后举办的全省跆拳道大赛上决一死战，为赢得比赛，孟良一改往日习性，拼命练习各种格斗技能，并多次利用与犯罪团伙交锋之时验证身手，最终在全省跆拳道大赛上利用骄兵必贩的心理将唐仁击溃。唐仁此后痛定思痛，认识到自身不足而奋起修炼，身手更加凌厉强悍，誓雪一败之耻。不久，在文武筹办的全国功夫之王擂台大赛上，孟良、唐仁再次对决，在遭遇前所未有的强劲对手之后，突然悟出武学真谛，熊熊战火中为人们奉上一场激情迸发的拳脚大战…</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501233100 +0800" stop="20260501233800 +0800">
-    <title lang="zh">精彩赏析:独狼(1)</title>
-    <desc lang="zh">电视剧独狼是由小说《冷枪》改编而来，讲述的是南京陷落后至徐州会战前四十余天的时间内，在重重炮火硝烟的背后，中日两支特种小分队之间惊心动魄、你死我活的一场“潜伏”较量和生死对决的故事。导演陶秋普，主要演员有祖峰、颜丹晨、史光辉、芦菲、芦芳生等。小说作者，是安徽省定远县一名新锐青年作家，对皖东地区的抗战史和地方志有多年的研究，并以其独特的文风和视角，书写出这部环环相扣、剧情紧凑、高潮迭起的作品。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501233800 +0800" stop="20260501234600 +0800">
-    <title lang="zh">精彩赏析:老男孩(2)</title>
-    <desc lang="zh">吴争，民航机长，拥有令人艳羡的职业和外型，飞行中他技术过硬，承载无数乘客的责任。生活中他天性不羁爱自由，恣意挥洒，不管他人眼光。在自己的世界里，做个彻头彻尾的老男孩。直到有一天，一个 16岁的儿子从天而降，一个正义的女老师林小欧紧随其后，两人前后脚的到来，彻底颠覆了吴争既有的生活。林小欧，无忧无虑的乐天派，时髦得有点用力，正义得有点莽撞，她是学生们亲切的姐姐、爽朗的朋友和没架子的好老师。当得知得意门生萧晗突遭家变，成了无家可归的孤儿，她费劲心力要与孩子生父沟通，当她见到了孩子生父才发现，原来，他就是自己不久前海外旅行时的噩梦——处处和她作对、极不靠谱的吴争 。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501234600 +0800" stop="20260501235400 +0800">
-    <title lang="zh">精彩赏析:黄土高天(2)</title>
-    <desc lang="zh">《我爱诗书画》该栏目以弘扬中华民族优秀传统文化和推介安徽诗书画家为宗旨，从传统唐诗宋词入手，以书法展现古典诗词魅力，以绘画诠释古典诗词意境，以诗入画，以书映诗，融会贯通，交相辉映，为书画爱好者和广大观众搭建起一个学习、欣赏的平台。</desc>
-  </programme>
-  <programme channel="都市剧场" start="20260501235400 +0800" stop="20260502000000 +0800">
-    <title lang="zh">暴风</title>
-    <desc lang="zh">1931年，国共两党暗战频发的汕头，草木皆兵，共党在此处设立的神秘交通站成为了王历文（王千源 饰）急需攻破的关键枢纽。值此重要关头，他与多年前结拜的兄弟陈家栋（陈伟霆 饰）意外街头重聚，并开始联手调查交通站的秘密。两兄弟在几轮斡旋后，陷入了四伏的危机之中。在敌友难辨的境况下，二人也开始重新审视起了彼此的身份……</desc>
-  </programme>
   <programme channel="都市剧场" start="20260502013300 +0800" stop="20260502013700 +0800">
     <title lang="zh">精彩赏析:人是铁饭是钢(1)</title>
     <desc lang="zh">一九六三年，由于所在工厂超额完全任务，被上级奖励了一头猪，这件事情使得已被开除的南易得到重新回到炊事班的机会。而现任炊事班长崔大可认为南易归来必定取代自己的位置，所以处处与他为敌。但南易凭借着自己的技艺与努力渐渐确立了在工厂的声望，也得到丁秋楠的爱情。但因为他总是帮助拖家带口的寡妇梁拉娣一家，令崔大可抓住了污蔑他的机会，最终从他手中抢走了丁秋楠；而南易则与梁拉娣成了患难夫妻。虽然各有家庭但南易和丁秋楠都将对方视为知己。崔大可拉拢南易开起了小饭店。最终儿子小南接管了饭店。回想往事，崔大可和南易这对斗了半辈子的冤家不禁老泪纵横，最终二人冰释前嫌。</desc>
@@ -8658,7 +8281,7 @@
     <title lang="zh">精彩赏析:守望的天空(2)</title>
     <desc lang="zh">该剧以孤独症作为整部作品的中心议题，讲述了一个普通平凡的23岁女孩葡萄，在母亲病逝之后，独自带着患有孤独症的哥哥袁望，坚韧不拔、踽踽而行的生存故事。葡萄六岁时父亲袁卫国因为无法忍受儿子患孤独症所带给家庭的精神压力，而与妻子离婚，狠心地抛弃了这一双儿女。母亲为了能全心全意地照顾袁望，不得不把葡萄送到了寄宿学校。出于对母亲和哥哥的不理解，葡萄改去了“袁心”这个名字，开始学会了自己照顾自己。长大后的她勇敢自信，也有了自己的家。母亲带着袁望和被领养的“妹妹”小袁心的意外来访打破了原有的平静。 母亲病逝，葡萄承担起了照顾袁望和小袁心的重任，她的人生发生了巨大改变……工作飞了，丈夫跑了，婆婆、小姑不理解，社会对孤独症的歧视。带着袁望和袁心一起活下去，成为葡萄唯一的信念。在袁望和袁心的影响下，面对袁卫国这样一个不称职的父亲，她学会了宽容和谅解。在生活的困苦和情感的磨砺中，葡萄理解了母亲无私的爱，明白了有爱才有家！</desc>
   </programme>
-  <programme channel="都市剧场" start="20260507235700 +0800" stop="20260508000300 +0800">
+  <programme channel="都市剧场" start="20260507235700 +0800" stop="20260508000000 +0800">
     <title lang="zh">精彩赏析:开国元勋朱德(2)</title>
     <desc lang="zh">历史上，作为统帅的朱德曾是一个时代的震撼；现实中，作为真实的朱德处处闪耀着人性的光辉！本剧将以饱满的深情，以审读历史的哲学目光，重新阅读19世纪末至20世纪中期，中华民族这一段水与火交融、歌与泪并存的波澜壮阔的历史；追寻着朱德的人生轨迹，透过历史弥漫的烟云，去重新认识这位一生追求真理，投身革命、功勋卓著而又从不居功、有着伟大人格和情操的开国元勋。 朱德生于贫苦农民家庭，参加了蔡鄂领导的云南起义，成为滇军名将。后由于滇军内部斗争，朱德赴欧洲留学，结识周恩来并加入中国共产党。回国后，他参加八一南昌起义。南下时，朱德任先遣军指挥，在主力攻打潮汕失败后，朱德率领的部队成为保存下来的一支革命火种。井岗山会师后，朱毛红军名扬天下，并在瑞金建立中央革命根据地，粉碎国民党四次反“围剿”。第五次反“围剿”中，中央革命根据地丢失，红军不得不进行长征。长征中，朱德为争取四方面军，三过雪山草地，终于带领二、四方面军到达陕北。抗战爆发后，朱德任八路军总司令，领导了平型关大捷，百团大战等著名战役。解放战争中，他与毛泽东一起指挥三大战役和渡江战役。新中国成立后，朱德勤政为民、克勤克俭、作风民主、实事求是。</desc>
   </programme>
@@ -8882,149 +8505,237 @@
     <title lang="zh">精彩赏析:黑土热血(1)</title>
     <desc lang="zh">抗战末期的东北，由李一峰领导的抗联部队秘密潜回滨江，与卡萨果夫将军率领的苏军里应外合击溃日军最后的防线，胜利收复滨江。苏军占领滨江后，李一峰接受中共东北局的指示，协助苏军控制和维护滨江的社会秩序，打击潜伏的军警宪特等反动敌对势力。国民党丁丰接任滨江警察局局长的职务，他密谋扫除共产党组织，为国民党接收滨江铺路。丁丰派手下苏莎潜伏到卡萨果夫身边担任翻译，并授意她对李一峰展开追求，希望借此获取李一峰管理滨江的一切举动，并掌握对李一峰生杀予夺的权力。在中共高级干部肖曼、抗联政委刘力、共产党人赵平等人的帮助下，李一峰与丁丰等人针锋相对、殊死较量，为维护滨江的社会秩序，捍卫滨江百姓的生命安全拼尽全力。为了让滨江回到人民的怀抱，肖曼、李一峰等共产党人前仆后继，用生命的代价换来滨江的解放。</desc>
   </programme>
-  <programme channel="都市剧场" start="20260508235600 +0800" stop="20260509000000 +0800">
+  <programme channel="都市剧场" start="20260508235600 +0800" stop="20260509000500 +0800">
     <title lang="zh">精彩赏析:绝地反击(1)</title>
     <desc lang="zh">讲述出身草莽的童齐刚（王翌舟 饰）和国军战士孙万全（吴旭东 饰）原本因为个人恩怨而剑拔弩张，但抗日救亡、匹夫有责，面对侵略者的暴虐行径，互为仇敌的两人在八路军林城支队政委朱雁鸣（王新 饰）及指导员李幕侠（阿丽亚 饰）的感召、引领下，纷纷放下私怨，同仇敌忾，并且成为战友协力作战抵抗侵略者。期间，面对数次险境，他们舍生忘死、不顾自我牺牲，并且默契配合炸掉日寇隐蔽机场，摧毁了敌人的险恶阴谋。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509000500 +0800" stop="20260509000900 +0800">
+    <title lang="zh">精彩赏析:宜昌保卫战(3)</title>
+    <desc lang="zh">1938年中山舰殉难后受伤的抗战伤兵胡宜生，回宜昌养伤时正赶上宜昌大撤运。在号称“东方的敦刻尔克大撤退”行动中，胡宜生结识了共产党，并在共产党的感召下积极组织宜昌社会各界投入大撤运工作，使大撤运奇迹般地完成。胡宜生在成为宜昌英雄的同时，也赢得了土家妹子成四妹的爱情。随后，胡宜生随江防军驰援枣宜会战，见证张自忠为保宜昌而战死疆场，深感震撼。宜昌沦陷后，胡宜生拉起一支以土家族划夫队为主的民间武装，号称红旗营，不断袭扰打击日寇。1943年，日寇发起鄂西会战目标直指长江天堑石牌要塞，妄图拿下石牌，威逼重庆。胡宜生在中共地下党的指导下，率领民间武装，广泛发动群众，运送粮食与武器弹药，支援江防军作战，在被誉为“中国的斯大林格勒保卫战”的石牌大战中大败日军，从而谱写了一曲“民心不失、国门不倒”的抗日壮歌。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509000900 +0800" stop="20260509020400 +0800">
+    <title lang="zh">这么多年</title>
+    <desc lang="zh">影片改编自八月长安“振华中学”系列中的同名小说《这么多年》，而原著中“飞船对讲机的唯一应答”李燃和“浩瀚宇宙中被遗弃的飞船”陈见夏将分别由张新成和孙千饰演。影片主要讲述了小镇少女陈见夏和跋扈校霸李燃在漫长的成长岁月中彼此依赖互成铠甲，与世界和命运相抵抗的故事。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509020400 +0800" stop="20260509021000 +0800">
+    <title lang="zh">精彩赏析:一个都不能少(2)</title>
+    <desc lang="zh">《一个都不能少》讲述焉支村地质灾害严重贫困帽子摘不下来，为了响应习主席“一个都不能少”的号召，市委决定将焉支村整体搬迁，合并到本县最富裕的丹霞村。故土难离，焉支村的村民不愿搬，丹霞村的村民也不愿意要，易地搬迁工作异常艰辛。两村干部克服种种困难将两个“贫富悬殊”的村子合二为一。合并后，焉支村的村民水土不服，无法融入新的集体，丹霞村的村民看不惯“游手好闲”吃白饭的外人，形成了虽然住在一个村却是“两家人”的尴尬局面。旧的矛盾没有解决，新的问题接踵而来，丹霞村产业转型到了刻不容缓的地步。村委干部想尽办法不让一个村民掉队大家共同致富，最终让两家人变成一条心，丹霞村也转型升级为“文化产业”新模式示范村。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509021000 +0800" stop="20260509025100 +0800">
+    <title lang="zh">鹿鼎记(11)</title>
+    <desc lang="zh">出生市井的小人物韦小宝，在不会任何武功的情况下，因机缘巧合闯入江湖和皇宫，凭借超凡智慧周旋于武林帮会和朝堂之间，一路向上攀升的故事。韦小宝先是假扮太监，助康熙擒杀鳌拜，后又结识天地会总舵主陈近南，成为陈近南的关门弟子和天地会青木堂香主，他协助康熙攻打吴三桂和神龙岛，最后以远征罗刹国作为自己仕途的收尾，抛弃荣华富贵，避世通吃岛。韦小宝从一个只想跟皇帝交好以换取富贵生活的小混混，一路成长为明辨善恶的“鹿鼎公”。他终于明白，富贵权柄手中过，财色皆是挫骨刀，与其舍命搏前程，不如携如花美眷，过烟火人生。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509025100 +0800" stop="20260509033200 +0800">
+    <title lang="zh">鹿鼎记(12)</title>
+    <desc lang="zh">出生市井的小人物韦小宝，在不会任何武功的情况下，因机缘巧合闯入江湖和皇宫，凭借超凡智慧周旋于武林帮会和朝堂之间，一路向上攀升的故事。韦小宝先是假扮太监，助康熙擒杀鳌拜，后又结识天地会总舵主陈近南，成为陈近南的关门弟子和天地会青木堂香主，他协助康熙攻打吴三桂和神龙岛，最后以远征罗刹国作为自己仕途的收尾，抛弃荣华富贵，避世通吃岛。韦小宝从一个只想跟皇帝交好以换取富贵生活的小混混，一路成长为明辨善恶的“鹿鼎公”。他终于明白，富贵权柄手中过，财色皆是挫骨刀，与其舍命搏前程，不如携如花美眷，过烟火人生。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509033200 +0800" stop="20260509041500 +0800">
+    <title lang="zh">鹿鼎记(13)</title>
+    <desc lang="zh">出生市井的小人物韦小宝，在不会任何武功的情况下，因机缘巧合闯入江湖和皇宫，凭借超凡智慧周旋于武林帮会和朝堂之间，一路向上攀升的故事。韦小宝先是假扮太监，助康熙擒杀鳌拜，后又结识天地会总舵主陈近南，成为陈近南的关门弟子和天地会青木堂香主，他协助康熙攻打吴三桂和神龙岛，最后以远征罗刹国作为自己仕途的收尾，抛弃荣华富贵，避世通吃岛。韦小宝从一个只想跟皇帝交好以换取富贵生活的小混混，一路成长为明辨善恶的“鹿鼎公”。他终于明白，富贵权柄手中过，财色皆是挫骨刀，与其舍命搏前程，不如携如花美眷，过烟火人生。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509041500 +0800" stop="20260509042300 +0800">
+    <title lang="zh">精彩赏析:我在北京挺好的(1)</title>
+    <desc lang="zh">电视剧《我在北京·挺好的》以上世纪八十年代到二十一世纪的现代都市为历史背景，跨越三十多年的风雨历程。以来自不同背景、性格迥异的于小芳、徐晓园这对亲姐妹各自不同的奋斗人生历程为主线。在事业与情感的层层纠葛中真实且细腻的展开了一副现代都市众生相。该剧讲述了本是亲姐妹，却在阴差阳错中被天各一方的由王茜华饰演的农村姑娘于小芳与由陶昕然饰演的北京女孩徐晓园在三十多年的风雨人生历程中，起伏不停的命运推动下成长与蜕变，最终战胜自我赢得成功与尊严的励志故事。1985年，陕南沙坪坝村的乡下姑娘于小芳在结婚前夕收到从小定亲的曹力张悔婚的信，偷偷跑去北京找正在念大学的曹力张讨说法。而此时，曹力张在城里正和国营商店的营业员徐晓媛约会。面对变心的曹力张，于小芳终于放弃，此后独自留在北京，为了有尊严地在城市生活，为了让自己的家人和孩子过上幸福美好的生活，经过了二十多年艰难曲折的奋斗拼搏，经历无数次挫折失败，凭借吃苦耐劳，顽强不屈的精神一次次站起来，在时代变迁，社会发展过程中融入到城市中，超越了狭隘，最终得到亲情、爱情、事业的全面丰收。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509042300 +0800" stop="20260509042800 +0800">
+    <title lang="zh">精彩赏析:独狼(2)</title>
+    <desc lang="zh">电视剧独狼是由小说《冷枪》改编而来，讲述的是南京陷落后至徐州会战前四十余天的时间内，在重重炮火硝烟的背后，中日两支特种小分队之间惊心动魄、你死我活的一场“潜伏”较量和生死对决的故事。导演陶秋普，主要演员有祖峰、颜丹晨、史光辉、芦菲、芦芳生等。小说作者，是安徽省定远县一名新锐青年作家，对皖东地区的抗战史和地方志有多年的研究，并以其独特的文风和视角，书写出这部环环相扣、剧情紧凑、高潮迭起的作品。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509042800 +0800" stop="20260509043600 +0800">
+    <title lang="zh">精彩赏析:黎明决战(2)</title>
+    <desc lang="zh">《黎明决战》以建国初公安部副部长陈龙担任哈尔滨市公安局长时期一举扑灭了国民党第二十七军、东北先谴军与反动会道门勾结策划的“八·二八”暴动的英雄事迹为原型。 该剧讲述1946年，在全中国解放的第一座大城市哈尔滨，新生人民政权风雨飘摇，我党第一代公安战士以坚定不移的爱国信念，怀着舍身赴死的革命决心，与多方敌对势力展开势均力敌的较量，用血肉之躯捍卫来之不易的革命成果，救百姓于水深火热的英雄事迹。据了解，该剧创作参考了新中国解放前夕的时代背景和重大事件。为力求更好地重现我党第一代公安战士浴血守护全国第一座解放的大城市哈尔滨，捍卫革命成果，维护城市治安的那段艰难的革命历程，出品方不惜斥巨资配备最好的制作阵容，以使其成为一部同时具备观赏性和艺术性的公安大戏。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509043600 +0800" stop="20260509044500 +0800">
+    <title lang="zh">精彩赏析:爱的追踪(3)</title>
+    <desc lang="zh">在中国经济大潮风起云涌之时，两个情同手足的异姓兄弟马德庆和张文昊的人生也进入了拐点。身为刑警队长的哥哥马德庆被调往了刚成立的经侦大队，顿觉英雄无用武之地，更令他懊恼的是弟弟张文昊一意孤行，放弃公职投入商海，接二连三惹出事端。张文昊生意赔了，他以同样的骗术嫁祸于下家得以翻盘，但受害方却因此自杀，张文昊的精心设计使他逃脱了法律的惩罚，马德庆此时也意识到经侦工作任重道远。此后经年，两兄弟一个成为了热衷慈善的商界大腭，一个成为了经侦队伍的领头羊。然而原罪的阴影却一直让兄弟二人处于情与法的纠葛与较量中。马德庆始终用自己的方法帮助和警醒着弟弟不要触及法律边线，但对噩梦的回避和对欲望的追逐，最终使张文昊毁了身边人，也毁了哥哥的家庭幸福。当一切尘埃落定，张文昊在马德庆的陪伴下终于走向了赎罪之门。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509044500 +0800" stop="20260509052500 +0800">
+    <title lang="zh">鹿鼎记(14)</title>
+    <desc lang="zh">出生市井的小人物韦小宝，在不会任何武功的情况下，因机缘巧合闯入江湖和皇宫，凭借超凡智慧周旋于武林帮会和朝堂之间，一路向上攀升的故事。韦小宝先是假扮太监，助康熙擒杀鳌拜，后又结识天地会总舵主陈近南，成为陈近南的关门弟子和天地会青木堂香主，他协助康熙攻打吴三桂和神龙岛，最后以远征罗刹国作为自己仕途的收尾，抛弃荣华富贵，避世通吃岛。韦小宝从一个只想跟皇帝交好以换取富贵生活的小混混，一路成长为明辨善恶的“鹿鼎公”。他终于明白，富贵权柄手中过，财色皆是挫骨刀，与其舍命搏前程，不如携如花美眷，过烟火人生。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509052500 +0800" stop="20260509060700 +0800">
+    <title lang="zh">鹿鼎记(15)</title>
+    <desc lang="zh">出生市井的小人物韦小宝，在不会任何武功的情况下，因机缘巧合闯入江湖和皇宫，凭借超凡智慧周旋于武林帮会和朝堂之间，一路向上攀升的故事。韦小宝先是假扮太监，助康熙擒杀鳌拜，后又结识天地会总舵主陈近南，成为陈近南的关门弟子和天地会青木堂香主，他协助康熙攻打吴三桂和神龙岛，最后以远征罗刹国作为自己仕途的收尾，抛弃荣华富贵，避世通吃岛。韦小宝从一个只想跟皇帝交好以换取富贵生活的小混混，一路成长为明辨善恶的“鹿鼎公”。他终于明白，富贵权柄手中过，财色皆是挫骨刀，与其舍命搏前程，不如携如花美眷，过烟火人生。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509060700 +0800" stop="20260509061700 +0800">
+    <title lang="zh">精彩赏析:大汉口(1)</title>
+    <desc lang="zh">电视剧《大汉口》以辛亥革命为发端，以陆氏家族从辛亥革命到新中国建立近半个世纪的悲欢离合为表现空间，折射出近现代中国历史中发生在武汉的多次风云际会以及民国时期种种社会现实和人生百态。该剧通过一个家族三代人，三个兄弟不同的人生信仰和选择，把家族的兴衰沉浮融入到宏大的历史叙事中，抒写了一部精彩沧桑的近现代中国历史画卷。父亲陆浩昆是旧民主主义革命的重要参与者，但最终因内部纷争被打成痴呆，母亲黄瑾靠给大户人家做刺绣，担负起养家和照顾丈夫的重担。陆家的三兄弟在遭遇了家庭苦难后，选择了各自的理想和责任。大儿子陆修文混进了帮会，由于性格和个人经历，他在事业和政治上一直走弯路，并且为此付出了惨痛的代价。老三陆修远后来投身无产阶级革命，把身心完全奉献给了人类解放事业。老二陆修武则勇敢地承担起养育父母、资助兄弟实现理想的重任，从社会底层开始不断奋斗，终于从建筑业上找到了个人价值，并将其投射到社会现实之中，把修建长江大桥作为他建造“新世界”梦想的集中体现。就在他的屡战屡败、散尽千金之时，终于迎来了新时代的曙光。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509061700 +0800" stop="20260509062200 +0800">
+    <title lang="zh">精彩赏析:午夜蝴蝶(1)</title>
+    <desc lang="zh">《午夜蝴蝶》以民国时期大上海为背景，通过单元剧的形式，讲述几个花一样的少女遭遇不同命运的故事。作为民国版“温柔系列”，与“温柔系列剧”依次序是《温柔的背后》《温柔的背叛/温柔的背后2》《温柔的谎言》《谎言背后》《真爱背后》《温柔的诱惑》相关。该剧发生在民国时期的上海，故事纵横交错，既有扣人心弦的谍战剧特有的紧张情节，又有时代因素导致的人物内心描绘，每一个角色都非脸谱化的用好人坏人来看待，颠覆了以往谍战剧的单一化模式。民国晚期，时局动荡，人人自危。生活在这个年代的雨婷、韩雯雯、美心、苏沫和小蝶是从小一起玩的好姐妹，虽有着相似的童年，但却经历着不一样的人生。在她们的人生路上，或因时代的变迁，或因家庭的落败，尝尽辛酸苦辣，经历命运坎坷。但她们最终通过自己的努力一步一步去完成理想。经过了重重苦难，她们渐渐明白：所谓的幸福是要独立去追求的，不是期待，更不能完全依靠别人。大时代给她们的选择设置各种困难，但她们坚韧地前行，勇敢迎接新社会的到来。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509062200 +0800" stop="20260509063000 +0800">
+    <title lang="zh">精彩赏析:黑土热血(1)</title>
+    <desc lang="zh">抗战末期的东北，由李一峰领导的抗联部队秘密潜回滨江，与卡萨果夫将军率领的苏军里应外合击溃日军最后的防线，胜利收复滨江。苏军占领滨江后，李一峰接受中共东北局的指示，协助苏军控制和维护滨江的社会秩序，打击潜伏的军警宪特等反动敌对势力。国民党丁丰接任滨江警察局局长的职务，他密谋扫除共产党组织，为国民党接收滨江铺路。丁丰派手下苏莎潜伏到卡萨果夫身边担任翻译，并授意她对李一峰展开追求，希望借此获取李一峰管理滨江的一切举动，并掌握对李一峰生杀予夺的权力。在中共高级干部肖曼、抗联政委刘力、共产党人赵平等人的帮助下，李一峰与丁丰等人针锋相对、殊死较量，为维护滨江的社会秩序，捍卫滨江百姓的生命安全拼尽全力。为了让滨江回到人民的怀抱，肖曼、李一峰等共产党人前仆后继，用生命的代价换来滨江的解放。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509063000 +0800" stop="20260509063500 +0800">
+    <title lang="zh">精彩赏析:甜蜜(2)</title>
+    <desc lang="zh">《甜蜜》电视剧是由阎建钢执导，海清、任重领衔主演，施诗、赵秦主演的都市情感剧。该剧讲述了都市女性田蜜由于丈夫自杀从一个养尊处优的富太太跌入生活谷底，不得不扛起替丈夫偿还债务的重担，后一路拼搏成长为一名金融理财师，并收获美满爱情的故事 。田蜜原本是一个养尊处优的年轻阔太，生活富足而美满。然而丈夫刘得恩却突然因经营失败而脑梗猝死，并给田蜜留下了高达千万元的巨额债务，令田蜜的生活一夜之间从天堂坠入了深渊。在刘得恩的旧识，做私人银行客户经理常胜的帮助下，田蜜鼓起了生活的勇气，走上了漫漫还债路。经过几年的努力，田蜜不仅学会了自立，更成长为一名优秀的金融理财师，并最终还清了巨额债务。田蜜和常胜还一起创办了一家财富管理公司，开始了创业之路。多年的相互扶持和鼓励，也让爱情的种子在两人的心中慢慢萌芽，最终两颗善良而热烈的心紧密的连接在了一起。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509063500 +0800" stop="20260509064500 +0800">
+    <title lang="zh">精彩赏析:黄土高天(2)</title>
+    <desc lang="zh">《我爱诗书画》该栏目以弘扬中华民族优秀传统文化和推介安徽诗书画家为宗旨，从传统唐诗宋词入手，以书法展现古典诗词魅力，以绘画诠释古典诗词意境，以诗入画，以书映诗，融会贯通，交相辉映，为书画爱好者和广大观众搭建起一个学习、欣赏的平台。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509064500 +0800" stop="20260509072400 +0800">
+    <title lang="zh">老男孩(13)</title>
+    <desc lang="zh">吴争，民航机长，拥有令人艳羡的职业和外型，飞行中他技术过硬，承载无数乘客的责任。生活中他天性不羁爱自由，恣意挥洒，不管他人眼光。在自己的世界里，做个彻头彻尾的老男孩。直到有一天，一个 16岁的儿子从天而降，一个正义的女老师林小欧紧随其后，两人前后脚的到来，彻底颠覆了吴争既有的生活。林小欧，无忧无虑的乐天派，时髦得有点用力，正义得有点莽撞，她是学生们亲切的姐姐、爽朗的朋友和没架子的好老师。当得知得意门生萧晗突遭家变，成了无家可归的孤儿，她费劲心力要与孩子生父沟通，当她见到了孩子生父才发现，原来，他就是自己不久前海外旅行时的噩梦——处处和她作对、极不靠谱的吴争 。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509072400 +0800" stop="20260509080500 +0800">
+    <title lang="zh">老男孩(14)</title>
+    <desc lang="zh">吴争，民航机长，拥有令人艳羡的职业和外型，飞行中他技术过硬，承载无数乘客的责任。生活中他天性不羁爱自由，恣意挥洒，不管他人眼光。在自己的世界里，做个彻头彻尾的老男孩。直到有一天，一个 16岁的儿子从天而降，一个正义的女老师林小欧紧随其后，两人前后脚的到来，彻底颠覆了吴争既有的生活。林小欧，无忧无虑的乐天派，时髦得有点用力，正义得有点莽撞，她是学生们亲切的姐姐、爽朗的朋友和没架子的好老师。当得知得意门生萧晗突遭家变，成了无家可归的孤儿，她费劲心力要与孩子生父沟通，当她见到了孩子生父才发现，原来，他就是自己不久前海外旅行时的噩梦——处处和她作对、极不靠谱的吴争 。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509080500 +0800" stop="20260509084900 +0800">
+    <title lang="zh">老男孩(15)</title>
+    <desc lang="zh">吴争，民航机长，拥有令人艳羡的职业和外型，飞行中他技术过硬，承载无数乘客的责任。生活中他天性不羁爱自由，恣意挥洒，不管他人眼光。在自己的世界里，做个彻头彻尾的老男孩。直到有一天，一个 16岁的儿子从天而降，一个正义的女老师林小欧紧随其后，两人前后脚的到来，彻底颠覆了吴争既有的生活。林小欧，无忧无虑的乐天派，时髦得有点用力，正义得有点莽撞，她是学生们亲切的姐姐、爽朗的朋友和没架子的好老师。当得知得意门生萧晗突遭家变，成了无家可归的孤儿，她费劲心力要与孩子生父沟通，当她见到了孩子生父才发现，原来，他就是自己不久前海外旅行时的噩梦——处处和她作对、极不靠谱的吴争 。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509084900 +0800" stop="20260509085800 +0800">
+    <title lang="zh">精彩赏析:黎明决战(2)</title>
+    <desc lang="zh">《黎明决战》以建国初公安部副部长陈龙担任哈尔滨市公安局长时期一举扑灭了国民党第二十七军、东北先谴军与反动会道门勾结策划的“八·二八”暴动的英雄事迹为原型。 该剧讲述1946年，在全中国解放的第一座大城市哈尔滨，新生人民政权风雨飘摇，我党第一代公安战士以坚定不移的爱国信念，怀着舍身赴死的革命决心，与多方敌对势力展开势均力敌的较量，用血肉之躯捍卫来之不易的革命成果，救百姓于水深火热的英雄事迹。据了解，该剧创作参考了新中国解放前夕的时代背景和重大事件。为力求更好地重现我党第一代公安战士浴血守护全国第一座解放的大城市哈尔滨，捍卫革命成果，维护城市治安的那段艰难的革命历程，出品方不惜斥巨资配备最好的制作阵容，以使其成为一部同时具备观赏性和艺术性的公安大戏。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509085800 +0800" stop="20260509090300 +0800">
+    <title lang="zh">精彩赏析:男人的秘密(2)</title>
+    <desc lang="zh">本剧以张扬、朱丽安夫妻的婚姻生活为主线，探讨当代都市中青年夫妻生活的相处之道，并通过他们的同学、好友以及同事的婚姻、事业和爱情生活，反映了当代都市75后、80初青年人的婚恋观与价值观。全剧以“七年之痒”作为切入点，讲述了张扬、朱丽安夫妻为庆祝安然渡过“七年之痒”这一关，在好友陈醉的张罗下，于某酒店组织了一场名为“七年不痒”的聚会，谁知这场聚会却因为张扬前女友九月的不请自来，以及好友兼同学龙东强的别有用心给搅得一团糟。最终，几对主人公都在平凡的生活中找到了自己的真爱，他们在艰难的抉择中领悟了生活的真谛，发现猜疑与所谓的“激情”只会让生活变得更像一团乱麻，而真正的爱情就在于生活中那看似平凡的点点滴滴之中。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509090300 +0800" stop="20260509090900 +0800">
+    <title lang="zh">精彩赏析:开国元勋朱德(2)</title>
+    <desc lang="zh">历史上，作为统帅的朱德曾是一个时代的震撼；现实中，作为真实的朱德处处闪耀着人性的光辉！本剧将以饱满的深情，以审读历史的哲学目光，重新阅读19世纪末至20世纪中期，中华民族这一段水与火交融、歌与泪并存的波澜壮阔的历史；追寻着朱德的人生轨迹，透过历史弥漫的烟云，去重新认识这位一生追求真理，投身革命、功勋卓著而又从不居功、有着伟大人格和情操的开国元勋。 朱德生于贫苦农民家庭，参加了蔡鄂领导的云南起义，成为滇军名将。后由于滇军内部斗争，朱德赴欧洲留学，结识周恩来并加入中国共产党。回国后，他参加八一南昌起义。南下时，朱德任先遣军指挥，在主力攻打潮汕失败后，朱德率领的部队成为保存下来的一支革命火种。井岗山会师后，朱毛红军名扬天下，并在瑞金建立中央革命根据地，粉碎国民党四次反“围剿”。第五次反“围剿”中，中央革命根据地丢失，红军不得不进行长征。长征中，朱德为争取四方面军，三过雪山草地，终于带领二、四方面军到达陕北。抗战爆发后，朱德任八路军总司令，领导了平型关大捷，百团大战等著名战役。解放战争中，他与毛泽东一起指挥三大战役和渡江战役。新中国成立后，朱德勤政为民、克勤克俭、作风民主、实事求是。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509090900 +0800" stop="20260509091900 +0800">
+    <title lang="zh">精彩赏析:棋逢对手(3)</title>
+    <desc lang="zh">《棋逢对手》是由浙江华策影视股份有限公司出品的都市情感励志轻喜剧，刘心刚执导，黄轩、王子文、黄觉、 邓萃雯、 黄勐、殷叶子、孔维、李媛主演。《棋逢对手》根据同名小说改编，讲述了几个年轻人从一家大型超市开始职场历练，逐步进入大卖场最后成为写字楼白领的职场励志故事，通过剧中形形色色的人物的奋斗历程反映了现代都市的职场百态......</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509091900 +0800" stop="20260509093000 +0800">
+    <title lang="zh">精彩赏析:一马换三羊(3)</title>
+    <desc lang="zh">自幼在军队大院长大的巩大为（冯雷 饰）和马志军（史力嘉 饰）是一对好兄弟，不过两人的性格多有不同。大为一肚子坏水和鬼点子，经常会做一些让父辈头疼的事。他时不时突发奇想，搞得鸡鸣狗跳，骨子里却是一个重义气值得信赖的男子汉。马志军父母双亡，在大为这样的孩子头面前就如同一个永远不起眼的乖宝宝。大院里搬来了美丽女孩沈小红（刘威葳 饰），她和大为从最初的互相看不顺眼到相互理解和欣赏。 时光流转，转眼间调皮的孩子们都已长大。在改革开放的浪潮下，他们相继成为时代的弄潮儿，而彼此性格的不同，又使得这些年轻人起起伏伏，品尝这人世间的苦辣辛酸……</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509093000 +0800" stop="20260509101000 +0800">
+    <title lang="zh">鹿鼎记(16)</title>
+    <desc lang="zh">出生市井的小人物韦小宝，在不会任何武功的情况下，因机缘巧合闯入江湖和皇宫，凭借超凡智慧周旋于武林帮会和朝堂之间，一路向上攀升的故事。韦小宝先是假扮太监，助康熙擒杀鳌拜，后又结识天地会总舵主陈近南，成为陈近南的关门弟子和天地会青木堂香主，他协助康熙攻打吴三桂和神龙岛，最后以远征罗刹国作为自己仕途的收尾，抛弃荣华富贵，避世通吃岛。韦小宝从一个只想跟皇帝交好以换取富贵生活的小混混，一路成长为明辨善恶的“鹿鼎公”。他终于明白，富贵权柄手中过，财色皆是挫骨刀，与其舍命搏前程，不如携如花美眷，过烟火人生。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509101000 +0800" stop="20260509105200 +0800">
+    <title lang="zh">鹿鼎记(17)</title>
+    <desc lang="zh">出生市井的小人物韦小宝，在不会任何武功的情况下，因机缘巧合闯入江湖和皇宫，凭借超凡智慧周旋于武林帮会和朝堂之间，一路向上攀升的故事。韦小宝先是假扮太监，助康熙擒杀鳌拜，后又结识天地会总舵主陈近南，成为陈近南的关门弟子和天地会青木堂香主，他协助康熙攻打吴三桂和神龙岛，最后以远征罗刹国作为自己仕途的收尾，抛弃荣华富贵，避世通吃岛。韦小宝从一个只想跟皇帝交好以换取富贵生活的小混混，一路成长为明辨善恶的“鹿鼎公”。他终于明白，富贵权柄手中过，财色皆是挫骨刀，与其舍命搏前程，不如携如花美眷，过烟火人生。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509105200 +0800" stop="20260509113300 +0800">
+    <title lang="zh">鹿鼎记(18)</title>
+    <desc lang="zh">出生市井的小人物韦小宝，在不会任何武功的情况下，因机缘巧合闯入江湖和皇宫，凭借超凡智慧周旋于武林帮会和朝堂之间，一路向上攀升的故事。韦小宝先是假扮太监，助康熙擒杀鳌拜，后又结识天地会总舵主陈近南，成为陈近南的关门弟子和天地会青木堂香主，他协助康熙攻打吴三桂和神龙岛，最后以远征罗刹国作为自己仕途的收尾，抛弃荣华富贵，避世通吃岛。韦小宝从一个只想跟皇帝交好以换取富贵生活的小混混，一路成长为明辨善恶的“鹿鼎公”。他终于明白，富贵权柄手中过，财色皆是挫骨刀，与其舍命搏前程，不如携如花美眷，过烟火人生。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509113300 +0800" stop="20260509121400 +0800">
+    <title lang="zh">鹿鼎记(19)</title>
+    <desc lang="zh">出生市井的小人物韦小宝，在不会任何武功的情况下，因机缘巧合闯入江湖和皇宫，凭借超凡智慧周旋于武林帮会和朝堂之间，一路向上攀升的故事。韦小宝先是假扮太监，助康熙擒杀鳌拜，后又结识天地会总舵主陈近南，成为陈近南的关门弟子和天地会青木堂香主，他协助康熙攻打吴三桂和神龙岛，最后以远征罗刹国作为自己仕途的收尾，抛弃荣华富贵，避世通吃岛。韦小宝从一个只想跟皇帝交好以换取富贵生活的小混混，一路成长为明辨善恶的“鹿鼎公”。他终于明白，富贵权柄手中过，财色皆是挫骨刀，与其舍命搏前程，不如携如花美眷，过烟火人生。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509121400 +0800" stop="20260509125800 +0800">
+    <title lang="zh">鹿鼎记(20)</title>
+    <desc lang="zh">出生市井的小人物韦小宝，在不会任何武功的情况下，因机缘巧合闯入江湖和皇宫，凭借超凡智慧周旋于武林帮会和朝堂之间，一路向上攀升的故事。韦小宝先是假扮太监，助康熙擒杀鳌拜，后又结识天地会总舵主陈近南，成为陈近南的关门弟子和天地会青木堂香主，他协助康熙攻打吴三桂和神龙岛，最后以远征罗刹国作为自己仕途的收尾，抛弃荣华富贵，避世通吃岛。韦小宝从一个只想跟皇帝交好以换取富贵生活的小混混，一路成长为明辨善恶的“鹿鼎公”。他终于明白，富贵权柄手中过，财色皆是挫骨刀，与其舍命搏前程，不如携如花美眷，过烟火人生。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509125800 +0800" stop="20260509130300 +0800">
+    <title lang="zh">精彩赏析:猫冬(1)</title>
+    <desc lang="zh">东北平安村支书林三木制定了《移风易俗，建设美丽乡村》计划，推广“百招十万”项目引导村民致富。他刚与镇党委书记立下了军令状，就有村民与外来人员赌博，影响极坏。村副主任林三木曾经的恋人于倩雪建议用强硬处罚手段处理，而林三木主张从思想上改变他们，两人意见相悖。改变村风的做法得罪了个别村民从中挑拨，误会矛盾引发多年情感恩怨。经种种波折，最终冰释前嫌，达成共识。在林三木的带领下，平安村大力发展绿色生态旅游和冬捕民俗文化游乐项目，村民更加富裕了，平安村焕发出崭新的精神风貌。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509130300 +0800" stop="20260509131200 +0800">
+    <title lang="zh">精彩赏析:西京故事(2)</title>
+    <desc lang="zh">《西京故事》电视剧是由西安曲江丫丫影视文化股份有限公司出品，姚远执导，张国强、陈小艺、刘智扬、石安妮领衔主演的都市温情励志剧。该剧改编自陈彦的同名小说，讲述了一个普通农民家庭进城创业，实现人生理想的故事。为支撑一双儿女家成、家秀的“求学大业”，一家之主罗天福携妻子慧娟进了西京城。在西京城里，罗天福见证了身边的小人物们在大城市生存之难，自身也经历了种种艰辛，饼铺生意屡屡受挫，妻子慧娟不满他“固执守旧”的经营方式闹起分居，儿子家成无法适应从乡村到城市的生活状况不断离校出走，重重打击不断袭来，使他头一次对自己坚守多年的人生观和价值观产生了怀疑。自己这样做究竟是对是错，而城市是不是真的不适合他这种“坚持老一套”的人生存。女儿家秀的支持鼓励使得罗天福重拾信心，那些曾经接受罗天福帮助的人现在也反过来帮助他，纠缠不清的矛盾随之一一化解。罗家人终于在西京这座大城扎下了根，向着美好的未来继续前行。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509131200 +0800" stop="20260509131800 +0800">
+    <title lang="zh">精彩赏析:漂洋过海来看你(3)</title>
+    <desc lang="zh">英国MG旅游集团高管苏芒在婆婆央求下，瞒着不能生育的丈夫陈嘉明借精生子。不料被丈夫发现并遭劈腿，两人离异。自尊心极强的苏芒对爱情和婚姻陷入绝望，决定离开伤心地返回中国，却被医生告知怀孕成功。她决定独自把孩子生下来，带着肚子里的小生命回到了上海任MG总部旅游事业部总监。此时上海总部旅游体验师郑楚向女友陈姗姗求婚，却被其以恨铁不成钢为由拒绝，陷入事业和感情困局。空降上司苏芒因为各种传闻在新环境中陷入孤立无援的境地，但热心的郑楚走进了她的生活。两人从欢喜冤家到相濡以沫，“女魔头”和刺头下属从“冰与火”的对抗到相爱。办公室恋情和来历不明的孩子考验着一对重燃爱情希望的恋人。郑楚面对苏芒善意的谎言，从迷茫到坚定，和苏芒共同经历重重波折，为爱人承受所有的质疑和误解，不懈的坚持终使有情人成眷属。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509131800 +0800" stop="20260509133000 +0800">
+    <title lang="zh">精彩赏析:爱的追踪(4)</title>
+    <desc lang="zh">在中国经济大潮风起云涌之时，两个情同手足的异姓兄弟马德庆和张文昊的人生也进入了拐点。身为刑警队长的哥哥马德庆被调往了刚成立的经侦大队，顿觉英雄无用武之地，更令他懊恼的是弟弟张文昊一意孤行，放弃公职投入商海，接二连三惹出事端。张文昊生意赔了，他以同样的骗术嫁祸于下家得以翻盘，但受害方却因此自杀，张文昊的精心设计使他逃脱了法律的惩罚，马德庆此时也意识到经侦工作任重道远。此后经年，两兄弟一个成为了热衷慈善的商界大腭，一个成为了经侦队伍的领头羊。然而原罪的阴影却一直让兄弟二人处于情与法的纠葛与较量中。马德庆始终用自己的方法帮助和警醒着弟弟不要触及法律边线，但对噩梦的回避和对欲望的追逐，最终使张文昊毁了身边人，也毁了哥哥的家庭幸福。当一切尘埃落定，张文昊在马德庆的陪伴下终于走向了赎罪之门。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509133000 +0800" stop="20260509141000 +0800">
+    <title lang="zh">老男孩(16)</title>
+    <desc lang="zh">吴争，民航机长，拥有令人艳羡的职业和外型，飞行中他技术过硬，承载无数乘客的责任。生活中他天性不羁爱自由，恣意挥洒，不管他人眼光。在自己的世界里，做个彻头彻尾的老男孩。直到有一天，一个 16岁的儿子从天而降，一个正义的女老师林小欧紧随其后，两人前后脚的到来，彻底颠覆了吴争既有的生活。林小欧，无忧无虑的乐天派，时髦得有点用力，正义得有点莽撞，她是学生们亲切的姐姐、爽朗的朋友和没架子的好老师。当得知得意门生萧晗突遭家变，成了无家可归的孤儿，她费劲心力要与孩子生父沟通，当她见到了孩子生父才发现，原来，他就是自己不久前海外旅行时的噩梦——处处和她作对、极不靠谱的吴争 。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509141000 +0800" stop="20260509145200 +0800">
+    <title lang="zh">老男孩(17)</title>
+    <desc lang="zh">吴争，民航机长，拥有令人艳羡的职业和外型，飞行中他技术过硬，承载无数乘客的责任。生活中他天性不羁爱自由，恣意挥洒，不管他人眼光。在自己的世界里，做个彻头彻尾的老男孩。直到有一天，一个 16岁的儿子从天而降，一个正义的女老师林小欧紧随其后，两人前后脚的到来，彻底颠覆了吴争既有的生活。林小欧，无忧无虑的乐天派，时髦得有点用力，正义得有点莽撞，她是学生们亲切的姐姐、爽朗的朋友和没架子的好老师。当得知得意门生萧晗突遭家变，成了无家可归的孤儿，她费劲心力要与孩子生父沟通，当她见到了孩子生父才发现，原来，他就是自己不久前海外旅行时的噩梦——处处和她作对、极不靠谱的吴争 。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509145200 +0800" stop="20260509153400 +0800">
+    <title lang="zh">老男孩(18)</title>
+    <desc lang="zh">吴争，民航机长，拥有令人艳羡的职业和外型，飞行中他技术过硬，承载无数乘客的责任。生活中他天性不羁爱自由，恣意挥洒，不管他人眼光。在自己的世界里，做个彻头彻尾的老男孩。直到有一天，一个 16岁的儿子从天而降，一个正义的女老师林小欧紧随其后，两人前后脚的到来，彻底颠覆了吴争既有的生活。林小欧，无忧无虑的乐天派，时髦得有点用力，正义得有点莽撞，她是学生们亲切的姐姐、爽朗的朋友和没架子的好老师。当得知得意门生萧晗突遭家变，成了无家可归的孤儿，她费劲心力要与孩子生父沟通，当她见到了孩子生父才发现，原来，他就是自己不久前海外旅行时的噩梦——处处和她作对、极不靠谱的吴争 。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509153400 +0800" stop="20260509153800 +0800">
+    <title lang="zh">精彩赏析:正阳门下(1)</title>
+    <desc lang="zh">返城却没有正式工作的知青韩春明和他的朋友们乘着改革开放的东风，从摆摊卖服装开始，用辛勤的劳动和不懈的坚持，积累了最初的财富，获取了爱情。但是，生活并不总那么顺利。在创业过程中，他遭到暗算，所有的钱被骗光，婚姻也因为自己的失误而出现了危机。在家人和朋友的关心支持下，他没有被击倒，重新站起来努力奋斗。几经磨难，几度风雨，韩春明开拓了自己的事业，成为一个成功的企业家；他在奋斗的过程中，不断认识到自身的不足，提高文化修养，用财富建立了私人博物馆，把流失海外或者濒临毁灭的古代艺术品保护起来，展现给人们，同时，也获得了幸福的婚姻和朋友的终生友谊。《爷们是怎么样炼成的》原名为《正阳门下》。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509153800 +0800" stop="20260509154500 +0800">
+    <title lang="zh">精彩赏析:正是青春璀璨时(2)</title>
+    <desc lang="zh">为支援西南三线建设，孟德耀等20出头的青年，奔赴偏远的贵州，投入到轰轰烈烈的西南能源建设大会战。在这些年轻人的努力下，“贵州黔能总厂”成立，三线企业逐步迈上市场。邓小平南巡讲话后，三线企业面临困境，“黔能公主”孟华回到六盘水，与范斌、李天明一起将黔能总厂改组成为“贵州黔能集团公司”。2005年，李天明和范斌成为企业改制转型的领军人物，积极促成了首都能源集团与黔能集团的战略合作。2012年，随着京黔股份运作上市，第三代三线人范宇轩成为企业的骨干成员。2014年10月，京黔股份顺利上市，恰逢孟德耀八十大寿，三代三线人欢聚一堂，举杯同庆。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509154500 +0800" stop="20260509162600 +0800">
+    <title lang="zh">鹿鼎记(21)</title>
+    <desc lang="zh">出生市井的小人物韦小宝，在不会任何武功的情况下，因机缘巧合闯入江湖和皇宫，凭借超凡智慧周旋于武林帮会和朝堂之间，一路向上攀升的故事。韦小宝先是假扮太监，助康熙擒杀鳌拜，后又结识天地会总舵主陈近南，成为陈近南的关门弟子和天地会青木堂香主，他协助康熙攻打吴三桂和神龙岛，最后以远征罗刹国作为自己仕途的收尾，抛弃荣华富贵，避世通吃岛。韦小宝从一个只想跟皇帝交好以换取富贵生活的小混混，一路成长为明辨善恶的“鹿鼎公”。他终于明白，富贵权柄手中过，财色皆是挫骨刀，与其舍命搏前程，不如携如花美眷，过烟火人生。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509162600 +0800" stop="20260509170700 +0800">
+    <title lang="zh">鹿鼎记(22)</title>
+    <desc lang="zh">出生市井的小人物韦小宝，在不会任何武功的情况下，因机缘巧合闯入江湖和皇宫，凭借超凡智慧周旋于武林帮会和朝堂之间，一路向上攀升的故事。韦小宝先是假扮太监，助康熙擒杀鳌拜，后又结识天地会总舵主陈近南，成为陈近南的关门弟子和天地会青木堂香主，他协助康熙攻打吴三桂和神龙岛，最后以远征罗刹国作为自己仕途的收尾，抛弃荣华富贵，避世通吃岛。韦小宝从一个只想跟皇帝交好以换取富贵生活的小混混，一路成长为明辨善恶的“鹿鼎公”。他终于明白，富贵权柄手中过，财色皆是挫骨刀，与其舍命搏前程，不如携如花美眷，过烟火人生。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509170700 +0800" stop="20260509174900 +0800">
+    <title lang="zh">鹿鼎记(23)</title>
+    <desc lang="zh">出生市井的小人物韦小宝，在不会任何武功的情况下，因机缘巧合闯入江湖和皇宫，凭借超凡智慧周旋于武林帮会和朝堂之间，一路向上攀升的故事。韦小宝先是假扮太监，助康熙擒杀鳌拜，后又结识天地会总舵主陈近南，成为陈近南的关门弟子和天地会青木堂香主，他协助康熙攻打吴三桂和神龙岛，最后以远征罗刹国作为自己仕途的收尾，抛弃荣华富贵，避世通吃岛。韦小宝从一个只想跟皇帝交好以换取富贵生活的小混混，一路成长为明辨善恶的“鹿鼎公”。他终于明白，富贵权柄手中过，财色皆是挫骨刀，与其舍命搏前程，不如携如花美眷，过烟火人生。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509174900 +0800" stop="20260509183000 +0800">
+    <title lang="zh">鹿鼎记(24)</title>
+    <desc lang="zh">出生市井的小人物韦小宝，在不会任何武功的情况下，因机缘巧合闯入江湖和皇宫，凭借超凡智慧周旋于武林帮会和朝堂之间，一路向上攀升的故事。韦小宝先是假扮太监，助康熙擒杀鳌拜，后又结识天地会总舵主陈近南，成为陈近南的关门弟子和天地会青木堂香主，他协助康熙攻打吴三桂和神龙岛，最后以远征罗刹国作为自己仕途的收尾，抛弃荣华富贵，避世通吃岛。韦小宝从一个只想跟皇帝交好以换取富贵生活的小混混，一路成长为明辨善恶的“鹿鼎公”。他终于明白，富贵权柄手中过，财色皆是挫骨刀，与其舍命搏前程，不如携如花美眷，过烟火人生。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509183000 +0800" stop="20260509191400 +0800">
+    <title lang="zh">鹿鼎记(25)</title>
+    <desc lang="zh">出生市井的小人物韦小宝，在不会任何武功的情况下，因机缘巧合闯入江湖和皇宫，凭借超凡智慧周旋于武林帮会和朝堂之间，一路向上攀升的故事。韦小宝先是假扮太监，助康熙擒杀鳌拜，后又结识天地会总舵主陈近南，成为陈近南的关门弟子和天地会青木堂香主，他协助康熙攻打吴三桂和神龙岛，最后以远征罗刹国作为自己仕途的收尾，抛弃荣华富贵，避世通吃岛。韦小宝从一个只想跟皇帝交好以换取富贵生活的小混混，一路成长为明辨善恶的“鹿鼎公”。他终于明白，富贵权柄手中过，财色皆是挫骨刀，与其舍命搏前程，不如携如花美眷，过烟火人生。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509191400 +0800" stop="20260509192100 +0800">
+    <title lang="zh">精彩赏析:独狼(1)</title>
+    <desc lang="zh">电视剧独狼是由小说《冷枪》改编而来，讲述的是南京陷落后至徐州会战前四十余天的时间内，在重重炮火硝烟的背后，中日两支特种小分队之间惊心动魄、你死我活的一场“潜伏”较量和生死对决的故事。导演陶秋普，主要演员有祖峰、颜丹晨、史光辉、芦菲、芦芳生等。小说作者，是安徽省定远县一名新锐青年作家，对皖东地区的抗战史和地方志有多年的研究，并以其独特的文风和视角，书写出这部环环相扣、剧情紧凑、高潮迭起的作品。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509192100 +0800" stop="20260509193000 +0800">
+    <title lang="zh">精彩赏析:我在北京挺好的(1)</title>
+    <desc lang="zh">电视剧《我在北京·挺好的》以上世纪八十年代到二十一世纪的现代都市为历史背景，跨越三十多年的风雨历程。以来自不同背景、性格迥异的于小芳、徐晓园这对亲姐妹各自不同的奋斗人生历程为主线。在事业与情感的层层纠葛中真实且细腻的展开了一副现代都市众生相。该剧讲述了本是亲姐妹，却在阴差阳错中被天各一方的由王茜华饰演的农村姑娘于小芳与由陶昕然饰演的北京女孩徐晓园在三十多年的风雨人生历程中，起伏不停的命运推动下成长与蜕变，最终战胜自我赢得成功与尊严的励志故事。1985年，陕南沙坪坝村的乡下姑娘于小芳在结婚前夕收到从小定亲的曹力张悔婚的信，偷偷跑去北京找正在念大学的曹力张讨说法。而此时，曹力张在城里正和国营商店的营业员徐晓媛约会。面对变心的曹力张，于小芳终于放弃，此后独自留在北京，为了有尊严地在城市生活，为了让自己的家人和孩子过上幸福美好的生活，经过了二十多年艰难曲折的奋斗拼搏，经历无数次挫折失败，凭借吃苦耐劳，顽强不屈的精神一次次站起来，在时代变迁，社会发展过程中融入到城市中，超越了狭隘，最终得到亲情、爱情、事业的全面丰收。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509193000 +0800" stop="20260509201100 +0800">
+    <title lang="zh">老男孩(19)</title>
+    <desc lang="zh">吴争，民航机长，拥有令人艳羡的职业和外型，飞行中他技术过硬，承载无数乘客的责任。生活中他天性不羁爱自由，恣意挥洒，不管他人眼光。在自己的世界里，做个彻头彻尾的老男孩。直到有一天，一个 16岁的儿子从天而降，一个正义的女老师林小欧紧随其后，两人前后脚的到来，彻底颠覆了吴争既有的生活。林小欧，无忧无虑的乐天派，时髦得有点用力，正义得有点莽撞，她是学生们亲切的姐姐、爽朗的朋友和没架子的好老师。当得知得意门生萧晗突遭家变，成了无家可归的孤儿，她费劲心力要与孩子生父沟通，当她见到了孩子生父才发现，原来，他就是自己不久前海外旅行时的噩梦——处处和她作对、极不靠谱的吴争 。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509201100 +0800" stop="20260509205200 +0800">
+    <title lang="zh">老男孩(20)</title>
+    <desc lang="zh">吴争，民航机长，拥有令人艳羡的职业和外型，飞行中他技术过硬，承载无数乘客的责任。生活中他天性不羁爱自由，恣意挥洒，不管他人眼光。在自己的世界里，做个彻头彻尾的老男孩。直到有一天，一个 16岁的儿子从天而降，一个正义的女老师林小欧紧随其后，两人前后脚的到来，彻底颠覆了吴争既有的生活。林小欧，无忧无虑的乐天派，时髦得有点用力，正义得有点莽撞，她是学生们亲切的姐姐、爽朗的朋友和没架子的好老师。当得知得意门生萧晗突遭家变，成了无家可归的孤儿，她费劲心力要与孩子生父沟通，当她见到了孩子生父才发现，原来，他就是自己不久前海外旅行时的噩梦——处处和她作对、极不靠谱的吴争 。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509205200 +0800" stop="20260509213400 +0800">
+    <title lang="zh">老男孩(21)</title>
+    <desc lang="zh">吴争，民航机长，拥有令人艳羡的职业和外型，飞行中他技术过硬，承载无数乘客的责任。生活中他天性不羁爱自由，恣意挥洒，不管他人眼光。在自己的世界里，做个彻头彻尾的老男孩。直到有一天，一个 16岁的儿子从天而降，一个正义的女老师林小欧紧随其后，两人前后脚的到来，彻底颠覆了吴争既有的生活。林小欧，无忧无虑的乐天派，时髦得有点用力，正义得有点莽撞，她是学生们亲切的姐姐、爽朗的朋友和没架子的好老师。当得知得意门生萧晗突遭家变，成了无家可归的孤儿，她费劲心力要与孩子生父沟通，当她见到了孩子生父才发现，原来，他就是自己不久前海外旅行时的噩梦——处处和她作对、极不靠谱的吴争 。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509213400 +0800" stop="20260509213900 +0800">
+    <title lang="zh">精彩赏析:人是铁饭是钢(1)</title>
+    <desc lang="zh">一九六三年，由于所在工厂超额完全任务，被上级奖励了一头猪，这件事情使得已被开除的南易得到重新回到炊事班的机会。而现任炊事班长崔大可认为南易归来必定取代自己的位置，所以处处与他为敌。但南易凭借着自己的技艺与努力渐渐确立了在工厂的声望，也得到丁秋楠的爱情。但因为他总是帮助拖家带口的寡妇梁拉娣一家，令崔大可抓住了污蔑他的机会，最终从他手中抢走了丁秋楠；而南易则与梁拉娣成了患难夫妻。虽然各有家庭但南易和丁秋楠都将对方视为知己。崔大可拉拢南易开起了小饭店。最终儿子小南接管了饭店。回想往事，崔大可和南易这对斗了半辈子的冤家不禁老泪纵横，最终二人冰释前嫌。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509213900 +0800" stop="20260509214300 +0800">
+    <title lang="zh">精彩赏析:守望的天空(2)</title>
+    <desc lang="zh">该剧以孤独症作为整部作品的中心议题，讲述了一个普通平凡的23岁女孩葡萄，在母亲病逝之后，独自带着患有孤独症的哥哥袁望，坚韧不拔、踽踽而行的生存故事。葡萄六岁时父亲袁卫国因为无法忍受儿子患孤独症所带给家庭的精神压力，而与妻子离婚，狠心地抛弃了这一双儿女。母亲为了能全心全意地照顾袁望，不得不把葡萄送到了寄宿学校。出于对母亲和哥哥的不理解，葡萄改去了“袁心”这个名字，开始学会了自己照顾自己。长大后的她勇敢自信，也有了自己的家。母亲带着袁望和被领养的“妹妹”小袁心的意外来访打破了原有的平静。 母亲病逝，葡萄承担起了照顾袁望和小袁心的重任，她的人生发生了巨大改变……工作飞了，丈夫跑了，婆婆、小姑不理解，社会对孤独症的歧视。带着袁望和袁心一起活下去，成为葡萄唯一的信念。在袁望和袁心的影响下，面对袁卫国这样一个不称职的父亲，她学会了宽容和谅解。在生活的困苦和情感的磨砺中，葡萄理解了母亲无私的爱，明白了有爱才有家！</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509214300 +0800" stop="20260509215000 +0800">
+    <title lang="zh">精彩赏析:黎明决战(3)</title>
+    <desc lang="zh">《黎明决战》以建国初公安部副部长陈龙担任哈尔滨市公安局长时期一举扑灭了国民党第二十七军、东北先谴军与反动会道门勾结策划的“八·二八”暴动的英雄事迹为原型。 该剧讲述1946年，在全中国解放的第一座大城市哈尔滨，新生人民政权风雨飘摇，我党第一代公安战士以坚定不移的爱国信念，怀着舍身赴死的革命决心，与多方敌对势力展开势均力敌的较量，用血肉之躯捍卫来之不易的革命成果，救百姓于水深火热的英雄事迹。据了解，该剧创作参考了新中国解放前夕的时代背景和重大事件。为力求更好地重现我党第一代公安战士浴血守护全国第一座解放的大城市哈尔滨，捍卫革命成果，维护城市治安的那段艰难的革命历程，出品方不惜斥巨资配备最好的制作阵容，以使其成为一部同时具备观赏性和艺术性的公安大戏。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509215000 +0800" stop="20260509220000 +0800">
+    <title lang="zh">精彩赏析:八方传奇(4)</title>
+    <desc lang="zh">1935年，张涛为报父仇，假借抗日奇匪“杀八方”之名，在辽南海滨小城滨岛连续惩杀汉奸，却不料阴差阳错牵连出土匪、抗联、复兴社等多股隐藏势力，引来一场轩然大波。侦探出身的日寇宪兵老队长晴川为侦破“杀八方”案花费大量人力物力，在抽丝剥茧中逐渐发现张涛的重大嫌疑。张涛在与晴川及多股被牵势力的周旋中陷入绝境，本欲回归平民生活，却发现自己的报父仇行为已造成抗联成员、抗日土匪及无辜百姓惨遭日寇屠杀。张涛由此放下小我，誓要抵抗日寇为死难同胞报仇，在抗联情报站长张来财的舍身相救及继任站长王刚的扶持引领下，最终消灭了以晴川为首的滨岛日寇团体，并为抗联争取来一批重要的武器资源，成为民间抗日的传奇人物。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509220000 +0800" stop="20260509235000 +0800">
+    <title lang="zh">不虚此行</title>
+    <desc lang="zh">人这一生怎样才算不虚此行？闻善（胡歌 饰）在平衡自己与世界的关系中寻找着答案。他是一个“掉队”的普通编剧，一次偶然的机会让他改以撰写悼词为生。在与各色普通人的相遇里，闻善慰藉他人、也获得了温暖，最终找到了自己的人生方向。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509235000 +0800" stop="20260509235600 +0800">
+    <title lang="zh">精彩赏析:独狼(1)</title>
+    <desc lang="zh">电视剧独狼是由小说《冷枪》改编而来，讲述的是南京陷落后至徐州会战前四十余天的时间内，在重重炮火硝烟的背后，中日两支特种小分队之间惊心动魄、你死我活的一场“潜伏”较量和生死对决的故事。导演陶秋普，主要演员有祖峰、颜丹晨、史光辉、芦菲、芦芳生等。小说作者，是安徽省定远县一名新锐青年作家，对皖东地区的抗战史和地方志有多年的研究，并以其独特的文风和视角，书写出这部环环相扣、剧情紧凑、高潮迭起的作品。</desc>
+  </programme>
+  <programme channel="都市剧场" start="20260509235600 +0800" stop="20260510000000 +0800">
+    <title lang="zh">精彩赏析:一马三司令(2)</title>
+    <desc lang="zh">马耀南在日本入侵中国的民族危亡时刻，毅然投笔从戎，与侠胆忠肝的二弟马晓云，内敛忠厚的三弟马天民自发组织当地师生和有志百姓成立抗日武装。在共产党的领导和帮助下，在一次次与日本侵略者的战斗中，他们的队伍一步步发展壮大，从一支莽撞的“大褂子军”逐步成长为我党清河地区纪律严明的抗日中坚力量，马氏三兄弟也在磨砺中成长为称职的将领，被当地百姓称为“一马三司令”。</desc>
   </programme>
   <channel id="金鹰纪实">
     <display-name lang="zh">金鹰纪实</display-name>
   </channel>
-  <programme channel="金鹰纪实" start="20260501003000 +0800" stop="20260501010000 +0800">
-    <title lang="zh">新闻大求真</title>
-    <desc lang="zh">《新闻大求真》是湖南卫视创新节目， 电视界的“百度知道” ，中国第一家传言求证中心。传言到底哪个是真哪个是假？最顶尖的实验室，最权威的专家，告诉你最可信的答案。于7月4日起每周三、四、五18:00播出。由赵本山第53位弟子大鹏主持，用科学的方法关注社会热点，用实验的方式还知识于民。百姓的任何疑问我们都来帮你验证，建立中国第一个求证呼叫中心…</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501010000 +0800" stop="20260501015000 +0800">
-    <title lang="zh">点赞中国</title>
-    <desc lang="zh">《点赞中国》以成长、记忆、信念、力量、复兴、引领、中国气质为网络关键词，精心构思、内涵丰富，七大篇章，多形式、全方位、立体化集中展示了2016年以来在重大活动、重大主题、重大事件中积极发声、传递正能量、在网上产生良好反响的榜样及作品，充分展现以习近平同志为核心的党中央治国理政新理念、新思想、新战略和取得的历史性成就，树立爱党爱国、向上向善的正能量导向，让网络空间正能量更加充沛，主旋律更加高昂，为迎接党的十九大胜利召开营造良好舆论氛围。</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501015000 +0800" stop="20260501022000 +0800">
-    <title lang="zh">纪录时间</title>
-    <desc lang="zh">特别节目《纪录时间》，用平实的视角，真实的镜头记录百姓平凡的生活，文化名家的成长历程，回顾历史，真实再现，以细腻的镜头语言把握文化的脉搏。</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501022000 +0800" stop="20260501025000 +0800">
-    <title lang="zh">纪实真好看</title>
-    <desc lang="zh">纪录片栏目</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501025000 +0800" stop="20260501032000 +0800">
-    <title lang="zh">寰宇地理</title>
-    <desc lang="zh">《寰宇地理》是由国家地理频道制作的一档优秀纪录片精粹集锦，每周七天，每天一小时，节目编排每日不同。它是美国国家地理频道吸引了全球最富激情的优秀科学家、探险家、作家、摄影家和制版人，每年组织500多次远征制作的一档探索地球无穷奥秘、发现介绍世界名胜古迹、感受自然环境无限魅力，展现鲜为人知的风土人情，揭示人类发展必然规律的优秀纪录片类节目。这一节目内容包罗万象，涵盖最新科学与尖端科技、历史与人文、焦点事件调查、野生动物、世界旅游、本土化制作、系列节目主题周、国家地理特别节目等不同领域，令各界人士推崇备至！《寰宇地理》不仅仅是反映主题事件类的纪录片，更是集摄影、音乐、译制、文学等艺术门类为一体的观赏性极强的艺术片，通过高品质的、创新的节目，邀请全球观众一起重新思考对电视以及世界的看法。缤纷世界：旅游、历史及人文主题的节目荟萃旅游、历史及人文主题的节目。体验世界各地奇特的风土民情，感触世界多元文化神韵，展示丰富多彩的人文景观。一个世界，多种看法，每个星期都以全新观点看世界，一个小时内尽览它的独一无二，它的缤纷多彩，它的神秘一面。从《人间伊甸园》到《海底宝藏》，再追随驻会探险家维德戴维斯一起开始一场寻找《世界尽头光明》的旅程，与鲜为人知的原住民文化亲密接触。国家地理频道将为你展示一个多彩的世界。科技尖端：最新科学与尖端科技走出试验室，国家地理频道紧随全球最热门的科技以及尖端技术，一一解析专属名词背后的意义，以全新的科学视角刨析人们在生活中的各种科技奇异现象、社会行为、尖端技术。《伟大建筑》、《难以置信的人类机器》等一系列全球特别节目将带领观众们细细观察人类重大成就的由来！ 风云盛宴：国家地理获奖节目集锦国家地理高水准、大制作的获奖大片展播。我们的摄影师深入现场、将种种奇观真实呈现。凭借国家地理频道的高素质水准，荟萃精彩，呈现世界顶级水准的画面、将出神入化的节目为您展现。狂野周末：屡获赞誉的动物大片月度“主题周”特别呈现通过享誉全球，制作精良的动物自然类节目，国家地理频道真诚邀请您加入探索野生世界的精彩刺激之旅。世界顶级的科学家，电视节目制作者，技术专业人员组成的制作团队共同努力，为您呈现诸如《掠食动物》、《猎人猎物》等多部耗资数百万美元的经典节目。让您尽饱眼福！</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501032000 +0800" stop="20260501041000 +0800">
-    <title lang="zh">看世界</title>
-    <desc lang="zh">栏目宣传词：关注国际风云变幻，浏览世界风情，领略人间真情，站在《看世界》，世界与您零距离。《看世界》是一档简明与厚重、硬性与软性相结合的综合性国际新闻。</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501041000 +0800" stop="20260501050000 +0800">
-    <title lang="zh">探索调时</title>
-    <desc lang="zh">最广博的科普栏目。节目涵盖引领人类了解自身生存的宇宙、航天、人文、地理、历史、考古、旅游、冒险、人体、生命、艺术、文化、动物、生物、前沿科技、奇闻奇观等纪录片类节目，为观众解开一片神秘的世界。</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501050000 +0800" stop="20260501055000 +0800">
-    <title lang="zh">历史片场</title>
-    <desc lang="zh">金鹰纪实频道下栏目</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501055000 +0800" stop="20260501062000 +0800">
-    <title lang="zh">新闻大求真</title>
-    <desc lang="zh">《新闻大求真》是湖南卫视创新节目， 电视界的“百度知道” ，中国第一家传言求证中心。传言到底哪个是真哪个是假？最顶尖的实验室，最权威的专家，告诉你最可信的答案。于7月4日起每周三、四、五18:00播出。由赵本山第53位弟子大鹏主持，用科学的方法关注社会热点，用实验的方式还知识于民。百姓的任何疑问我们都来帮你验证，建立中国第一个求证呼叫中心…</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501062000 +0800" stop="20260501080000 +0800">
-    <title lang="zh">寰宇地理</title>
-    <desc lang="zh">《寰宇地理》是由国家地理频道制作的一档优秀纪录片精粹集锦，每周七天，每天一小时，节目编排每日不同。它是美国国家地理频道吸引了全球最富激情的优秀科学家、探险家、作家、摄影家和制版人，每年组织500多次远征制作的一档探索地球无穷奥秘、发现介绍世界名胜古迹、感受自然环境无限魅力，展现鲜为人知的风土人情，揭示人类发展必然规律的优秀纪录片类节目。这一节目内容包罗万象，涵盖最新科学与尖端科技、历史与人文、焦点事件调查、野生动物、世界旅游、本土化制作、系列节目主题周、国家地理特别节目等不同领域，令各界人士推崇备至！《寰宇地理》不仅仅是反映主题事件类的纪录片，更是集摄影、音乐、译制、文学等艺术门类为一体的观赏性极强的艺术片，通过高品质的、创新的节目，邀请全球观众一起重新思考对电视以及世界的看法。缤纷世界：旅游、历史及人文主题的节目荟萃旅游、历史及人文主题的节目。体验世界各地奇特的风土民情，感触世界多元文化神韵，展示丰富多彩的人文景观。一个世界，多种看法，每个星期都以全新观点看世界，一个小时内尽览它的独一无二，它的缤纷多彩，它的神秘一面。从《人间伊甸园》到《海底宝藏》，再追随驻会探险家维德戴维斯一起开始一场寻找《世界尽头光明》的旅程，与鲜为人知的原住民文化亲密接触。国家地理频道将为你展示一个多彩的世界。科技尖端：最新科学与尖端科技走出试验室，国家地理频道紧随全球最热门的科技以及尖端技术，一一解析专属名词背后的意义，以全新的科学视角刨析人们在生活中的各种科技奇异现象、社会行为、尖端技术。《伟大建筑》、《难以置信的人类机器》等一系列全球特别节目将带领观众们细细观察人类重大成就的由来！ 风云盛宴：国家地理获奖节目集锦国家地理高水准、大制作的获奖大片展播。我们的摄影师深入现场、将种种奇观真实呈现。凭借国家地理频道的高素质水准，荟萃精彩，呈现世界顶级水准的画面、将出神入化的节目为您展现。狂野周末：屡获赞誉的动物大片月度“主题周”特别呈现通过享誉全球，制作精良的动物自然类节目，国家地理频道真诚邀请您加入探索野生世界的精彩刺激之旅。世界顶级的科学家，电视节目制作者，技术专业人员组成的制作团队共同努力，为您呈现诸如《掠食动物》、《猎人猎物》等多部耗资数百万美元的经典节目。让您尽饱眼福！</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501080000 +0800" stop="20260501084000 +0800">
-    <title lang="zh">纪实真好看</title>
-    <desc lang="zh">纪录片栏目</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501084000 +0800" stop="20260501093000 +0800">
-    <title lang="zh">纪录时间</title>
-    <desc lang="zh">特别节目《纪录时间》，用平实的视角，真实的镜头记录百姓平凡的生活，文化名家的成长历程，回顾历史，真实再现，以细腻的镜头语言把握文化的脉搏。</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501093000 +0800" stop="20260501103000 +0800">
-    <title lang="zh">历史片场</title>
-    <desc lang="zh">金鹰纪实频道下栏目</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501103000 +0800" stop="20260501113000 +0800">
-    <title lang="zh">点赞中国</title>
-    <desc lang="zh">《点赞中国》以成长、记忆、信念、力量、复兴、引领、中国气质为网络关键词，精心构思、内涵丰富，七大篇章，多形式、全方位、立体化集中展示了2016年以来在重大活动、重大主题、重大事件中积极发声、传递正能量、在网上产生良好反响的榜样及作品，充分展现以习近平同志为核心的党中央治国理政新理念、新思想、新战略和取得的历史性成就，树立爱党爱国、向上向善的正能量导向，让网络空间正能量更加充沛，主旋律更加高昂，为迎接党的十九大胜利召开营造良好舆论氛围。</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501113000 +0800" stop="20260501123000 +0800">
-    <title lang="zh">点赞中国</title>
-    <desc lang="zh">《点赞中国》以成长、记忆、信念、力量、复兴、引领、中国气质为网络关键词，精心构思、内涵丰富，七大篇章，多形式、全方位、立体化集中展示了2016年以来在重大活动、重大主题、重大事件中积极发声、传递正能量、在网上产生良好反响的榜样及作品，充分展现以习近平同志为核心的党中央治国理政新理念、新思想、新战略和取得的历史性成就，树立爱党爱国、向上向善的正能量导向，让网络空间正能量更加充沛，主旋律更加高昂，为迎接党的十九大胜利召开营造良好舆论氛围。</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501123000 +0800" stop="20260501130000 +0800">
-    <title lang="zh">历史片场白天档</title>
-    <desc lang="zh">金鹰纪实频道下栏目</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501130000 +0800" stop="20260501133500 +0800">
-    <title lang="zh">纪实风云</title>
-    <desc lang="zh">纪实栏目</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501133500 +0800" stop="20260501144000 +0800">
-    <title lang="zh">历史片场白天档</title>
-    <desc lang="zh">金鹰纪实频道下栏目</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501144000 +0800" stop="20260501151000 +0800">
-    <title lang="zh">纪录时间</title>
-    <desc lang="zh">特别节目《纪录时间》，用平实的视角，真实的镜头记录百姓平凡的生活，文化名家的成长历程，回顾历史，真实再现，以细腻的镜头语言把握文化的脉搏。</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501151000 +0800" stop="20260501161000 +0800">
-    <title lang="zh">探索</title>
-    <desc lang="zh">最广博的科普栏目。节目涵盖引领人类了解自身生存的宇宙、航天、人文、地理、历史、考古、旅游、冒险、人体、生命、艺术、文化、动物、生物、前沿科技、奇闻奇观等纪录片类节目，为观众解开一片神秘的世界。</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501161000 +0800" stop="20260501164000 +0800">
-    <title lang="zh">纪实真好看</title>
-    <desc lang="zh">纪录片栏目</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501164000 +0800" stop="20260501172500 +0800">
-    <title lang="zh">新闻大求真</title>
-    <desc lang="zh">《新闻大求真》是湖南卫视创新节目， 电视界的“百度知道” ，中国第一家传言求证中心。传言到底哪个是真哪个是假？最顶尖的实验室，最权威的专家，告诉你最可信的答案。于7月4日起每周三、四、五18:00播出。由赵本山第53位弟子大鹏主持，用科学的方法关注社会热点，用实验的方式还知识于民。百姓的任何疑问我们都来帮你验证，建立中国第一个求证呼叫中心…</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501172500 +0800" stop="20260501182000 +0800">
-    <title lang="zh">寰宇地理</title>
-    <desc lang="zh">《寰宇地理》是由国家地理频道制作的一档优秀纪录片精粹集锦，每周七天，每天一小时，节目编排每日不同。它是美国国家地理频道吸引了全球最富激情的优秀科学家、探险家、作家、摄影家和制版人，每年组织500多次远征制作的一档探索地球无穷奥秘、发现介绍世界名胜古迹、感受自然环境无限魅力，展现鲜为人知的风土人情，揭示人类发展必然规律的优秀纪录片类节目。这一节目内容包罗万象，涵盖最新科学与尖端科技、历史与人文、焦点事件调查、野生动物、世界旅游、本土化制作、系列节目主题周、国家地理特别节目等不同领域，令各界人士推崇备至！《寰宇地理》不仅仅是反映主题事件类的纪录片，更是集摄影、音乐、译制、文学等艺术门类为一体的观赏性极强的艺术片，通过高品质的、创新的节目，邀请全球观众一起重新思考对电视以及世界的看法。缤纷世界：旅游、历史及人文主题的节目荟萃旅游、历史及人文主题的节目。体验世界各地奇特的风土民情，感触世界多元文化神韵，展示丰富多彩的人文景观。一个世界，多种看法，每个星期都以全新观点看世界，一个小时内尽览它的独一无二，它的缤纷多彩，它的神秘一面。从《人间伊甸园》到《海底宝藏》，再追随驻会探险家维德戴维斯一起开始一场寻找《世界尽头光明》的旅程，与鲜为人知的原住民文化亲密接触。国家地理频道将为你展示一个多彩的世界。科技尖端：最新科学与尖端科技走出试验室，国家地理频道紧随全球最热门的科技以及尖端技术，一一解析专属名词背后的意义，以全新的科学视角刨析人们在生活中的各种科技奇异现象、社会行为、尖端技术。《伟大建筑》、《难以置信的人类机器》等一系列全球特别节目将带领观众们细细观察人类重大成就的由来！ 风云盛宴：国家地理获奖节目集锦国家地理高水准、大制作的获奖大片展播。我们的摄影师深入现场、将种种奇观真实呈现。凭借国家地理频道的高素质水准，荟萃精彩，呈现世界顶级水准的画面、将出神入化的节目为您展现。狂野周末：屡获赞誉的动物大片月度“主题周”特别呈现通过享誉全球，制作精良的动物自然类节目，国家地理频道真诚邀请您加入探索野生世界的精彩刺激之旅。世界顶级的科学家，电视节目制作者，技术专业人员组成的制作团队共同努力，为您呈现诸如《掠食动物》、《猎人猎物》等多部耗资数百万美元的经典节目。让您尽饱眼福！</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501182000 +0800" stop="20260501191500 +0800">
-    <title lang="zh">动物星球</title>
-    <desc lang="zh">快乐宠物频道每天3小时Discovery国内唯一授权播出动物星球系列节目，动物星球系列节目，以展现动物来娱乐大众，节目类型广泛，涵盖与动物相关的所有最佳节目，从经久不衰的野生动物和自然类纪录片，到情节生动、场面真实的动作剧情片，每天3小时全新的动物星球系列节目绝对让喜欢动物的你大饱眼福。</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501191500 +0800" stop="20260501192000 +0800">
-    <title lang="zh">纪实风云</title>
-    <desc lang="zh">纪实栏目</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501192000 +0800" stop="20260501195500 +0800">
-    <title lang="zh">纪录时间</title>
-    <desc lang="zh">特别节目《纪录时间》，用平实的视角，真实的镜头记录百姓平凡的生活，文化名家的成长历程，回顾历史，真实再现，以细腻的镜头语言把握文化的脉搏。</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501195500 +0800" stop="20260501204000 +0800">
-    <title lang="zh">点赞中国</title>
-    <desc lang="zh">《点赞中国》以成长、记忆、信念、力量、复兴、引领、中国气质为网络关键词，精心构思、内涵丰富，七大篇章，多形式、全方位、立体化集中展示了2016年以来在重大活动、重大主题、重大事件中积极发声、传递正能量、在网上产生良好反响的榜样及作品，充分展现以习近平同志为核心的党中央治国理政新理念、新思想、新战略和取得的历史性成就，树立爱党爱国、向上向善的正能量导向，让网络空间正能量更加充沛，主旋律更加高昂，为迎接党的十九大胜利召开营造良好舆论氛围。</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501204000 +0800" stop="20260501211000 +0800">
-    <title lang="zh">新闻大求真</title>
-    <desc lang="zh">《新闻大求真》是湖南卫视创新节目， 电视界的“百度知道” ，中国第一家传言求证中心。传言到底哪个是真哪个是假？最顶尖的实验室，最权威的专家，告诉你最可信的答案。于7月4日起每周三、四、五18:00播出。由赵本山第53位弟子大鹏主持，用科学的方法关注社会热点，用实验的方式还知识于民。百姓的任何疑问我们都来帮你验证，建立中国第一个求证呼叫中心…</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501211000 +0800" stop="20260501221000 +0800">
-    <title lang="zh">历史片场</title>
-    <desc lang="zh">金鹰纪实频道下栏目</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501221000 +0800" stop="20260501223000 +0800">
-    <title lang="zh">纪实真好看</title>
-    <desc lang="zh">纪录片栏目</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501223000 +0800" stop="20260501223500 +0800">
-    <title lang="zh">纪实风云</title>
-    <desc lang="zh">纪实栏目</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501223500 +0800" stop="20260501232000 +0800">
-    <title lang="zh">探索</title>
-    <desc lang="zh">最广博的科普栏目。节目涵盖引领人类了解自身生存的宇宙、航天、人文、地理、历史、考古、旅游、冒险、人体、生命、艺术、文化、动物、生物、前沿科技、奇闻奇观等纪录片类节目，为观众解开一片神秘的世界。</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501232000 +0800" stop="20260501235000 +0800">
-    <title lang="zh">传奇</title>
-    <desc lang="zh">《传奇》（《SAGA》）是一部大型纪录片，包括自然传奇、人文传奇、战争传奇和科学传奇四个系列。英文名《SAGA》中文名《传奇》，介绍的很全面，讲人类发展史，生物发进化，惊险刺激的真实事件，分类很详细，是一部很经典和全面的纪录片，全世界多个电视台包括大陆很多地方电视台都有转播。</desc>
-  </programme>
-  <programme channel="金鹰纪实" start="20260501235000 +0800" stop="20260502000000 +0800">
-    <title lang="zh">看世界</title>
-    <desc lang="zh">栏目宣传词：关注国际风云变幻，浏览世界风情，领略人间真情，站在《看世界》，世界与您零距离。《看世界》是一档简明与厚重、硬性与软性相结合的综合性国际新闻。</desc>
-  </programme>
   <programme channel="金鹰纪实" start="20260502003000 +0800" stop="20260502010000 +0800">
     <title lang="zh">新闻大求真</title>
     <desc lang="zh">《新闻大求真》是湖南卫视创新节目， 电视界的“百度知道” ，中国第一家传言求证中心。传言到底哪个是真哪个是假？最顶尖的实验室，最权威的专家，告诉你最可信的答案。于7月4日起每周三、四、五18:00播出。由赵本山第53位弟子大鹏主持，用科学的方法关注社会热点，用实验的方式还知识于民。百姓的任何疑问我们都来帮你验证，建立中国第一个求证呼叫中心…</desc>
@@ -9817,7 +9528,7 @@
     <title lang="zh">传奇</title>
     <desc lang="zh">《传奇》（《SAGA》）是一部大型纪录片，包括自然传奇、人文传奇、战争传奇和科学传奇四个系列。英文名《SAGA》中文名《传奇》，介绍的很全面，讲人类发展史，生物发进化，惊险刺激的真实事件，分类很详细，是一部很经典和全面的纪录片，全世界多个电视台包括大陆很多地方电视台都有转播。</desc>
   </programme>
-  <programme channel="金鹰纪实" start="20260507235000 +0800" stop="20260508003000 +0800">
+  <programme channel="金鹰纪实" start="20260507235000 +0800" stop="20260508000000 +0800">
     <title lang="zh">看世界</title>
     <desc lang="zh">栏目宣传词：关注国际风云变幻，浏览世界风情，领略人间真情，站在《看世界》，世界与您零距离。《看世界》是一档简明与厚重、硬性与软性相结合的综合性国际新闻。</desc>
   </programme>
@@ -9953,7 +9664,143 @@
     <title lang="zh">传奇</title>
     <desc lang="zh">《传奇》（《SAGA》）是一部大型纪录片，包括自然传奇、人文传奇、战争传奇和科学传奇四个系列。英文名《SAGA》中文名《传奇》，介绍的很全面，讲人类发展史，生物发进化，惊险刺激的真实事件，分类很详细，是一部很经典和全面的纪录片，全世界多个电视台包括大陆很多地方电视台都有转播。</desc>
   </programme>
-  <programme channel="金鹰纪实" start="20260508235000 +0800" stop="20260509000000 +0800">
+  <programme channel="金鹰纪实" start="20260508235000 +0800" stop="20260509003000 +0800">
+    <title lang="zh">看世界</title>
+    <desc lang="zh">栏目宣传词：关注国际风云变幻，浏览世界风情，领略人间真情，站在《看世界》，世界与您零距离。《看世界》是一档简明与厚重、硬性与软性相结合的综合性国际新闻。</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509003000 +0800" stop="20260509010000 +0800">
+    <title lang="zh">新闻大求真</title>
+    <desc lang="zh">《新闻大求真》是湖南卫视创新节目， 电视界的“百度知道” ，中国第一家传言求证中心。传言到底哪个是真哪个是假？最顶尖的实验室，最权威的专家，告诉你最可信的答案。于7月4日起每周三、四、五18:00播出。由赵本山第53位弟子大鹏主持，用科学的方法关注社会热点，用实验的方式还知识于民。百姓的任何疑问我们都来帮你验证，建立中国第一个求证呼叫中心…</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509010000 +0800" stop="20260509015000 +0800">
+    <title lang="zh">点赞中国</title>
+    <desc lang="zh">《点赞中国》以成长、记忆、信念、力量、复兴、引领、中国气质为网络关键词，精心构思、内涵丰富，七大篇章，多形式、全方位、立体化集中展示了2016年以来在重大活动、重大主题、重大事件中积极发声、传递正能量、在网上产生良好反响的榜样及作品，充分展现以习近平同志为核心的党中央治国理政新理念、新思想、新战略和取得的历史性成就，树立爱党爱国、向上向善的正能量导向，让网络空间正能量更加充沛，主旋律更加高昂，为迎接党的十九大胜利召开营造良好舆论氛围。</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509015000 +0800" stop="20260509022000 +0800">
+    <title lang="zh">纪录时间</title>
+    <desc lang="zh">特别节目《纪录时间》，用平实的视角，真实的镜头记录百姓平凡的生活，文化名家的成长历程，回顾历史，真实再现，以细腻的镜头语言把握文化的脉搏。</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509022000 +0800" stop="20260509025000 +0800">
+    <title lang="zh">纪实真好看</title>
+    <desc lang="zh">纪录片栏目</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509025000 +0800" stop="20260509032000 +0800">
+    <title lang="zh">寰宇地理</title>
+    <desc lang="zh">《寰宇地理》是由国家地理频道制作的一档优秀纪录片精粹集锦，每周七天，每天一小时，节目编排每日不同。它是美国国家地理频道吸引了全球最富激情的优秀科学家、探险家、作家、摄影家和制版人，每年组织500多次远征制作的一档探索地球无穷奥秘、发现介绍世界名胜古迹、感受自然环境无限魅力，展现鲜为人知的风土人情，揭示人类发展必然规律的优秀纪录片类节目。这一节目内容包罗万象，涵盖最新科学与尖端科技、历史与人文、焦点事件调查、野生动物、世界旅游、本土化制作、系列节目主题周、国家地理特别节目等不同领域，令各界人士推崇备至！《寰宇地理》不仅仅是反映主题事件类的纪录片，更是集摄影、音乐、译制、文学等艺术门类为一体的观赏性极强的艺术片，通过高品质的、创新的节目，邀请全球观众一起重新思考对电视以及世界的看法。缤纷世界：旅游、历史及人文主题的节目荟萃旅游、历史及人文主题的节目。体验世界各地奇特的风土民情，感触世界多元文化神韵，展示丰富多彩的人文景观。一个世界，多种看法，每个星期都以全新观点看世界，一个小时内尽览它的独一无二，它的缤纷多彩，它的神秘一面。从《人间伊甸园》到《海底宝藏》，再追随驻会探险家维德戴维斯一起开始一场寻找《世界尽头光明》的旅程，与鲜为人知的原住民文化亲密接触。国家地理频道将为你展示一个多彩的世界。科技尖端：最新科学与尖端科技走出试验室，国家地理频道紧随全球最热门的科技以及尖端技术，一一解析专属名词背后的意义，以全新的科学视角刨析人们在生活中的各种科技奇异现象、社会行为、尖端技术。《伟大建筑》、《难以置信的人类机器》等一系列全球特别节目将带领观众们细细观察人类重大成就的由来！ 风云盛宴：国家地理获奖节目集锦国家地理高水准、大制作的获奖大片展播。我们的摄影师深入现场、将种种奇观真实呈现。凭借国家地理频道的高素质水准，荟萃精彩，呈现世界顶级水准的画面、将出神入化的节目为您展现。狂野周末：屡获赞誉的动物大片月度“主题周”特别呈现通过享誉全球，制作精良的动物自然类节目，国家地理频道真诚邀请您加入探索野生世界的精彩刺激之旅。世界顶级的科学家，电视节目制作者，技术专业人员组成的制作团队共同努力，为您呈现诸如《掠食动物》、《猎人猎物》等多部耗资数百万美元的经典节目。让您尽饱眼福！</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509032000 +0800" stop="20260509041000 +0800">
+    <title lang="zh">看世界</title>
+    <desc lang="zh">栏目宣传词：关注国际风云变幻，浏览世界风情，领略人间真情，站在《看世界》，世界与您零距离。《看世界》是一档简明与厚重、硬性与软性相结合的综合性国际新闻。</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509041000 +0800" stop="20260509050000 +0800">
+    <title lang="zh">探索调时</title>
+    <desc lang="zh">最广博的科普栏目。节目涵盖引领人类了解自身生存的宇宙、航天、人文、地理、历史、考古、旅游、冒险、人体、生命、艺术、文化、动物、生物、前沿科技、奇闻奇观等纪录片类节目，为观众解开一片神秘的世界。</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509050000 +0800" stop="20260509055000 +0800">
+    <title lang="zh">历史片场</title>
+    <desc lang="zh">金鹰纪实频道下栏目</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509055000 +0800" stop="20260509062000 +0800">
+    <title lang="zh">新闻大求真</title>
+    <desc lang="zh">《新闻大求真》是湖南卫视创新节目， 电视界的“百度知道” ，中国第一家传言求证中心。传言到底哪个是真哪个是假？最顶尖的实验室，最权威的专家，告诉你最可信的答案。于7月4日起每周三、四、五18:00播出。由赵本山第53位弟子大鹏主持，用科学的方法关注社会热点，用实验的方式还知识于民。百姓的任何疑问我们都来帮你验证，建立中国第一个求证呼叫中心…</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509062000 +0800" stop="20260509080000 +0800">
+    <title lang="zh">寰宇地理</title>
+    <desc lang="zh">《寰宇地理》是由国家地理频道制作的一档优秀纪录片精粹集锦，每周七天，每天一小时，节目编排每日不同。它是美国国家地理频道吸引了全球最富激情的优秀科学家、探险家、作家、摄影家和制版人，每年组织500多次远征制作的一档探索地球无穷奥秘、发现介绍世界名胜古迹、感受自然环境无限魅力，展现鲜为人知的风土人情，揭示人类发展必然规律的优秀纪录片类节目。这一节目内容包罗万象，涵盖最新科学与尖端科技、历史与人文、焦点事件调查、野生动物、世界旅游、本土化制作、系列节目主题周、国家地理特别节目等不同领域，令各界人士推崇备至！《寰宇地理》不仅仅是反映主题事件类的纪录片，更是集摄影、音乐、译制、文学等艺术门类为一体的观赏性极强的艺术片，通过高品质的、创新的节目，邀请全球观众一起重新思考对电视以及世界的看法。缤纷世界：旅游、历史及人文主题的节目荟萃旅游、历史及人文主题的节目。体验世界各地奇特的风土民情，感触世界多元文化神韵，展示丰富多彩的人文景观。一个世界，多种看法，每个星期都以全新观点看世界，一个小时内尽览它的独一无二，它的缤纷多彩，它的神秘一面。从《人间伊甸园》到《海底宝藏》，再追随驻会探险家维德戴维斯一起开始一场寻找《世界尽头光明》的旅程，与鲜为人知的原住民文化亲密接触。国家地理频道将为你展示一个多彩的世界。科技尖端：最新科学与尖端科技走出试验室，国家地理频道紧随全球最热门的科技以及尖端技术，一一解析专属名词背后的意义，以全新的科学视角刨析人们在生活中的各种科技奇异现象、社会行为、尖端技术。《伟大建筑》、《难以置信的人类机器》等一系列全球特别节目将带领观众们细细观察人类重大成就的由来！ 风云盛宴：国家地理获奖节目集锦国家地理高水准、大制作的获奖大片展播。我们的摄影师深入现场、将种种奇观真实呈现。凭借国家地理频道的高素质水准，荟萃精彩，呈现世界顶级水准的画面、将出神入化的节目为您展现。狂野周末：屡获赞誉的动物大片月度“主题周”特别呈现通过享誉全球，制作精良的动物自然类节目，国家地理频道真诚邀请您加入探索野生世界的精彩刺激之旅。世界顶级的科学家，电视节目制作者，技术专业人员组成的制作团队共同努力，为您呈现诸如《掠食动物》、《猎人猎物》等多部耗资数百万美元的经典节目。让您尽饱眼福！</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509080000 +0800" stop="20260509084000 +0800">
+    <title lang="zh">纪实真好看</title>
+    <desc lang="zh">纪录片栏目</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509084000 +0800" stop="20260509093000 +0800">
+    <title lang="zh">纪录时间</title>
+    <desc lang="zh">特别节目《纪录时间》，用平实的视角，真实的镜头记录百姓平凡的生活，文化名家的成长历程，回顾历史，真实再现，以细腻的镜头语言把握文化的脉搏。</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509093000 +0800" stop="20260509103000 +0800">
+    <title lang="zh">历史片场</title>
+    <desc lang="zh">金鹰纪实频道下栏目</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509103000 +0800" stop="20260509113000 +0800">
+    <title lang="zh">点赞中国</title>
+    <desc lang="zh">《点赞中国》以成长、记忆、信念、力量、复兴、引领、中国气质为网络关键词，精心构思、内涵丰富，七大篇章，多形式、全方位、立体化集中展示了2016年以来在重大活动、重大主题、重大事件中积极发声、传递正能量、在网上产生良好反响的榜样及作品，充分展现以习近平同志为核心的党中央治国理政新理念、新思想、新战略和取得的历史性成就，树立爱党爱国、向上向善的正能量导向，让网络空间正能量更加充沛，主旋律更加高昂，为迎接党的十九大胜利召开营造良好舆论氛围。</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509113000 +0800" stop="20260509123000 +0800">
+    <title lang="zh">点赞中国</title>
+    <desc lang="zh">《点赞中国》以成长、记忆、信念、力量、复兴、引领、中国气质为网络关键词，精心构思、内涵丰富，七大篇章，多形式、全方位、立体化集中展示了2016年以来在重大活动、重大主题、重大事件中积极发声、传递正能量、在网上产生良好反响的榜样及作品，充分展现以习近平同志为核心的党中央治国理政新理念、新思想、新战略和取得的历史性成就，树立爱党爱国、向上向善的正能量导向，让网络空间正能量更加充沛，主旋律更加高昂，为迎接党的十九大胜利召开营造良好舆论氛围。</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509123000 +0800" stop="20260509130000 +0800">
+    <title lang="zh">历史片场白天档</title>
+    <desc lang="zh">金鹰纪实频道下栏目</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509130000 +0800" stop="20260509133500 +0800">
+    <title lang="zh">纪实风云</title>
+    <desc lang="zh">纪实栏目</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509133500 +0800" stop="20260509144000 +0800">
+    <title lang="zh">历史片场白天档</title>
+    <desc lang="zh">金鹰纪实频道下栏目</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509144000 +0800" stop="20260509151000 +0800">
+    <title lang="zh">纪录时间</title>
+    <desc lang="zh">特别节目《纪录时间》，用平实的视角，真实的镜头记录百姓平凡的生活，文化名家的成长历程，回顾历史，真实再现，以细腻的镜头语言把握文化的脉搏。</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509151000 +0800" stop="20260509161000 +0800">
+    <title lang="zh">探索</title>
+    <desc lang="zh">最广博的科普栏目。节目涵盖引领人类了解自身生存的宇宙、航天、人文、地理、历史、考古、旅游、冒险、人体、生命、艺术、文化、动物、生物、前沿科技、奇闻奇观等纪录片类节目，为观众解开一片神秘的世界。</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509161000 +0800" stop="20260509164000 +0800">
+    <title lang="zh">纪实真好看</title>
+    <desc lang="zh">纪录片栏目</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509164000 +0800" stop="20260509172500 +0800">
+    <title lang="zh">新闻大求真</title>
+    <desc lang="zh">《新闻大求真》是湖南卫视创新节目， 电视界的“百度知道” ，中国第一家传言求证中心。传言到底哪个是真哪个是假？最顶尖的实验室，最权威的专家，告诉你最可信的答案。于7月4日起每周三、四、五18:00播出。由赵本山第53位弟子大鹏主持，用科学的方法关注社会热点，用实验的方式还知识于民。百姓的任何疑问我们都来帮你验证，建立中国第一个求证呼叫中心…</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509172500 +0800" stop="20260509182000 +0800">
+    <title lang="zh">寰宇地理</title>
+    <desc lang="zh">《寰宇地理》是由国家地理频道制作的一档优秀纪录片精粹集锦，每周七天，每天一小时，节目编排每日不同。它是美国国家地理频道吸引了全球最富激情的优秀科学家、探险家、作家、摄影家和制版人，每年组织500多次远征制作的一档探索地球无穷奥秘、发现介绍世界名胜古迹、感受自然环境无限魅力，展现鲜为人知的风土人情，揭示人类发展必然规律的优秀纪录片类节目。这一节目内容包罗万象，涵盖最新科学与尖端科技、历史与人文、焦点事件调查、野生动物、世界旅游、本土化制作、系列节目主题周、国家地理特别节目等不同领域，令各界人士推崇备至！《寰宇地理》不仅仅是反映主题事件类的纪录片，更是集摄影、音乐、译制、文学等艺术门类为一体的观赏性极强的艺术片，通过高品质的、创新的节目，邀请全球观众一起重新思考对电视以及世界的看法。缤纷世界：旅游、历史及人文主题的节目荟萃旅游、历史及人文主题的节目。体验世界各地奇特的风土民情，感触世界多元文化神韵，展示丰富多彩的人文景观。一个世界，多种看法，每个星期都以全新观点看世界，一个小时内尽览它的独一无二，它的缤纷多彩，它的神秘一面。从《人间伊甸园》到《海底宝藏》，再追随驻会探险家维德戴维斯一起开始一场寻找《世界尽头光明》的旅程，与鲜为人知的原住民文化亲密接触。国家地理频道将为你展示一个多彩的世界。科技尖端：最新科学与尖端科技走出试验室，国家地理频道紧随全球最热门的科技以及尖端技术，一一解析专属名词背后的意义，以全新的科学视角刨析人们在生活中的各种科技奇异现象、社会行为、尖端技术。《伟大建筑》、《难以置信的人类机器》等一系列全球特别节目将带领观众们细细观察人类重大成就的由来！ 风云盛宴：国家地理获奖节目集锦国家地理高水准、大制作的获奖大片展播。我们的摄影师深入现场、将种种奇观真实呈现。凭借国家地理频道的高素质水准，荟萃精彩，呈现世界顶级水准的画面、将出神入化的节目为您展现。狂野周末：屡获赞誉的动物大片月度“主题周”特别呈现通过享誉全球，制作精良的动物自然类节目，国家地理频道真诚邀请您加入探索野生世界的精彩刺激之旅。世界顶级的科学家，电视节目制作者，技术专业人员组成的制作团队共同努力，为您呈现诸如《掠食动物》、《猎人猎物》等多部耗资数百万美元的经典节目。让您尽饱眼福！</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509182000 +0800" stop="20260509191500 +0800">
+    <title lang="zh">动物星球</title>
+    <desc lang="zh">快乐宠物频道每天3小时Discovery国内唯一授权播出动物星球系列节目，动物星球系列节目，以展现动物来娱乐大众，节目类型广泛，涵盖与动物相关的所有最佳节目，从经久不衰的野生动物和自然类纪录片，到情节生动、场面真实的动作剧情片，每天3小时全新的动物星球系列节目绝对让喜欢动物的你大饱眼福。</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509191500 +0800" stop="20260509192000 +0800">
+    <title lang="zh">纪实风云</title>
+    <desc lang="zh">纪实栏目</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509192000 +0800" stop="20260509195500 +0800">
+    <title lang="zh">纪录时间</title>
+    <desc lang="zh">特别节目《纪录时间》，用平实的视角，真实的镜头记录百姓平凡的生活，文化名家的成长历程，回顾历史，真实再现，以细腻的镜头语言把握文化的脉搏。</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509195500 +0800" stop="20260509204000 +0800">
+    <title lang="zh">点赞中国</title>
+    <desc lang="zh">《点赞中国》以成长、记忆、信念、力量、复兴、引领、中国气质为网络关键词，精心构思、内涵丰富，七大篇章，多形式、全方位、立体化集中展示了2016年以来在重大活动、重大主题、重大事件中积极发声、传递正能量、在网上产生良好反响的榜样及作品，充分展现以习近平同志为核心的党中央治国理政新理念、新思想、新战略和取得的历史性成就，树立爱党爱国、向上向善的正能量导向，让网络空间正能量更加充沛，主旋律更加高昂，为迎接党的十九大胜利召开营造良好舆论氛围。</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509204000 +0800" stop="20260509211000 +0800">
+    <title lang="zh">新闻当事人</title>
+    <desc lang="zh">周末晚18：00《新闻当事人》是80后青年发声的一档新闻节目，节目核心调查记者群全都是80后。以新闻当事人为核心，以事件各相关人、围观者为话题支撑，关注社会群体心理需求、现实困境、焦点话题，引发观众共鸣。</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509211000 +0800" stop="20260509221000 +0800">
+    <title lang="zh">历史片场</title>
+    <desc lang="zh">金鹰纪实频道下栏目</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509221000 +0800" stop="20260509223000 +0800">
+    <title lang="zh">纪实真好看</title>
+    <desc lang="zh">纪录片栏目</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509223000 +0800" stop="20260509223500 +0800">
+    <title lang="zh">纪实风云</title>
+    <desc lang="zh">纪实栏目</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509223500 +0800" stop="20260509232000 +0800">
+    <title lang="zh">探索</title>
+    <desc lang="zh">最广博的科普栏目。节目涵盖引领人类了解自身生存的宇宙、航天、人文、地理、历史、考古、旅游、冒险、人体、生命、艺术、文化、动物、生物、前沿科技、奇闻奇观等纪录片类节目，为观众解开一片神秘的世界。</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509232000 +0800" stop="20260509235000 +0800">
+    <title lang="zh">传奇</title>
+    <desc lang="zh">《传奇》（《SAGA》）是一部大型纪录片，包括自然传奇、人文传奇、战争传奇和科学传奇四个系列。英文名《SAGA》中文名《传奇》，介绍的很全面，讲人类发展史，生物发进化，惊险刺激的真实事件，分类很详细，是一部很经典和全面的纪录片，全世界多个电视台包括大陆很多地方电视台都有转播。</desc>
+  </programme>
+  <programme channel="金鹰纪实" start="20260509235000 +0800" stop="20260510000000 +0800">
     <title lang="zh">看世界</title>
     <desc lang="zh">栏目宣传词：关注国际风云变幻，浏览世界风情，领略人间真情，站在《看世界》，世界与您零距离。《看世界》是一档简明与厚重、硬性与软性相结合的综合性国际新闻。</desc>
   </programme>
